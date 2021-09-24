@@ -1,0 +1,22 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "COVID-19 Active Cases (10 Oct 2020)",
+  "projection": {"type": "equalEarth"},
+  "width": 800,
+  "height": 600,
+  "data": {
+    "url": "https://github.com/GuyDavis1/Week-9-Homework/blob/main/data/output_smol.json",
+    "format": {
+          "type": "topojson",
+          "feature": "vic_locality_pid_linkage"
+        }
+  },
+
+  "mark": {
+    "type": "geoshape",
+    "fill": "lightgray",
+    "stroke": "white"}
+
+
+
+}
