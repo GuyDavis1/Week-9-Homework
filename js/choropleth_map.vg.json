@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "COVID-19 Active Cases (10 Oct 2020)",
+  "title": "2021 Median Rent by suburb",
   "width": 800,
   "height": 600,
   "data": {
@@ -14,13 +14,13 @@
       "lookup": "properties.LOC_NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/eda_summary.csv"
+          "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/suburb_rents.csv"
         },
-        "key": "burbs",
-        "fields": ["med_rent"]
+        "key": "Suburb",
+        "fields": ["Median"]
       }
     },
-    {"calculate": "datum.med_rent", "as": "median rent"}
+    {"calculate": "datum.Median", "as": "median rent"}
   ],
   "projection": {
     "type": "equirectangular"
