@@ -1,12 +1,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "rents",
-  "projection": {"type": "identity", "reflectY": true},
+  "projection": {"type": "equirectangular"},
+
   "width": 800,
   "height": 600,
 
   "data": {
-    "url": "https://github.com/GuyDavis1/Week-9-Homework/blob/main/data/vic_localities.json",
+    "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/output_smol.topojson",
     "format": {
           "type": "topojson",
           "feature": "vic_localities"
