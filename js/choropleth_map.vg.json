@@ -49,15 +49,15 @@
   ],
   "projection": {
     "type": "conicEqualArea",
-<<<<<<< HEAD
+
     "parallels":[144,-38],
     "center": [145,-38],
     
       "scale":30000
     
-=======
-    "parallels":[144.5,-38]
->>>>>>> bd91d6f3380d96bb7b3af10cacc82821d69ad47a
+
+    
+
  
   },
 
