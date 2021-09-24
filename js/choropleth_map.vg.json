@@ -16,7 +16,7 @@
         "data": {
           "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/suburb_rents.csv"
         },
-        "key": "Suburb",
+        "key": "suburb",
         "fields": ["Median"]
       }
     },
