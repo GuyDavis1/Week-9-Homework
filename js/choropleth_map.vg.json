@@ -38,7 +38,7 @@
   ],
   "projection": {
     "type": "conicEqualArea",
-    "parallels":[144,-38]
+    "parallels":[144.5,-38]
  
   },
 
