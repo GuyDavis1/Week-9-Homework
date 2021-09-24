@@ -1,0 +1,43 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "COVID-19 Active Cases (10 Oct 2020)",
+  "width": 800,
+  "height": 600,
+  "data": {
+    "url": "/data/output_smol.json",
+    "format": {
+          "type": "topojson",
+          "feature": "vic_locality_pid_linkage"
+        }
+  },
+  "transform": [{
+      "lookup": "properties.NAME",
+      "from": {
+        "data": {
+          "url": "eda_summary.csv"
+        },
+        "key": "burbs",
+        "fields": ["median"]
+      }
+    },
+    {"calculate": "datum.median + 0.1", "as": "median rent"}
+  ],
+  "projection": {
+    "type": "equirectangular"
+  },
+  "mark": {
+    "type": "geoshape"
+    },
+  "encoding": {
+    "color": {
+      "field": "median rent",
+      "type": "quantitative",
+      "scale": {"type": "log"}
+    },
+    "tooltip": [
+      {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+      {"field": "Active", "type": "quantitative"}
+    ]
+  }
+
+}
