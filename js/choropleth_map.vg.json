@@ -14,30 +14,28 @@
       "lookup": "properties.LOC_NAME",
       "from": {
         "data": {
-          "url": "https://github.com/GuyDavis1/Week-9-Homework/blob/main/data/eda_summary.csv"
+          "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/eda_summary.csv"
         },
         "key": "burbs",
-        "fields": ["Median"]
+        "fields": ["med_rent"]
       }
     },
-    {"calculate": "datum.median + 0.1", "as": "median rent"}
+    {"calculate": "datum.med_rent", "as": "median rent"}
   ],
   "projection": {
     "type": "equirectangular"
   },
   "mark": {
-    "type": "geoshape",
-    "stroke": "white"},
+    "type": "geoshape"},
     
   "encoding": {
     "color": {
-      "field": "median",
-      "type": "quantitative",
-      "scale": {"type": "log"}
+      "field": "median rent",
+      "type": "quantitative"
     },
     "tooltip": [
-      {"field": "properties.LOC_NAME", "type": "nominal", "title": "Country"},
-      {"field": "Active", "type": "quantitative"}
+      {"field": "properties.LOC_NAME", "type": "nominal", "title": "suburb"},
+      {"field": "median rent", "type": "quantitative"}
     ]
   }
 
