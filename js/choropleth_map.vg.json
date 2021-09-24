@@ -18,7 +18,7 @@
             "type": "topojson",
             "feature": "vic_localities"
           }
-    }, "mark": {"type": "geoshape","fill": "#EEEEEE","stroke": "white"}
+    }, "mark": {"type": "geoshape","fill": "#EEEEEE","stroke": "#EEEEEE"}
   },
     {"data": {
     "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/output_smol.topojson",
