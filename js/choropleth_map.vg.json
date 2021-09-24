@@ -8,10 +8,7 @@
     
     
     
-    
-    
-    
-    
+ 
     "data": {
       "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/output_smol.topojson",
       "format": {
@@ -40,7 +37,9 @@
     {"calculate": "datum.Median", "as": "median rent"}
   ],
   "projection": {
-    "type": "equirectangular"
+    "type": "conicEqualArea",
+    "parallels":[144,-38]
+ 
   },
 
   "mark": {
