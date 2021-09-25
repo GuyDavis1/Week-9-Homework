@@ -54,11 +54,6 @@
     "center": [145,-38],
     
       "scale":30000
-    
-
-    
-
- 
   },
 
   "mark": {
@@ -68,7 +63,11 @@
   "encoding": {
     "color": {
       "field": "median rent",
-      "type": "quantitative"
+      
+      "type": "quantitative",
+      "scale":{"domain":[350,400,500,600,700],
+      "range":["#0d0887","#9c179e","#ed7953","#f0f921","#f0f921"]
+      }
     },
     "tooltip": [
       {"field": "properties.LOC_NAME", "type": "nominal", "title": "suburb"},
