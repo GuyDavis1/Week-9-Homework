@@ -1,0 +1,94 @@
+
+
+
+
+
+
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A bubble plot showing the relationship between prices and rents",
+    "width": 500,"height": 300,
+
+
+    "params": [
+      {"name":"property_type",
+      
+    
+      "bind":
+      
+      { "input":"select",
+      
+      "options":[null,"unit","house"],"labels":["all","units","houses"], "name":"Property Type Selection:"}
+    }
+    ],
+
+
+
+    "layer" :[{
+    "data": {
+      "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/main.csv"
+    },
+   
+    "transform": [{"filter": "property_type == null || datum.type == property_type"}],
+    "mark": "circle",
+    "encoding": {
+   
+      "y": {
+        "field": "median_rent",
+        "type": "quantitative",
+        "scale": {"domainMin":200,"domainMax":1000,"type": "log","base":2}
+        
+      },
+      "x": {
+        "field": "median_price",
+        "scale": {"domainMax":3000000,"domainMin":200000,"type": "log","base":10}
+
+
+       
+      }, "tooltip" : [
+        {"field":"Suburb","type":"nominal","title":"Suburb"},
+        {"field": "median_price", "type": "quantitative", "title": "median price"},
+        {"field": "median_rent", "type": "quantitative"},
+        {"field":"Count","type":"quantitative","title":"count of rental properties"},
+        {"field":"type","type":"nominal","title":"property type"}],
+      "size": {"field": "Count", "type": "quantitative"},
+      "color": {"field": "type"}
+    
+    }
+    },
+    {
+        "data":{"values": [
+          {"median_rent": 153, "median_price": 200000.0,"dash":false},
+          {"median_rent": 153, "median_price": 200000.0,"dash":true},
+          {"median_rent":  1153.8, "median_price": 1500000.0,"dash":true}]},
+          "mark": "line",
+          "encoding": {
+            "x": {"field": "median_price", "type": "quantitative","scale":{"domainMax":3000000,"domainMin":200000,"type": "log"}},
+            "y": {"field": "median_rent", "type": "quantitative","scale":{"domainMin":200,"domainMax":1000,"type": "log"}},
+            "strokeDash":{"field":"dash","type":"nominal"},
+            "color":{"value":"black"}
+          }
+
+
+    },
+  
+    {
+      "data":{"values": [
+        {"median_rent": 210, "median_price": 500000.0,"text":"the black line represents"},
+        {"median_rent": 190, "median_price": 500000.0,"text":"annual rent being worth 4%"},
+        {"median_rent": 173, "median_price": 500000.0,"text":"of a property's value"},
+        {"median_rent": 900, "median_price": 300000.0,"text":"CBD Units (pre pandemic) attracted higher rents"},
+        {"median_rent": 820, "median_price": 300000.0,"text":"than similarly priced Units elsewhere, making"},
+        {"median_rent": 750, "median_price": 300000.0,"text":"them attractive to some investors"}
+                      ]},
+        "mark": "text",
+        "encoding": {
+          "x": {"field": "median_price", "type": "quantitative","scale":{"domainMax":3000000,"domainMin":200000,"type": "log"}},
+          "y": {"field": "median_rent", "type": "quantitative","scale":{"domainMin":200,"domainMax":1000,"type": "log"}},
+          "text": {"field": "text"}
+        }
+
+
+  }]
+  }
+  
