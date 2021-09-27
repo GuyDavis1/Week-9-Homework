@@ -1,620 +1,620 @@
-,suburb
-0,Abbotsford
-1,Aberfeldie
-2,Airport West
-3,Albert Park
-4,Albion
-7,Alphington
-8,Altona
-9,Altona East
-10,Altona Meadows
-11,Altona North
-14,Ardeer
-15,Armadale
-16,Ascot Vale
-17,Ashburton
-18,Ashwood
-19,Aspendale
-20,Avondale Heights
-23,Balaclava
-28,Balwyn
-29,Balwyn North
-31,Baxter
-32,Bayswater
-33,Bayswater North
-34,Beaconsfield
-35,Beaumaris
-42,Bentleigh
-43,Bentleigh East
-44,Berwick
-45,Bittern
-47,Black Rock
-48,Blackburn
-49,Blackburn North
-50,Blackburn South
-51,Bonbeach
-52,Boronia
-53,Box Hill
-54,Box Hill North
-55,Box Hill South
-56,Braybrook
-57,Briar Hill
-59,Brighton
-60,Brighton East
-61,Broadmeadows
-62,Brookfield
-63,Brooklyn
-65,Brunswick
-66,Brunswick East
-67,Brunswick West
-68,Bulleen
-69,Bundoora
-70,Burnley
-71,Burwood
-72,Burwood East
-73,Cairnlea
-74,Camberwell
-76,Canterbury
-77,Capel Sound
-78,Carlton
-79,Carlton North
-80,Carnegie
-81,Caroline Springs
-82,Carrum
-83,Carrum Downs
-85,Caulfield
-86,Caulfield East
-87,Caulfield North
-88,Caulfield South
-89,Chadstone
-90,Chelsea
-91,Chelsea Heights
-92,Cheltenham
-93,Cheltenham East
-94,Cheltenham North
-95,Chirnside Park
-96,Clarinda
-97,Clayton
-99,Clayton South
-100,Clifton Hill
-102,Coburg
-104,Coburg North
-106,Collingwood
-111,Craigieburn
-112,Cranbourne
-113,Cranbourne North
-114,Cranbourne West
-115,Cremorne
-116,Crib Point
-117,Croydon
-118,Croydon North
-119,Croydon South
-120,Dallas
-121,Dandenong
-122,Dandenong North
-124,Deepdene
-125,Deer Park
-127,Diamond Creek
-128,Dingley Village
-130,Docklands
-131,Doncaster
-132,Doncaster East
-133,Donvale
-134,Doreen
-135,Doveton
-136,Dromana
-140,Eaglemont
-144,East Melbourne
-146,Edithvale
-147,Elsternwick
-148,Eltham
-149,Elwood
-150,Endeavour Hills
-151,Epping
-152,Essendon
-153,Essendon North
-154,Eumemmerring
-156,Fairfield
-157,Fawkner
-158,Ferntree Gully
-160,Fitzroy
-161,Fitzroy North
-162,Flemington
-164,Footscray
-165,Forest Hill
-167,Frankston
-168,Frankston South
-169,Gardenvale
-170,Garfield
-174,Glen Huntly
-175,Glen Iris
-176,Glen Waverley
-177,Glenroy
-180,Gowanbrae
-181,Greensborough
-183,Hadfield
-184,Hallam
-187,Hampton
-188,Hampton East
-189,Hampton Park
-191,Hastings
-192,Hawthorn
-193,Hawthorn East
-196,Heathmont
-197,Heidelberg
-198,Heidelberg Heights
-199,Heidelberg West
-201,Highett
-204,Hoppers Crossing
-206,Hughesdale
-207,Huntingdale
-209,Ivanhoe
-210,Ivanhoe East
-211,Jacana
-213,Junction Village
-215,Keilor Downs
-216,Keilor East
-218,Kensington
-219,Kew
-221,Keysborough
-223,Kilsyth
-224,Kingsbury
-225,Kingsville
-226,Knoxfield
-228,Kooyong
-235,Lalor
-236,Langwarrin
-238,Laverton
-242,Lilydale
-246,Lower Plenty
-247,Lyndhurst
-248,Macleod
-250,Maidstone
-251,Malvern
-252,Malvern East
-255,Maribyrnong
-257,Mccrae
-259,Meadow Heights
-260,Melbourne
-262,Melton South
-263,Mentone
-264,Mernda
-265,Middle Park
-267,Mill Park
-268,Mitcham
-270,Mont Albert
-271,Mont Albert North
-272,Montmorency
-273,Moonee Ponds
-274,Moorabbin
-275,Mooroolbark
-277,Mordialloc
-278,Mornington
-281,Mount Eliza
-282,Mount Evelyn
-283,Mount Martha
-285,Mount Waverley
-286,Mulgrave
-287,Murrumbeena
-289,Narre Warren
-292,Newport
-294,Niddrie
-295,Noble Park
-298,North Melbourne
-299,Northcote
-300,Notting Hill
-302,Nunawading
-303,Oak Park
-304,Oakleigh
-305,Oakleigh East
-306,Oakleigh South
-308,Officer
-309,Ormond
-311,Pakenham
-312,Parkdale
-313,Parkville
-314,Pascoe Vale
-315,Pascoe Vale South
-316,Patterson Lakes
-318,Point Cook
-320,Port Melbourne
-323,Prahran
-324,Preston
-328,Research
-329,Reservoir
-330,Richmond
-332,Ringwood
-333,Ringwood East
-334,Ringwood North
-336,Ripponlea
-338,Rosanna
-339,Rosebud
-341,Rowville
-342,Roxburgh Park
-343,Rye
-344,Safety Beach
-347,Sandringham
-348,Scoresby
-349,Seaford
-351,Seddon
-354,Skye
-355,Somerville
-357,South Kingsville
-358,South Melbourne
-359,South Morang
-360,South Yarra
-361,Southbank
-362,Spotswood
-364,Springvale
-365,Springvale South
-366,St Albans
-368,St Kilda
-369,St Kilda East
-370,St Kilda West
-374,Strathmore
-376,Sunbury
-377,Sunshine
-378,Sunshine North
-379,Sunshine West
-380,Surrey Hills
-382,Sydenham
-383,Syndal
-384,Tarneit
-386,Taylors Hill
-387,Templestowe
-388,Templestowe Lower
-389,Thomastown
-390,Thornbury
-391,Toorak
-395,Travancore
-396,Truganina
-397,Tullamarine
-398,Tyabb
-399,Vermont
-400,Vermont South
-401,Viewbank
-405,Wantirna
-406,Wantirna South
-409,Watsonia
-411,Werribee
-412,Werribee South
-413,West Footscray
-414,West Melbourne
-418,Westmeadows
-422,Williams Landing
-423,Williamstown
-424,Williamstown North
-425,Windsor
-427,Wollert
-430,Wyndham Vale
-431,Yarra Junction
-433,Yarraville
-437,Albanvale
-441,Aspendale Gardens
-442,Attwood
-447,Balnarring
-448,Balnarring Beach
-454,Belgrave
-455,Belgrave Heights
-456,Belgrave South
-462,Blairgowrie
-463,Blind Bight
-468,Botanic Ridge
-475,Bunyip
-476,Burnside
-477,Burnside Heights
-479,Campbellfield
-483,Cape Schanck
-492,Clyde
-493,Clyde North
-496,Cockatoo
-498,Coldstream
-500,Coolaroo
-507,Cranbourne East
-508,Cranbourne South
-510,Croydon Hills
-515,Delahey
-517,Derrimut
-518,Diggers Rest
-521,Donnybrook
-526,East Warburton
-532,Eltham North
-533,Emerald
-535,Essendon West
-537,Eynesbury
-539,Ferny Creek
-540,Fingal
-542,Flinders
-544,Frankston North
-547,Garden City
-548,Gembrook
-549,Gladstone Park
-556,Greenvale
-560,Heatherton
-567,Hurstbridge
-579,Kalkallo
-580,Kallista
-581,Kalorama
-584,Kealba
-585,Keilor
-586,Keilor Lodge
-587,Keilor Park
-589,Kew East
-593,Kilsyth South
-595,Kings Park
-604,Launching Place
-612,Lynbrook
-613,Lysterfield
-619,Manor Lakes
-630,Mickleham
-631,Millgrove
-637,Monbulk
-638,Montrose
-641,Mount Dandenong
-648,Narre Warren North
-649,Narre Warren South
-659,Noble Park North
-663,Officer South
-664,Olinda
-669,Park Orchards
-671,Pearcedale
-674,Plenty
-680,Portsea
-681,Princes Hill
-686,Red Hill
-690,Rockbank
-697,Sandhurst
-699,Sassafras
-702,Seabrook
-703,Seaholme
-705,Selby
-706,Seville
-713,Somers
-714,Sorrento
-715,St Andrews Beach
-717,St Helena
-729,Taylors Lakes
-730,Tecoma
-732,The Basin
-734,The Patch
-741,Tooradin
-742,Tootgarook
-746,Upper Ferntree Gully
-747,Upwey
-752,Wandin North
-753,Warburton
-754,Warneet
-756,Warrandyte
-757,Warranwood
-758,Waterways
-759,Watsonia North
-760,Wattle Glen
-765,Wheelers Hill
-769,Wonga Park
-771,Woori Yallock
-775,Yallambie
-777,Yarra Glen
-0,Altona Gate
-1,Armadale North
-2,Arthurs Creek
-3,Arthurs Seat
-4,Auburn
-5,Auburn South
-6,Avonsleigh
-7,Balwyn East
-8,Bangholme
-9,Banyule
-10,Batman
-11,Beaconsfield Upper
-12,Bedford Road
-13,Beenak
-14,Bellfield
-15,Belvedere Park
-16,Bend Of Islands
-17,Bend of Islands
-18,Bennettswood
-19,Big Pats Creek
-20,Black Rock North
-21,Boneo
-22,Box Hill Central
-23,Braeside
-24,Braybrook North
-25,Brentford Square
-26,Brighton North
-27,Brighton Road
-28,Brunswick Lower
-29,Brunswick North
-30,Brunswick South
-31,Bulla
-32,Bunyip North
-33,Burnley North
-34,Burwood Heights
-35,Calder Park
-36,Camberwell East
-37,Camberwell North
-38,Camberwell South
-39,Camberwell West
-40,Cannons Creek
-41,Cardinia
-42,Carlton South
-43,Caulfield Junction
-44,Central Park
-45,Chadstone Centre
-46,Chapel Street North
-47,Christmas Hills
-48,Clematis
-49,Coatesville
-50,Cocoroc
-51,Collingwood North
-52,Cora Lynn
-53,Cotham
-54,Cottles Bridge
-55,Cromer
-56,Dandenong East
-57,Dandenong South
-58,Darling
-59,Deer Park East
-60,Deer Park North
-61,Dendy
-62,Devon Meadows
-63,Dewhurst
-64,Dixons Creek
-65,Don Valley
-66,Doncaster Heights
-67,Dunearn
-68,Essendon Fields
-69,Exford
-70,Fawkner East
-71,Fawkner North
-72,Fountain Gate
-73,Frankston East
-74,Frankston Heights
-75,Garfield North
-76,Gilderoy
-77,Gladysdale
-78,Glengala
-79,Greythorn
-80,Gruyere
-81,Guys Hill
-82,Hampton North
-83,Harkaway
-84,Hartwell
-85,Hawksburn
-86,Hawthorn North
-87,Hawthorn West
-88,Highpoint City
-89,Hillside
-90,Hoddles Creek
-91,Holmesglen
-92,Hopetoun Gardens
-93,Houston
-94,Iona
-95,Ivanhoe North
-96,Kangaroo Ground
-97,Karingal
-98,Karingal Centre
-99,Keilor North
-100,Keon Park
-101,Kerrimuir
-102,Kingsville West
-103,Knox City Centre
-104,Kunyung
-105,La Trobe University
-106,Laburnum
-107,Lalor Plaza
-108,Langwarrin South
-109,Laverton North
-110,Laverton Raaf
-111,Little River
-112,Lysterfield South
-113,Macclesfield
-114,Macleod West
-115,Main Ridge
-116,Malvern North
-117,Mambourin
-118,Maryknoll
-119,McCrae
-120,McKinnon
-121,Mcmahons Creek
-122,Melbourne Airport
-123,Melbourne University
-124,Mentone East
-125,Menzies Creek
-126,Merlynston
-127,Merricks
-128,Merricks Beach
-129,Merricks North
-130,Middle Camberwell
-131,Mitcham North
-132,Monash University
-133,Moonee Vale
-134,Moorabbin Airport
-135,Moorooduc
-136,Morang South
-137,Moreland
-138,Moreland West
-139,Mount Burnett
-140,Mount Cottrell
-141,Mountain Gate
-142,Nangana
-143,Nar Nar Goon
-144,Nar Nar Goon North
-145,Narre Warren East
-146,Noble Park East
-147,North Road
-148,North Warrandyte
-149,Northcote South
-150,Northland Centre
-151,Nutfield
-152,Oaklands Junction
-153,Pakenham South
-154,Pakenham Upper
-155,Panton Hill
-156,Patterson
-157,Pines Forest
-158,Pinewood
-159,Plumpton
-160,Point Leo
-161,Powelltown
-162,Prahran East
-163,Preston Lower
-164,Preston South
-165,Preston West
-166,Quandong
-167,Rangeview
-168,Ravenhall
-169,Red Hill South
-170,Reefton
-171,Reservoir East
-172,Reservoir North
-173,Reservoir South
-174,Richmond East
-175,Richmond North
-176,Richmond South
-177,Robinson
-178,Rosebud Plaza
-179,Rythdale
-180,Saint Helena
-181,Sandown Village
-182,Sassafras Gully
-183,Seddon West
-184,Seville East
-185,Sherbrooke
-186,Shoreham
-187,Silvan
-188,Smiths Gully
-189,Somerton
-190,Southland Centre
-191,Steels Creek
-192,Strathewen
-193,Strathmore Heights
-194,Surrey Hills North
-195,Surrey Hills South
-196,Tarrawarra
-197,The Pines
-198,Three Bridges
-199,Tonimbuk
-200,Tottenham
-201,Tremont
-202,Tuerong
-203,Tynong
-204,Tynong North
-205,University Of Melbourne
-206,Vervale
-207,Wandin East
-208,Warrandyte South
-209,Watergardens
-210,Watsons Creek
-211,Wattle Park
-212,Waverley Gardens
-213,Wesburn
-214,Wildwood
-215,Wishart
-216,Woodstock
-217,World Trade Centre
-218,Yan Yean
-219,Yarrambat
-220,Yarraville West
-221,Yellingbo
-222,Yering
-223,Yuroke
+,suburb,unit_count,house_count,ratio
+0,Abbotsford,134.0,53.0,0.7120418848167539
+1,Aberfeldie,10.0,35.0,0.24489795918367346
+2,Airport West,59.0,101.0,0.3719512195121951
+3,Albert Park,15.0,88.0,0.1588785046728972
+4,Albion,44.0,22.0,0.6571428571428571
+7,Alphington,46.0,31.0,0.5925925925925926
+8,Altona,97.0,112.0,0.4647887323943662
+9,Altona East,14.0,37.0,0.2909090909090909
+10,Altona Meadows,15.0,74.0,0.1827956989247312
+11,Altona North,57.0,119.0,0.3277777777777778
+14,Ardeer,19.0,27.0,0.42
+15,Armadale,105.0,69.0,0.601123595505618
+16,Ascot Vale,109.0,142.0,0.43529411764705883
+17,Ashburton,30.0,82.0,0.27586206896551724
+18,Ashwood,36.0,47.0,0.4367816091954023
+19,Aspendale,45.0,82.0,0.35877862595419846
+20,Avondale Heights,12.0,102.0,0.11864406779661017
+23,Balaclava,76.0,32.0,0.6964285714285714
+28,Balwyn,79.0,116.0,0.40703517587939697
+29,Balwyn North,52.0,233.0,0.18685121107266436
+31,Baxter,9.0,34.0,0.23404255319148937
+32,Bayswater,112.0,88.0,0.5588235294117647
+33,Bayswater North,66.0,89.0,0.4276729559748428
+34,Beaconsfield,21.0,102.0,0.18110236220472442
+35,Beaumaris,45.0,138.0,0.25133689839572193
+42,Bentleigh,180.0,115.0,0.6086956521739131
+43,Bentleigh East,177.0,283.0,0.3857758620689655
+44,Berwick,118.0,619.0,0.16194331983805668
+45,Bittern,17.0,42.0,0.30158730158730157
+47,Black Rock,43.0,56.0,0.4368932038834951
+48,Blackburn,90.0,123.0,0.423963133640553
+49,Blackburn North,26.0,69.0,0.2828282828282828
+50,Blackburn South,32.0,77.0,0.3008849557522124
+51,Bonbeach,90.0,60.0,0.5974025974025974
+52,Boronia,221.0,216.0,0.5056689342403629
+53,Box Hill,152.0,41.0,0.7817258883248731
+54,Box Hill North,82.0,86.0,0.4883720930232558
+55,Box Hill South,51.0,68.0,0.43089430894308944
+56,Braybrook,63.0,113.0,0.3611111111111111
+57,Briar Hill,23.0,22.0,0.5102040816326531
+59,Brighton,169.0,210.0,0.4464751958224543
+60,Brighton East,57.0,170.0,0.2554112554112554
+61,Broadmeadows,74.0,67.0,0.5241379310344828
+62,Brookfield,0.0,144.0,0.013513513513513514
+63,Brooklyn,37.0,15.0,0.6964285714285714
+65,Brunswick,219.0,168.0,0.5652173913043478
+66,Brunswick East,243.0,66.0,0.7827476038338658
+67,Brunswick West,229.0,77.0,0.7451612903225806
+68,Bulleen,50.0,88.0,0.36619718309859156
+69,Bundoora,124.0,219.0,0.3631123919308357
+70,Burnley,6.0,0.0,0.8
+71,Burwood,122.0,83.0,0.5933014354066986
+72,Burwood East,46.0,94.0,0.3333333333333333
+73,Cairnlea,7.0,62.0,0.1232876712328767
+74,Camberwell,117.0,150.0,0.43911439114391143
+76,Canterbury,31.0,78.0,0.2920353982300885
+77,Capel Sound,40.0,82.0,0.3333333333333333
+78,Carlton,198.0,25.0,0.8810572687224669
+79,Carlton North,22.0,59.0,0.2823529411764706
+80,Carnegie,270.0,66.0,0.8
+81,Caroline Springs,52.0,218.0,0.19708029197080293
+82,Carrum,65.0,28.0,0.6907216494845361
+83,Carrum Downs,130.0,301.0,0.30344827586206896
+85,Caulfield,45.0,19.0,0.6911764705882353
+86,Caulfield East,11.0,10.0,0.52
+87,Caulfield North,148.0,91.0,0.6172839506172839
+88,Caulfield South,79.0,93.0,0.4602272727272727
+89,Chadstone,121.0,35.0,0.76875
+90,Chelsea,153.0,58.0,0.7209302325581395
+91,Chelsea Heights,14.0,53.0,0.22535211267605634
+92,Cheltenham,150.0,119.0,0.5567765567765568
+93,Cheltenham East,13.0,45.0,0.24193548387096775
+94,Cheltenham North,27.0,39.0,0.4142857142857143
+95,Chirnside Park,28.0,161.0,0.15544041450777202
+96,Clarinda,33.0,40.0,0.45454545454545453
+97,Clayton,164.0,38.0,0.8058252427184466
+99,Clayton South,15.0,37.0,0.30357142857142855
+100,Clifton Hill,42.0,52.0,0.4489795918367347
+102,Coburg,107.0,225.0,0.3244047619047619
+104,Coburg North,33.0,61.0,0.35714285714285715
+106,Collingwood,145.0,36.0,0.7945945945945946
+111,Craigieburn,116.0,905.0,0.1151219512195122
+112,Cranbourne,50.0,267.0,0.16199376947040497
+113,Cranbourne North,8.0,271.0,0.0353356890459364
+114,Cranbourne West,19.0,292.0,0.06666666666666667
+115,Cremorne,51.0,21.0,0.6973684210526315
+116,Crib Point,12.0,45.0,0.22950819672131148
+117,Croydon,254.0,259.0,0.4951644100580271
+118,Croydon North,38.0,72.0,0.3508771929824561
+119,Croydon South,16.0,65.0,0.21176470588235294
+120,Dallas,17.0,56.0,0.24675324675324675
+121,Dandenong,267.0,154.0,0.6329411764705882
+122,Dandenong North,49.0,162.0,0.2372093023255814
+124,Deepdene,8.0,15.0,0.37037037037037035
+125,Deer Park,32.0,179.0,0.15813953488372093
+127,Diamond Creek,22.0,127.0,0.1568627450980392
+128,Dingley Village,29.0,63.0,0.3229166666666667
+130,Docklands,314.0,0.0,0.9937106918238994
+131,Doncaster,218.0,160.0,0.5759162303664922
+132,Doncaster East,233.0,234.0,0.4989384288747346
+133,Donvale,37.0,76.0,0.3333333333333333
+134,Doreen,11.0,377.0,0.03316326530612245
+135,Doveton,41.0,118.0,0.26380368098159507
+136,Dromana,37.0,114.0,0.25161290322580643
+140,Eaglemont,10.0,36.0,0.24
+144,East Melbourne,59.0,15.0,0.782051282051282
+146,Edithvale,79.0,65.0,0.5472972972972973
+147,Elsternwick,116.0,48.0,0.7023809523809523
+148,Eltham,82.0,151.0,0.35443037974683544
+149,Elwood,274.0,100.0,0.7301587301587301
+150,Endeavour Hills,67.0,228.0,0.23076923076923078
+151,Epping,59.0,299.0,0.1685082872928177
+152,Essendon,208.0,136.0,0.603448275862069
+153,Essendon North,51.0,17.0,0.7361111111111112
+154,Eumemmerring,24.0,17.0,0.5777777777777777
+156,Fairfield,57.0,40.0,0.5841584158415841
+157,Fawkner,58.0,123.0,0.32432432432432434
+158,Ferntree Gully,112.0,238.0,0.3220338983050847
+160,Fitzroy,101.0,70.0,0.5885714285714285
+161,Fitzroy North,53.0,100.0,0.3503184713375796
+162,Flemington,51.0,51.0,0.5
+164,Footscray,228.0,109.0,0.6744868035190615
+165,Forest Hill,42.0,76.0,0.36065573770491804
+167,Frankston,319.0,486.0,0.3967861557478368
+168,Frankston South,66.0,249.0,0.21316614420062696
+169,Gardenvale,4.0,0.0,0.75
+170,Garfield,5.0,20.0,0.2413793103448276
+174,Glen Huntly,117.0,13.0,0.8880597014925373
+175,Glen Iris,190.0,187.0,0.5039370078740157
+176,Glen Waverley,201.0,299.0,0.4027777777777778
+177,Glenroy,210.0,138.0,0.6022727272727273
+180,Gowanbrae,10.0,22.0,0.3333333333333333
+181,Greensborough,76.0,190.0,0.28888888888888886
+183,Hadfield,68.0,69.0,0.49645390070921985
+184,Hallam,34.0,74.0,0.32142857142857145
+187,Hampton,93.0,126.0,0.4260089686098655
+188,Hampton East,56.0,59.0,0.48739495798319327
+189,Hampton Park,64.0,252.0,0.20625
+191,Hastings,56.0,132.0,0.3020833333333333
+192,Hawthorn,249.0,122.0,0.6693333333333333
+193,Hawthorn East,185.0,83.0,0.6875
+196,Heathmont,38.0,71.0,0.35398230088495575
+197,Heidelberg,104.0,41.0,0.7114093959731543
+198,Heidelberg Heights,79.0,51.0,0.6044776119402985
+199,Heidelberg West,59.0,53.0,0.5258620689655172
+201,Highett,155.0,114.0,0.575091575091575
+204,Hoppers Crossing,32.0,365.0,0.08478802992518704
+206,Hughesdale,44.0,26.0,0.6216216216216216
+207,Huntingdale,16.0,14.0,0.5294117647058824
+209,Ivanhoe,97.0,58.0,0.6226415094339622
+210,Ivanhoe East,12.0,30.0,0.30434782608695654
+211,Jacana,11.0,18.0,0.3939393939393939
+213,Junction Village,13.0,0.0,0.8823529411764706
+215,Keilor Downs,13.0,60.0,0.19480519480519481
+216,Keilor East,24.0,158.0,0.13978494623655913
+218,Kensington,84.0,86.0,0.4942528735632184
+219,Kew,146.0,184.0,0.4431137724550898
+221,Keysborough,23.0,257.0,0.0880281690140845
+223,Kilsyth,111.0,146.0,0.4329501915708812
+224,Kingsbury,19.0,23.0,0.45652173913043476
+225,Kingsville,27.0,40.0,0.4084507042253521
+226,Knoxfield,38.0,54.0,0.4166666666666667
+228,Kooyong,8.0,0.0,0.8333333333333334
+235,Lalor,49.0,180.0,0.21888412017167383
+236,Langwarrin,128.0,284.0,0.3125
+238,Laverton,26.0,75.0,0.26666666666666666
+242,Lilydale,108.0,170.0,0.3900709219858156
+246,Lower Plenty,28.0,21.0,0.5660377358490566
+247,Lyndhurst,11.0,103.0,0.11016949152542373
+248,Macleod,79.0,76.0,0.5094339622641509
+250,Maidstone,75.0,76.0,0.4967741935483871
+251,Malvern,71.0,74.0,0.4899328859060403
+252,Malvern East,142.0,184.0,0.43636363636363634
+255,Maribyrnong,144.0,89.0,0.6160337552742616
+257,Mccrae,19.0,76.0,0.21212121212121213
+259,Meadow Heights,29.0,108.0,0.2198581560283688
+260,Melbourne,1063.0,0.0,0.9981255857544518
+262,Melton South,38.0,170.0,0.18867924528301888
+263,Mentone,130.0,84.0,0.6055045871559633
+264,Mernda,24.0,306.0,0.07784431137724551
+265,Middle Park,23.0,40.0,0.373134328358209
+267,Mill Park,39.0,219.0,0.15648854961832062
+268,Mitcham,122.0,124.0,0.496
+270,Mont Albert,35.0,25.0,0.578125
+271,Mont Albert North,31.0,43.0,0.4230769230769231
+272,Montmorency,62.0,82.0,0.43243243243243246
+273,Moonee Ponds,172.0,116.0,0.5958904109589042
+274,Moorabbin,36.0,65.0,0.3619047619047619
+275,Mooroolbark,83.0,255.0,0.24853801169590642
+277,Mordialloc,98.0,55.0,0.6369426751592356
+278,Mornington,173.0,383.0,0.3125
+281,Mount Eliza,31.0,290.0,0.10153846153846154
+282,Mount Evelyn,9.0,115.0,0.0859375
+283,Mount Martha,27.0,123.0,0.18831168831168832
+285,Mount Waverley,151.0,262.0,0.3669064748201439
+286,Mulgrave,40.0,176.0,0.19090909090909092
+287,Murrumbeena,102.0,52.0,0.6582278481012658
+289,Narre Warren,51.0,302.0,0.1484593837535014
+292,Newport,50.0,134.0,0.2765957446808511
+294,Niddrie,27.0,77.0,0.26851851851851855
+295,Noble Park,209.0,153.0,0.5765027322404371
+298,North Melbourne,166.0,40.0,0.8
+299,Northcote,137.0,182.0,0.43034055727554177
+300,Notting Hill,26.0,0.0,0.9333333333333333
+302,Nunawading,78.0,88.0,0.47058823529411764
+303,Oak Park,64.0,58.0,0.5238095238095238
+304,Oakleigh,118.0,43.0,0.7272727272727273
+305,Oakleigh East,51.0,23.0,0.6794871794871795
+306,Oakleigh South,48.0,77.0,0.3875968992248062
+308,Officer,16.0,306.0,0.05521472392638037
+309,Ormond,84.0,43.0,0.6564885496183206
+311,Pakenham,107.0,906.0,0.1071779744346116
+312,Parkdale,84.0,105.0,0.44559585492227977
+313,Parkville,62.0,0.0,0.9696969696969697
+314,Pascoe Vale,175.0,114.0,0.6040955631399317
+315,Pascoe Vale South,43.0,48.0,0.47368421052631576
+316,Patterson Lakes,38.0,50.0,0.43478260869565216
+318,Point Cook,48.0,477.0,0.0945179584120983
+320,Port Melbourne,218.0,115.0,0.6528189910979229
+323,Prahran,211.0,125.0,0.6264705882352941
+324,Preston,263.0,208.0,0.5578947368421052
+328,Research,1.0,20.0,0.12
+329,Reservoir,381.0,359.0,0.5147849462365591
+330,Richmond,336.0,190.0,0.6377358490566037
+332,Ringwood,202.0,127.0,0.6126126126126126
+333,Ringwood East,81.0,73.0,0.5253164556962026
+334,Ringwood North,13.0,94.0,0.13513513513513514
+336,Ripponlea,25.0,0.0,0.9310344827586207
+338,Rosanna,46.0,61.0,0.43243243243243246
+339,Rosebud,85.0,263.0,0.2471590909090909
+341,Rowville,67.0,311.0,0.1806282722513089
+342,Roxburgh Park,15.0,206.0,0.07555555555555556
+343,Rye,10.0,341.0,0.03380281690140845
+344,Safety Beach,80.0,124.0,0.3942307692307692
+347,Sandringham,127.0,94.0,0.5733333333333334
+348,Scoresby,8.0,44.0,0.17857142857142858
+349,Seaford,134.0,202.0,0.4
+351,Seddon,23.0,79.0,0.2358490566037736
+354,Skye,11.0,88.0,0.1262135922330097
+355,Somerville,35.0,155.0,0.19072164948453607
+357,South Kingsville,21.0,28.0,0.4339622641509434
+358,South Melbourne,140.0,91.0,0.6042553191489362
+359,South Morang,47.0,212.0,0.18631178707224336
+360,South Yarra,487.0,99.0,0.8288135593220339
+361,Southbank,534.0,0.0,0.9962825278810409
+362,Spotswood,8.0,25.0,0.2702702702702703
+364,Springvale,64.0,75.0,0.46153846153846156
+365,Springvale South,30.0,49.0,0.3855421686746988
+366,St Albans,111.0,240.0,0.3183098591549296
+368,St Kilda,472.0,58.0,0.8876404494382022
+369,St Kilda East,167.0,40.0,0.8009478672985783
+370,St Kilda West,48.0,15.0,0.746268656716418
+374,Strathmore,25.0,80.0,0.24770642201834864
+376,Sunbury,83.0,543.0,0.1349206349206349
+377,Sunshine,32.0,72.0,0.3148148148148148
+378,Sunshine North,23.0,71.0,0.25510204081632654
+379,Sunshine West,36.0,108.0,0.25675675675675674
+380,Surrey Hills,83.0,109.0,0.4336734693877551
+382,Sydenham,60.0,66.0,0.47692307692307695
+383,Syndal,27.0,43.0,0.3918918918918919
+384,Tarneit,42.0,686.0,0.060109289617486336
+386,Taylors Hill,17.0,102.0,0.15447154471544716
+387,Templestowe,47.0,111.0,0.30246913580246915
+388,Templestowe Lower,62.0,130.0,0.32653061224489793
+389,Thomastown,46.0,126.0,0.2727272727272727
+390,Thornbury,122.0,128.0,0.4881889763779528
+391,Toorak,167.0,85.0,0.66015625
+395,Travancore,36.0,12.0,0.7307692307692307
+396,Truganina,30.0,395.0,0.07459207459207459
+397,Tullamarine,49.0,40.0,0.5483870967741935
+398,Tyabb,11.0,25.0,0.325
+399,Vermont,39.0,85.0,0.3203125
+400,Vermont South,14.0,90.0,0.14814814814814814
+401,Viewbank,7.0,58.0,0.13043478260869565
+405,Wantirna,27.0,96.0,0.2283464566929134
+406,Wantirna South,29.0,117.0,0.20666666666666667
+409,Watsonia,29.0,61.0,0.32978723404255317
+411,Werribee,111.0,599.0,0.15826330532212884
+412,Werribee South,20.0,17.0,0.5365853658536586
+413,West Footscray,109.0,124.0,0.46835443037974683
+414,West Melbourne,147.0,18.0,0.8816568047337278
+418,Westmeadows,39.0,69.0,0.36607142857142855
+422,Williams Landing,11.0,86.0,0.12871287128712872
+423,Williamstown,72.0,131.0,0.357487922705314
+424,Williamstown North,13.0,12.0,0.5172413793103449
+425,Windsor,97.0,53.0,0.6428571428571429
+427,Wollert,52.0,575.0,0.08557844690966719
+430,Wyndham Vale,11.0,279.0,0.04421768707482993
+431,Yarra Junction,8.0,41.0,0.18867924528301888
+433,Yarraville,74.0,183.0,0.29118773946360155
+437,Albanvale,0.0,55.0,0.03389830508474576
+441,Aspendale Gardens,0.0,37.0,0.04878048780487805
+442,Attwood,0.0,27.0,0.06451612903225806
+447,Balnarring,0.0,31.0,0.05714285714285714
+448,Balnarring Beach,0.0,19.0,0.08695652173913043
+454,Belgrave,0.0,66.0,0.02857142857142857
+455,Belgrave Heights,0.0,16.0,0.1
+456,Belgrave South,0.0,11.0,0.13333333333333333
+462,Blairgowrie,0.0,168.0,0.011627906976744186
+463,Blind Bight,0.0,22.0,0.07692307692307693
+468,Botanic Ridge,0.0,125.0,0.015503875968992248
+475,Bunyip,0.0,34.0,0.05263157894736842
+476,Burnside,0.0,43.0,0.0425531914893617
+477,Burnside Heights,0.0,69.0,0.0273972602739726
+479,Campbellfield,0.0,24.0,0.07142857142857142
+483,Cape Schanck,0.0,14.0,0.1111111111111111
+492,Clyde,0.0,202.0,0.009708737864077669
+493,Clyde North,0.0,403.0,0.004914004914004914
+496,Cockatoo,0.0,63.0,0.029850746268656716
+498,Coldstream,0.0,30.0,0.058823529411764705
+500,Coolaroo,0.0,25.0,0.06896551724137931
+507,Cranbourne East,0.0,271.0,0.007272727272727273
+508,Cranbourne South,0.0,18.0,0.09090909090909091
+510,Croydon Hills,0.0,48.0,0.038461538461538464
+515,Delahey,0.0,68.0,0.027777777777777776
+517,Derrimut,0.0,55.0,0.03389830508474576
+518,Diggers Rest,0.0,75.0,0.02531645569620253
+521,Donnybrook,0.0,24.0,0.07142857142857142
+526,East Warburton,0.0,8.0,0.16666666666666666
+532,Eltham North,0.0,62.0,0.030303030303030304
+533,Emerald,0.0,65.0,0.028985507246376812
+535,Essendon West,0.0,18.0,0.09090909090909091
+537,Eynesbury,0.0,47.0,0.0392156862745098
+539,Ferny Creek,0.0,14.0,0.1111111111111111
+540,Fingal,0.0,30.0,0.058823529411764705
+542,Flinders,0.0,29.0,0.06060606060606061
+544,Frankston North,0.0,101.0,0.01904761904761905
+547,Garden City,0.0,10.0,0.14285714285714285
+548,Gembrook,0.0,19.0,0.08695652173913043
+549,Gladstone Park,0.0,84.0,0.022727272727272728
+556,Greenvale,0.0,202.0,0.009708737864077669
+560,Heatherton,0.0,35.0,0.05128205128205128
+567,Hurstbridge,0.0,21.0,0.08
+579,Kalkallo,0.0,116.0,0.016666666666666666
+580,Kallista,0.0,10.0,0.14285714285714285
+581,Kalorama,0.0,16.0,0.1
+584,Kealba,0.0,31.0,0.05714285714285714
+585,Keilor,0.0,45.0,0.04081632653061224
+586,Keilor Lodge,0.0,8.0,0.16666666666666666
+587,Keilor Park,0.0,34.0,0.05263157894736842
+589,Kew East,0.0,9.0,0.15384615384615385
+593,Kilsyth South,0.0,17.0,0.09523809523809523
+595,Kings Park,0.0,73.0,0.025974025974025976
+604,Launching Place,0.0,32.0,0.05555555555555555
+612,Lynbrook,0.0,76.0,0.025
+613,Lysterfield,0.0,58.0,0.03225806451612903
+619,Manor Lakes,0.0,168.0,0.011627906976744186
+630,Mickleham,0.0,261.0,0.007547169811320755
+631,Millgrove,0.0,39.0,0.046511627906976744
+637,Monbulk,0.0,58.0,0.03225806451612903
+638,Montrose,0.0,54.0,0.034482758620689655
+641,Mount Dandenong,0.0,21.0,0.08
+648,Narre Warren North,0.0,34.0,0.05263157894736842
+649,Narre Warren South,0.0,312.0,0.006329113924050633
+659,Noble Park North,0.0,44.0,0.041666666666666664
+663,Officer South,0.0,9.0,0.15384615384615385
+664,Olinda,0.0,20.0,0.08333333333333333
+669,Park Orchards,0.0,15.0,0.10526315789473684
+671,Pearcedale,0.0,35.0,0.05128205128205128
+674,Plenty,0.0,17.0,0.09523809523809523
+680,Portsea,0.0,56.0,0.03333333333333333
+681,Princes Hill,0.0,21.0,0.08
+686,Red Hill,0.0,8.0,0.16666666666666666
+690,Rockbank,0.0,30.0,0.058823529411764705
+697,Sandhurst,0.0,77.0,0.024691358024691357
+699,Sassafras,0.0,11.0,0.13333333333333333
+702,Seabrook,0.0,54.0,0.034482758620689655
+703,Seaholme,0.0,22.0,0.07692307692307693
+705,Selby,0.0,21.0,0.08
+706,Seville,0.0,22.0,0.07692307692307693
+713,Somers,0.0,43.0,0.0425531914893617
+714,Sorrento,0.0,136.0,0.014285714285714285
+715,St Andrews Beach,0.0,20.0,0.08333333333333333
+717,St Helena,0.0,27.0,0.06451612903225806
+729,Taylors Lakes,0.0,71.0,0.02666666666666667
+730,Tecoma,0.0,22.0,0.07692307692307693
+732,The Basin,0.0,47.0,0.0392156862745098
+734,The Patch,0.0,15.0,0.10526315789473684
+741,Tooradin,0.0,17.0,0.09523809523809523
+742,Tootgarook,0.0,99.0,0.019417475728155338
+746,Upper Ferntree Gully,0.0,34.0,0.05263157894736842
+747,Upwey,0.0,74.0,0.02564102564102564
+752,Wandin North,0.0,24.0,0.07142857142857142
+753,Warburton,0.0,38.0,0.047619047619047616
+754,Warneet,0.0,18.0,0.09090909090909091
+756,Warrandyte,0.0,48.0,0.038461538461538464
+757,Warranwood,0.0,40.0,0.045454545454545456
+758,Waterways,0.0,20.0,0.08333333333333333
+759,Watsonia North,0.0,36.0,0.05
+760,Wattle Glen,0.0,19.0,0.08695652173913043
+765,Wheelers Hill,0.0,149.0,0.013071895424836602
+769,Wonga Park,0.0,19.0,0.08695652173913043
+771,Woori Yallock,0.0,53.0,0.03508771929824561
+775,Yallambie,0.0,28.0,0.0625
+777,Yarra Glen,0.0,41.0,0.044444444444444446
+0,Altona Gate,,,0.23699171919416637
+1,Armadale North,,,0.6693333333333333
+2,Arthurs Creek,,,0.1151219512195122
+3,Arthurs Seat,,,0.17748917748917747
+4,Auburn,,,0.5831341401116807
+5,Auburn South,,,0.6226415094339622
+6,Avonsleigh,,,0.08168504389632107
+7,Balwyn East,,,0.4509207118593077
+8,Bangholme,,,0.2526960863523252
+9,Banyule,,,0.3448215020878668
+10,Batman,,,0.4455582232893157
+11,Beaconsfield Upper,,,0.08644701086956522
+12,Bedford Road,,,0.241606567317916
+13,Beenak,,,0.08168504389632107
+14,Bellfield,,,0.4060459918837852
+15,Belvedere Park,,,0.3183632527691168
+16,Bend Of Islands,,,0.24098551337633498
+17,Bend of Islands,,,0.15544041450777202
+18,Bennettswood,,,0.43636363636363634
+19,Big Pats Creek,,,0.05870654898114852
+20,Black Rock North,,,0.49577958273610445
+21,Boneo,,,0.17748917748917747
+22,Box Hill Central,,,0.4049064768285874
+23,Braeside,,,0.36911544227886056
+24,Braybrook North,,,0.43529411764705883
+25,Brentford Square,,,0.3657185445367427
+26,Brighton North,,,0.639055085619971
+27,Brighton Road,,,0.639055085619971
+28,Brunswick Lower,,,0.6212521717547779
+29,Brunswick North,,,0.6212521717547779
+30,Brunswick South,,,0.4942528735632184
+31,Bulla,,,0.1553885422575156
+32,Bunyip North,,,0.07335856363316318
+33,Burnley North,,,0.62194684059437
+34,Burwood Heights,,,0.4206350565961119
+35,Calder Park,,,0.15447154471544716
+36,Camberwell East,,,0.49693494689002804
+37,Camberwell North,,,0.4509207118593077
+38,Camberwell South,,,0.4509207118593077
+39,Camberwell West,,,0.4509207118593077
+40,Cannons Creek,,,0.1600677193608991
+41,Cardinia,,,0.09755730940114682
+42,Carlton South,,,0.62194684059437
+43,Caulfield Junction,,,0.6693333333333333
+44,Central Park,,,0.5679950162549996
+45,Chadstone Centre,,,0.5528484848484848
+46,Chapel Street North,,,0.6459874213836478
+47,Christmas Hills,,,0.12094371268866862
+48,Clematis,,,0.08168504389632107
+49,Coatesville,,,0.43636363636363634
+50,Cocoroc,,,0.15630553979958406
+51,Collingwood North,,,0.62194684059437
+52,Cora Lynn,,,0.07692307692307693
+53,Cotham,,,0.5597882281619951
+54,Cottles Bridge,,,0.1151219512195122
+55,Cromer,,,0.49577958273610445
+56,Dandenong East,,,0.2526960863523252
+57,Dandenong South,,,0.2526960863523252
+58,Darling,,,0.5679950162549996
+59,Deer Park East,,,0.15630553979958406
+60,Deer Park North,,,0.11182811095218226
+61,Dendy,,,0.639055085619971
+62,Devon Meadows,,,0.1600677193608991
+63,Dewhurst,,,0.08644701086956522
+64,Dixons Creek,,,0.12094371268866862
+65,Don Valley,,,0.08168504389632107
+66,Doncaster Heights,,,0.3657185445367427
+67,Dunearn,,,0.2526960863523252
+68,Essendon Fields,,,0.4942528735632184
+69,Exford,,,0.06735068210478046
+70,Fawkner East,,,0.4421368547418968
+71,Fawkner North,,,0.4421368547418968
+72,Fountain Gate,,,0.11819154187921671
+73,Frankston East,,,0.1897165371658795
+74,Frankston Heights,,,0.1897165371658795
+75,Garfield North,,,0.07692307692307693
+76,Gilderoy,,,0.07692307692307693
+77,Gladysdale,,,0.07692307692307693
+78,Glengala,,,0.30904490828589504
+79,Greythorn,,,0.3840094343797116
+80,Gruyere,,,0.12094371268866862
+81,Guys Hill,,,0.09755730940114682
+82,Hampton North,,,0.49577958273610445
+83,Harkaway,,,0.08644701086956522
+84,Hartwell,,,0.4509207118593077
+85,Hawksburn,,,0.6226415094339622
+86,Hawthorn North,,,0.6226415094339622
+87,Hawthorn West,,,0.6226415094339622
+88,Highpoint City,,,0.4681948641525576
+89,Hillside,,,0.15447154471544716
+90,Hoddles Creek,,,0.08168504389632107
+91,Holmesglen,,,0.5528484848484848
+92,Hopetoun Gardens,,,0.5979158211982639
+93,Houston,,,0.4049064768285874
+94,Iona,,,0.07335856363316318
+95,Ivanhoe North,,,0.4489795918367347
+96,Kangaroo Ground,,,0.24098551337633498
+97,Karingal,,,0.1897165371658795
+98,Karingal Centre,,,0.1897165371658795
+99,Keilor North,,,0.1553885422575156
+100,Keon Park,,,0.4026246233363663
+101,Kerrimuir,,,0.4049064768285874
+102,Kingsville West,,,0.29118773946360155
+103,Knox City Centre,,,0.3446658663382703
+104,Kunyung,,,0.1897165371658795
+105,La Trobe University,,,0.2592764032193039
+106,Laburnum,,,0.3657185445367427
+107,Lalor Plaza,,,0.13479674796747967
+108,Langwarrin South,,,0.17748917748917747
+109,Laverton North,,,0.1827956989247312
+110,Laverton Raaf,,,0.23699171919416637
+111,Little River,,,0.13865682866841475
+112,Lysterfield South,,,0.11819154187921671
+113,Macclesfield,,,0.08168504389632107
+114,Macleod West,,,0.4060459918837852
+115,Main Ridge,,,0.17748917748917747
+116,Malvern North,,,0.639055085619971
+117,Mambourin,,,0.0945179584120983
+118,Maryknoll,,,0.07692307692307693
+119,McCrae,,,0.17748917748917747
+120,McKinnon,,,0.5567765567765568
+121,Mcmahons Creek,,,0.05870654898114852
+122,Melbourne Airport,,,0.1553885422575156
+123,Melbourne University,,,0.4942528735632184
+124,Mentone East,,,0.49577958273610445
+125,Menzies Creek,,,0.08168504389632107
+126,Merlynston,,,0.4455582232893157
+127,Merricks,,,0.17748917748917747
+128,Merricks Beach,,,0.17748917748917747
+129,Merricks North,,,0.17748917748917747
+130,Middle Camberwell,,,0.4509207118593077
+131,Mitcham North,,,0.32653061224489793
+132,Monash University,,,0.43636363636363634
+133,Moonee Vale,,,0.4942528735632184
+134,Moorabbin Airport,,,0.49577958273610445
+135,Moorooduc,,,0.17748917748917747
+136,Morang South,,,0.1352811828636421
+137,Moreland,,,0.4455582232893157
+138,Moreland West,,,0.4942528735632184
+139,Mount Burnett,,,0.08168504389632107
+140,Mount Cottrell,,,0.0945179584120983
+141,Mountain Gate,,,0.11819154187921671
+142,Nangana,,,0.08168504389632107
+143,Nar Nar Goon,,,0.07692307692307693
+144,Nar Nar Goon North,,,0.07692307692307693
+145,Narre Warren East,,,0.10231927637439096
+146,Noble Park East,,,0.36990595611285265
+147,North Road,,,0.5979158211982639
+148,North Warrandyte,,,0.24098551337633498
+149,Northcote South,,,0.4489795918367347
+150,Northland Centre,,,0.4421368547418968
+151,Nutfield,,,0.1151219512195122
+152,Oaklands Junction,,,0.15447154471544716
+153,Pakenham South,,,0.07692307692307693
+154,Pakenham Upper,,,0.07692307692307693
+155,Panton Hill,,,0.15544041450777202
+156,Patterson,,,0.5567765567765568
+157,Pines Forest,,,0.20194389684258152
+158,Pinewood,,,0.4206350565961119
+159,Plumpton,,,0.11182811095218226
+160,Point Leo,,,0.17748917748917747
+161,Powelltown,,,0.07692307692307693
+162,Prahran East,,,0.6693333333333333
+163,Preston Lower,,,0.4421368547418968
+164,Preston South,,,0.4421368547418968
+165,Preston West,,,0.4421368547418968
+166,Quandong,,,0.15630553979958406
+167,Rangeview,,,0.32653061224489793
+168,Ravenhall,,,0.11182811095218226
+169,Red Hill South,,,0.17748917748917747
+170,Reefton,,,0.05870654898114852
+171,Reservoir East,,,0.4026246233363663
+172,Reservoir North,,,0.4026246233363663
+173,Reservoir South,,,0.4026246233363663
+174,Richmond East,,,0.62194684059437
+175,Richmond North,,,0.62194684059437
+176,Richmond South,,,0.62194684059437
+177,Robinson,,,0.43529411764705883
+178,Rosebud Plaza,,,0.17748917748917747
+179,Rythdale,,,0.07692307692307693
+180,Saint Helena,,,0.15544041450777202
+181,Sandown Village,,,0.43478260869565216
+182,Sassafras Gully,,,0.14261744482872202
+183,Seddon West,,,0.4942528735632184
+184,Seville East,,,0.08168504389632107
+185,Sherbrooke,,,0.08644701086956522
+186,Shoreham,,,0.17748917748917747
+187,Silvan,,,0.08644701086956522
+188,Smiths Gully,,,0.15544041450777202
+189,Somerton,,,0.13479674796747967
+190,Southland Centre,,,0.49577958273610445
+191,Steels Creek,,,0.12094371268866862
+192,Strathewen,,,0.1151219512195122
+193,Strathmore Heights,,,0.4681948641525576
+194,Surrey Hills North,,,0.4509207118593077
+195,Surrey Hills South,,,0.43636363636363634
+196,Tarrawarra,,,0.12094371268866862
+197,The Pines,,,0.3657185445367427
+198,Three Bridges,,,0.07692307692307693
+199,Tonimbuk,,,0.07335856363316318
+200,Tottenham,,,0.29118773946360155
+201,Tremont,,,0.14261744482872202
+202,Tuerong,,,0.17748917748917747
+203,Tynong,,,0.07692307692307693
+204,Tynong North,,,0.07692307692307693
+205,University Of Melbourne,,,0.6212521717547779
+206,Vervale,,,0.07692307692307693
+207,Wandin East,,,0.08168504389632107
+208,Warrandyte South,,,0.30547793404642554
+209,Watergardens,,,0.15630553979958406
+210,Watsons Creek,,,0.24098551337633498
+211,Wattle Park,,,0.4049064768285874
+212,Waverley Gardens,,,0.30344827586206896
+213,Wesburn,,,0.05870654898114852
+214,Wildwood,,,0.07142857142857142
+215,Wishart,,,0.5567765567765568
+216,Woodstock,,,0.1151219512195122
+217,World Trade Centre,,,0.6212521717547779
+218,Yan Yean,,,0.1352811828636421
+219,Yarrambat,,,0.1352811828636421
+220,Yarraville West,,,0.43529411764705883
+221,Yellingbo,,,0.08168504389632107
+222,Yering,,,0.12094371268866862
+223,Yuroke,,,0.15447154471544716
