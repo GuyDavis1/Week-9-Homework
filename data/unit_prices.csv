@@ -1,610 +1,949 @@
-,suburb,median_price,p_type,const
-0,Abbotsford,1030000,house,1.0
-1,Aberfeldie,1390000,house,1.0
-4,Airport West,790000,house,1.0
-5,Albanvale,512000,house,1.0
-6,Albert Park,1965000,house,1.0
-7,Albion,675000,house,1.0
-11,Alphington,1570000,house,1.0
-12,Altona,882500,house,1.0
-13,Altona East,842500,house,1.0
-0,Altona Gate,635000,house,
-14,Altona Meadows,617500,house,1.0
-15,Altona North,788500,house,1.0
-19,Ardeer,571500,house,1.0
-20,Armadale,2462500,house,1.0
-2,Armadale North,1467500,house,
-4,Arthurs Creek,673125,house,
-6,Arthurs Seat,797500,house,
-23,Ascot Vale,1088500,house,1.0
-24,Ashburton,1651000,house,1.0
-25,Ashwood,1100000,house,1.0
-26,Aspendale,994000,house,1.0
-27,Aspendale Gardens,844000,house,1.0
-28,Attwood,767500,house,1.0
-8,Auburn,1530000,house,
-10,Auburn South,1385000,house,
-31,Avondale Heights,810000,house,1.0
-32,Avonsleigh,532500,house,1.0
-36,Balaclava,1310000,house,1.0
-42,Balnarring,825000,house,1.0
-43,Balnarring Beach,1275000,house,1.0
-44,Balwyn,2392500,house,1.0
-12,Balwyn East,1422875,house,
-45,Balwyn North,1700000,house,1.0
-14,Bangholme,773250,house,
-16,Banyule,967500,house,
-18,Batman,932250,house,
-50,Baxter,530000,house,1.0
-51,Bayswater,715000,house,1.0
-52,Bayswater North,695000,house,1.0
-53,Beaconsfield,690000,house,1.0
-54,Beaconsfield Upper,787500,house,1.0
-56,Beaumaris,1582500,house,1.0
-20,Bedford Road,817500,house,
-22,Beenak,592250,house,
-59,Belgrave,636000,house,1.0
-60,Belgrave Heights,685000,house,1.0
-61,Belgrave South,665500,house,1.0
-24,Bellfield,919750,house,
-26,Belvedere Park,765750,house,
-28,Bend Of Islands,880750,house,
-30,Bend of Islands,751500,house,
-32,Bennettswood,1165750,house,
-69,Bentleigh,1382500,house,1.0
-70,Bentleigh East,1200000,house,1.0
-71,Berwick,673500,house,1.0
-76,Bittern,577500,house,1.0
-78,Black Rock,1777500,house,1.0
-34,Black Rock North,1228250,house,
-79,Blackburn,1300000,house,1.0
-80,Blackburn North,1010000,house,1.0
-81,Blackburn South,1038000,house,1.0
-83,Blairgowrie,925000,house,1.0
-84,Blind Bight,552500,house,1.0
-85,Bonbeach,850000,house,1.0
-36,Boneo,797500,house,
-90,Boronia,684500,house,1.0
-91,Botanic Ridge,700000,house,1.0
-92,Box Hill,1528000,house,1.0
-38,Box Hill Central,1165750,house,
-93,Box Hill North,1200000,house,1.0
-94,Box Hill South,1154000,house,1.0
-40,Braeside,836500,house,
-95,Braybrook,630000,house,1.0
-42,Braybrook North,849250,house,
-44,Brentford Square,1087875,house,
-98,Briar Hill,817000,house,1.0
-100,Brighton,2600000,house,1.0
-101,Brighton East,1700000,house,1.0
-46,Brighton North,1525000,house,
-48,Brighton Road,1525000,house,
-103,Broadmeadows,526000,house,1.0
-104,Brookfield,445000,house,1.0
-105,Brooklyn,672500,house,1.0
-107,Brunswick,1030000,house,1.0
-108,Brunswick East,995500,house,1.0
-50,Brunswick Lower,1267000,house,
-52,Brunswick North,1267000,house,
-54,Brunswick South,950000,house,
-109,Brunswick West,1061000,house,1.0
-56,Bulla,614125,house,
-111,Bulleen,1100000,house,1.0
-113,Bundoora,727500,house,1.0
-115,Bunyip,501000,house,1.0
-58,Bunyip North,592250,house,
-116,Burnley,1188500,house,1.0
-60,Burnley North,1382500,house,
-117,Burnside,605000,house,1.0
-118,Burnside Heights,591000,house,1.0
-119,Burwood,1165000,house,1.0
-120,Burwood East,1020000,house,1.0
-62,Burwood Heights,1087375,house,
-121,Cairnlea,752500,house,1.0
-64,Calder Park,595750,house,
-123,Camberwell,2100000,house,1.0
-66,Camberwell East,1680000,house,
-68,Camberwell North,1422875,house,
-70,Camberwell South,1422875,house,
-72,Camberwell West,1422875,house,
-124,Campbellfield,534500,house,1.0
-74,Cannons Creek,602500,house,
-129,Canterbury,2832500,house,1.0
-131,Cape Schanck,940000,house,1.0
-132,Capel Sound,515000,house,1.0
-76,Cardinia,598625,house,
-134,Carlton,1306000,house,1.0
-135,Carlton North,1555000,house,1.0
-78,Carlton South,1326000,house,
-136,Carnegie,1310000,house,1.0
-137,Caroline Springs,620000,house,1.0
-138,Carrum,770000,house,1.0
-139,Carrum Downs,537500,house,1.0
-142,Caulfield,1658000,house,1.0
-143,Caulfield East,1372500,house,1.0
-80,Caulfield Junction,1467500,house,
-144,Caulfield North,2100000,house,1.0
-145,Caulfield South,1488000,house,1.0
-82,Central Park,1423750,house,
-146,Chadstone,1000000,house,1.0
-84,Chadstone Centre,1194500,house,
-86,Chapel Street North,1382500,house,
-149,Chelsea,857500,house,1.0
-150,Chelsea Heights,750000,house,1.0
-151,Cheltenham,1035500,house,1.0
-152,Cheltenham East,940000,house,1.0
-153,Cheltenham North,858000,house,1.0
-156,Chirnside Park,685000,house,1.0
-88,Christmas Hills,880750,house,
-159,Clarinda,815000,house,1.0
-160,Clayton,1100500,house,1.0
-162,Clayton South,832000,house,1.0
-90,Clematis,592250,house,
-163,Clifton Hill,1352500,house,1.0
-166,Clyde,549000,house,1.0
-167,Clyde North,584500,house,1.0
-92,Coatesville,1009000,house,
-171,Coburg,931000,house,1.0
-173,Coburg North,812500,house,1.0
-174,Cockatoo,580000,house,1.0
-94,Cocoroc,632500,house,
-177,Coldstream,635000,house,1.0
-179,Collingwood,1050000,house,1.0
-96,Collingwood North,1326000,house,
-181,Coolaroo,441000,house,1.0
-98,Cora Lynn,592250,house,
-100,Cotham,1532500,house,
-102,Cottles Bridge,673125,house,
-190,Craigieburn,530000,house,1.0
-191,Cranbourne,500000,house,1.0
-192,Cranbourne East,565000,house,1.0
-193,Cranbourne North,570000,house,1.0
-104,Cranbourne South,602500,house,
-194,Cranbourne West,520000,house,1.0
-195,Cremorne,1267000,house,1.0
-197,Crib Point,527500,house,1.0
-106,Cromer,1228250,house,
-198,Croydon,732500,house,1.0
-199,Croydon Hills,835000,house,1.0
-200,Croydon North,825000,house,1.0
-201,Croydon South,716000,house,1.0
-203,Dallas,451500,house,1.0
-205,Dandenong,602000,house,1.0
-108,Dandenong East,773250,house,
-206,Dandenong North,605000,house,1.0
-110,Dandenong South,773250,house,
-112,Darling,1423750,house,
-211,Deepdene,2758000,house,1.0
-212,Deer Park,550000,house,1.0
-114,Deer Park East,632500,house,
-116,Deer Park North,594625,house,
-214,Delahey,530000,house,1.0
-118,Dendy,1525000,house,
-216,Derrimut,649000,house,1.0
-120,Devon Meadows,602500,house,
-122,Dewhurst,598625,house,
-218,Diamond Creek,751500,house,1.0
-219,Diggers Rest,515000,house,1.0
-221,Dingley Village,810000,house,1.0
-124,Dixons Creek,880750,house,
-126,Don Valley,592250,house,
-224,Doncaster,1251500,house,1.0
-225,Doncaster East,1190000,house,1.0
-128,Doncaster Heights,1087875,house,
-130,Donnybrook,595250,house,
-226,Donvale,1121000,house,1.0
-227,Doreen,597500,house,1.0
-228,Doveton,470000,house,1.0
-229,Dromana,715500,house,1.0
-132,Dunearn,773250,house,
-236,Eaglemont,1799000,house,1.0
-240,East Melbourne,3413500,house,1.0
-241,East Warburton,446500,house,1.0
-245,Edithvale,954000,house,1.0
-249,Elsternwick,1750000,house,1.0
-250,Eltham,925000,house,1.0
-251,Eltham North,930000,house,1.0
-252,Elwood,1952500,house,1.0
-253,Emerald,660000,house,1.0
-254,Endeavour Hills,620000,house,1.0
-255,Epping,550000,house,1.0
-257,Essendon,1447000,house,1.0
-134,Essendon Fields,849250,house,
-258,Essendon North,1100000,house,1.0
-259,Essendon West,1160000,house,1.0
-260,Eumemmerring,540000,house,1.0
-136,Exford,595875,house,
-263,Eynesbury,558500,house,1.0
-264,Fairfield,1290000,house,1.0
-266,Fawkner,665000,house,1.0
-138,Fawkner East,914500,house,
-140,Fawkner North,914500,house,
-267,Ferntree Gully,692000,house,1.0
-268,Ferny Creek,733000,house,1.0
-269,Fingal,1240000,house,1.0
-270,Fitzroy,1392500,house,1.0
-271,Fitzroy North,1377500,house,1.0
-273,Flemington,1000000,house,1.0
-274,Flinders,1670000,house,1.0
-277,Footscray,810000,house,1.0
-278,Forest Hill,900000,house,1.0
-142,Fountain Gate,605000,house,
-280,Frankston,580500,house,1.0
-144,Frankston East,698750,house,
-146,Frankston Heights,698750,house,
-281,Frankston North,423000,house,1.0
-282,Frankston South,817500,house,1.0
-285,Garden City,1375000,house,1.0
-286,Gardenvale,1740000,house,1.0
-287,Garfield,540000,house,1.0
-148,Garfield North,592250,house,
-290,Gembrook,650000,house,1.0
-150,Gilderoy,592250,house,
-292,Gladstone Park,636500,house,1.0
-152,Gladysdale,592250,house,
-293,Glen Huntly,1380000,house,1.0
-294,Glen Iris,1929500,house,1.0
-295,Glen Waverley,1270000,house,1.0
-154,Glengala,742125,house,
-298,Glenroy,700000,house,1.0
-304,Gowanbrae,700500,house,1.0
-307,Greensborough,797500,house,1.0
-308,Greenvale,715000,house,1.0
-156,Greythorn,1087875,house,
-158,Gruyere,751500,house,
-160,Guys Hill,598625,house,
-310,Hadfield,727500,house,1.0
-311,Hallam,560000,house,1.0
-315,Hampton,1896000,house,1.0
-316,Hampton East,1195000,house,1.0
-162,Hampton North,1228250,house,
-317,Hampton Park,502000,house,1.0
-164,Harkaway,598625,house,
-166,Hartwell,1422875,house,
-319,Hastings,506000,house,1.0
-168,Hawksburn,1385000,house,
-321,Hawthorn,2195500,house,1.0
-322,Hawthorn East,2050000,house,1.0
-170,Hawthorn North,1385000,house,
-172,Hawthorn West,1385000,house,
-325,Heatherton,965000,house,1.0
-326,Heathmont,871000,house,1.0
-327,Heidelberg,1122500,house,1.0
-328,Heidelberg Heights,777500,house,1.0
-329,Heidelberg West,665000,house,1.0
-335,Highett,1229500,house,1.0
-174,Highpoint City,960500,house,
-176,Hillside,595750,house,
-178,Hoddles Creek,592250,house,
-180,Holmesglen,1194500,house,
-182,Hopetoun Gardens,1496250,house,
-339,Hoppers Crossing,528500,house,1.0
-184,Houston,1165750,house,
-341,Hughesdale,1150500,house,1.0
-342,Huntingdale,914000,house,1.0
-344,Hurstbridge,700000,house,1.0
-186,Iona,592250,house,
-352,Ivanhoe,1540000,house,1.0
-353,Ivanhoe East,1765000,house,1.0
-188,Ivanhoe North,1010000,house,
-354,Jacana,512500,house,1.0
-360,Junction Village,483500,house,1.0
-363,Kalkallo,532500,house,1.0
-364,Kallista,700000,house,1.0
-365,Kalorama,645000,house,1.0
-190,Kangaroo Ground,880750,house,
-192,Karingal,698750,house,
-194,Karingal Centre,698750,house,
-369,Kealba,596000,house,1.0
-370,Keilor,836500,house,1.0
-371,Keilor Downs,630000,house,1.0
-372,Keilor East,835000,house,1.0
-373,Keilor Lodge,740000,house,1.0
-196,Keilor North,614125,house,
-374,Keilor Park,708000,house,1.0
-376,Kensington,980000,house,1.0
-198,Keon Park,919750,house,
-200,Kerrimuir,1165750,house,
-378,Kew,2255000,house,1.0
-379,Kew East,1837000,house,1.0
-381,Keysborough,740000,house,1.0
-386,Kilsyth,642500,house,1.0
-387,Kilsyth South,761500,house,1.0
-389,Kings Park,510000,house,1.0
-390,Kingsbury,660000,house,1.0
-391,Kingsville,1010000,house,1.0
-202,Kingsville West,742125,house,
-204,Knox City Centre,919500,house,
-392,Knoxfield,760000,house,1.0
-206,Kunyung,698750,house,
-208,La Trobe University,833000,house,
-210,Laburnum,1087875,house,
-405,Lalor,590500,house,1.0
-212,Lalor Plaza,595250,house,
-408,Langwarrin,617500,house,1.0
-214,Langwarrin South,605000,house,
-411,Launching Place,554000,house,1.0
-412,Laverton,529000,house,1.0
-216,Laverton North,633750,house,
-218,Laverton Raaf,635000,house,
-418,Lilydale,680000,house,1.0
-220,Little River,635000,house,
-427,Lower Plenty,905000,house,1.0
-430,Lynbrook,623000,house,1.0
-431,Lyndhurst,665000,house,1.0
-432,Lysterfield,956500,house,1.0
-433,Lysterfield South,1045000,house,1.0
-222,Macclesfield,592250,house,
-435,Macleod,914500,house,1.0
-224,Macleod West,919750,house,
-440,Maidstone,779000,house,1.0
-226,Main Ridge,797500,house,
-444,Malvern,2550000,house,1.0
-445,Malvern East,1770000,house,1.0
-228,Malvern North,1467500,house,
-230,Mambourin,632500,house,
-448,Manor Lakes,535000,house,1.0
-451,Maribyrnong,987500,house,1.0
-232,Maryknoll,592250,house,
-234,McCrae,797500,house,
-456,Mccrae,795000,house,1.0
-458,McKinnon,1525000,house,1.0
-459,Meadow Heights,472500,house,1.0
-236,Melbourne Airport,614125,house,
-238,Melbourne University,950000,house,
-461,Melton South,390000,house,1.0
-463,Mentone,1028000,house,1.0
-240,Mentone East,1228250,house,
-464,Menzies Creek,682500,house,1.0
-242,Merlynston,932250,house,
-467,Mernda,552000,house,1.0
-244,Merricks,797500,house,
-246,Merricks Beach,797500,house,
-248,Merricks North,797500,house,
-470,Mickleham,525000,house,1.0
-250,Middle Camberwell,1422875,house,
-471,Middle Park,2705000,house,1.0
-473,Mill Park,654000,house,1.0
-474,Millgrove,415000,house,1.0
-478,Mitcham,942000,house,1.0
-252,Mitcham North,1010000,house,
-254,Monash University,1009000,house,
-481,Monbulk,630000,house,1.0
-482,Mont Albert,1680000,house,1.0
-483,Mont Albert North,1380000,house,1.0
-484,Montmorency,856000,house,1.0
-485,Montrose,707500,house,1.0
-486,Moonee Ponds,1300000,house,1.0
-256,Moonee Vale,950000,house,
-487,Moorabbin,1050000,house,1.0
-258,Moorabbin Airport,1228250,house,
-260,Moorooduc,797500,house,
-488,Mooroolbark,670000,house,1.0
-262,Morang South,673125,house,
-490,Mordialloc,1010000,house,1.0
-264,Moreland,932250,house,
-266,Moreland West,950000,house,
-491,Mornington,800000,house,1.0
-268,Mount Burnett,592250,house,
-270,Mount Cottrell,632500,house,
-496,Mount Dandenong,662000,house,1.0
-498,Mount Eliza,1157500,house,1.0
-499,Mount Evelyn,636000,house,1.0
-502,Mount Martha,1252500,house,1.0
-504,Mount Waverley,1267000,house,1.0
-272,Mountain Gate,705000,house,
-505,Mulgrave,840000,house,1.0
-507,Murrumbeena,1241500,house,1.0
-274,Nangana,592250,house,
-276,Nar Nar Goon,592250,house,
-278,Nar Nar Goon North,592250,house,
-511,Narre Warren,590000,house,1.0
-280,Narre Warren East,605000,house,
-512,Narre Warren North,1075000,house,1.0
-513,Narre Warren South,625000,house,1.0
-524,Newport,1055000,house,1.0
-529,Niddrie,1070000,house,1.0
-530,Noble Park,629000,house,1.0
-282,Noble Park East,875250,house,
-531,Noble Park North,610000,house,1.0
-536,North Melbourne,1297500,house,1.0
-284,North Road,1496250,house,
-286,North Warrandyte,880750,house,
-538,Northcote,1300000,house,1.0
-288,Northcote South,950000,house,
-290,Northland Centre,925000,house,
-539,Notting Hill,875500,house,1.0
-541,Nunawading,950000,house,1.0
-292,Nutfield,673125,house,
-544,Oak Park,840000,house,1.0
-294,Oaklands Junction,595750,house,
-545,Oakleigh,1101000,house,1.0
-546,Oakleigh East,942000,house,1.0
-547,Oakleigh South,908000,house,1.0
-549,Officer,550000,house,1.0
-550,Officer South,686000,house,1.0
-551,Olinda,748000,house,1.0
-553,Ormond,1467500,house,1.0
-556,Pakenham,485000,house,1.0
-296,Pakenham South,592250,house,
-298,Pakenham Upper,592250,house,
-300,Panton Hill,751500,house,
-558,Park Orchards,1460000,house,1.0
-559,Parkdale,1155000,house,1.0
-560,Parkville,1480000,house,1.0
-561,Pascoe Vale,858500,house,1.0
-562,Pascoe Vale South,950000,house,1.0
-302,Patterson,1467500,house,
-564,Patterson Lakes,923000,house,1.0
-566,Pearcedale,670000,house,1.0
-304,Pines Forest,600000,house,
-306,Pinewood,1087375,house,
-570,Plenty,1301000,house,1.0
-308,Plumpton,594625,house,
-571,Point Cook,640500,house,1.0
-310,Point Leo,797500,house,
-578,Port Melbourne,1375000,house,1.0
-583,Portsea,1950000,house,1.0
-312,Powelltown,592250,house,
-584,Prahran,1510000,house,1.0
-314,Prahran East,1380000,house,
-585,Preston,936500,house,1.0
-316,Preston Lower,925000,house,
-318,Preston South,925000,house,
-320,Preston West,925000,house,
-586,Princes Hill,2035000,house,1.0
-322,Quandong,632500,house,
-324,Rangeview,1010000,house,
-326,Ravenhall,594625,house,
-328,Red Hill,797500,house,
-330,Red Hill South,797500,house,
-595,Research,930000,house,1.0
-596,Reservoir,750000,house,1.0
-332,Reservoir East,919750,house,
-334,Reservoir North,919750,house,
-336,Reservoir South,919750,house,
-598,Richmond,1255000,house,1.0
-338,Richmond East,1382500,house,
-340,Richmond North,1382500,house,
-342,Richmond South,1382500,house,
-600,Ringwood,813500,house,1.0
-601,Ringwood East,809000,house,1.0
-602,Ringwood North,871000,house,1.0
-344,Robinson,849250,house,
-606,Rockbank,497000,house,1.0
-608,Rosanna,1042500,house,1.0
-609,Rosebud,545000,house,1.0
-346,Rosebud Plaza,797500,house,
-612,Rowville,820500,house,1.0
-613,Roxburgh Park,540000,house,1.0
-616,Rye,690000,house,1.0
-348,Rythdale,592250,house,
-617,Safety Beach,785000,house,1.0
-350,Saint Helena,751500,house,
-622,Sandhurst,815000,house,1.0
-352,Sandown Village,931500,house,
-623,Sandringham,1650000,house,1.0
-625,Sassafras,805000,house,1.0
-354,Sassafras Gully,805000,house,
-626,Scoresby,767000,house,1.0
-628,Seabrook,626500,house,1.0
-629,Seaford,655000,house,1.0
-630,Seaholme,1020000,house,1.0
-633,Seddon,960000,house,1.0
-356,Seddon West,971000,house,
-634,Selby,601500,house,1.0
-635,Seville,620000,house,1.0
-636,Seville East,580000,house,1.0
-640,Shoreham,1500000,house,1.0
-644,Skye,600000,house,1.0
-358,Smiths Gully,751500,house,
-648,Somers,950000,house,1.0
-360,Somerton,595250,house,
-649,Somerville,600000,house,1.0
-650,Sorrento,1465000,house,1.0
-653,South Kingsville,859000,house,1.0
-654,South Melbourne,1355000,house,1.0
-655,South Morang,625500,house,1.0
-656,South Yarra,1767500,house,1.0
-362,Southland Centre,1228250,house,
-657,Spotswood,960000,house,1.0
-659,Springvale,743000,house,1.0
-660,Springvale South,678000,house,1.0
-661,St Albans,590000,house,1.0
-663,St Andrews Beach,930000,house,1.0
-665,St Helena,905000,house,1.0
-666,St Kilda,1600000,house,1.0
-667,St Kilda East,1560000,house,1.0
-668,St Kilda West,2078500,house,1.0
-364,Steels Creek,880750,house,
-366,Strathewen,673125,house,
-676,Strathmore,1310000,house,1.0
-677,Strathmore Heights,800000,house,1.0
-680,Sunbury,535000,house,1.0
-684,Sunshine,720000,house,1.0
-685,Sunshine North,630000,house,1.0
-686,Sunshine West,635000,house,1.0
-688,Surrey Hills,1886500,house,1.0
-368,Surrey Hills North,1422875,house,
-370,Surrey Hills South,1165750,house,
-690,Sydenham,599500,house,1.0
-691,Syndal,1524500,house,1.0
-693,Tarneit,555000,house,1.0
-372,Tarrawarra,880750,house,
-697,Taylors Hill,702500,house,1.0
-698,Taylors Lakes,748500,house,1.0
-699,Tecoma,662500,house,1.0
-700,Templestowe,1276500,house,1.0
-701,Templestowe Lower,1080000,house,1.0
-703,The Basin,695000,house,1.0
-705,The Patch,755000,house,1.0
-374,The Pines,1087875,house,
-706,Thomastown,592000,house,1.0
-708,Thornbury,1135000,house,1.0
-376,Three Bridges,592250,house,
-378,Tonimbuk,592250,house,
-714,Tooradin,700000,house,1.0
-715,Toorak,4361000,house,1.0
-716,Tootgarook,580000,house,1.0
-380,Tottenham,742125,house,
-721,Travancore,1125000,house,1.0
-382,Tremont,805000,house,
-723,Truganina,575000,house,1.0
-384,Tuerong,797500,house,
-724,Tullamarine,612000,house,1.0
-725,Tyabb,580500,house,1.0
-386,Tynong,592250,house,
-388,Tynong North,592250,house,
-390,University Of Melbourne,1267000,house,
-727,Upper Ferntree Gully,642500,house,1.0
-728,Upwey,702500,house,1.0
-731,Vermont,937000,house,1.0
-732,Vermont South,1166500,house,1.0
-392,Vervale,592250,house,
-733,Viewbank,920000,house,1.0
-394,Wandin East,592250,house,
-740,Wandin North,627500,house,1.0
-742,Wantirna,860000,house,1.0
-743,Wantirna South,988500,house,1.0
-744,Warburton,515000,house,1.0
-745,Warneet,512500,house,1.0
-748,Warrandyte,987500,house,1.0
-396,Warrandyte South,920000,house,
-749,Warranwood,935000,house,1.0
-398,Watergardens,632500,house,
-751,Waterways,1270000,house,1.0
-752,Watsonia,736000,house,1.0
-753,Watsonia North,726500,house,1.0
-400,Watsons Creek,880750,house,
-754,Wattle Glen,778500,house,1.0
-402,Wattle Park,1165750,house,
-404,Waverley Gardens,805000,house,
-760,Werribee,510000,house,1.0
-761,Werribee South,744500,house,1.0
-762,Wesburn,530000,house,1.0
-763,West Footscray,787500,house,1.0
-764,West Melbourne,1085000,house,1.0
-768,Westmeadows,620000,house,1.0
-769,Wheelers Hill,1009000,house,1.0
-406,Wildwood,576250,house,
-774,Williams Landing,660000,house,1.0
-775,Williamstown,1350000,house,1.0
-776,Williamstown North,915000,house,1.0
-779,Windsor,1350000,house,1.0
-408,Wishart,1467500,house,
-782,Wollert,577500,house,1.0
-783,Wonga Park,1111000,house,1.0
-410,Woodstock,595250,house,
-787,Woori Yallock,510000,house,1.0
-412,World Trade Centre,1267000,house,
-791,Wyndham Vale,465000,house,1.0
-793,Yallambie,792500,house,1.0
-414,Yan Yean,673125,house,
-795,Yarra Glen,670000,house,1.0
-796,Yarra Junction,582500,house,1.0
-416,Yarrambat,673125,house,
-799,Yarraville,971000,house,1.0
-418,Yarraville West,1119000,house,
-420,Yellingbo,592250,house,
-422,Yering,751500,house,
-424,Yuroke,595750,house,
+,suburb,median_price,p_type,const,LGA
+0,Abbotsford,1030000.0,house,1.0,
+1,Aberfeldie,1390000.0,house,1.0,
+4,Airport West,790000.0,house,1.0,
+5,Albanvale,512000.0,house,1.0,
+6,Albert Park,1965000.0,house,1.0,
+7,Albion,675000.0,house,1.0,
+11,Alphington,1570000.0,house,1.0,
+12,Altona,882500.0,house,1.0,
+13,Altona East,842500.0,house,1.0,
+1312,Altona Gate,,house,,Hobsons Bay
+1313,Altona Gate,,house,,Wyndham
+14,Altona Meadows,617500.0,house,1.0,
+15,Altona North,788500.0,house,1.0,
+19,Ardeer,571500.0,house,1.0,
+20,Armadale,2462500.0,house,1.0,
+1282,Armadale North,,house,,Glen Eira
+1283,Armadale North,,house,,Port Phillip
+1284,Armadale North,,house,,Stonnington
+1520,Arthurs Creek,,house,,Murrindindi
+1525,Arthurs Creek,,house,,Nillumbik
+1530,Arthurs Creek,,house,,Whittlesea
+1509,Arthurs Seat,,house,,Mornington Peninsula
+23,Ascot Vale,1088500.0,house,1.0,
+24,Ashburton,1651000.0,house,1.0,
+25,Ashwood,1100000.0,house,1.0,
+26,Aspendale,994000.0,house,1.0,
+27,Aspendale Gardens,844000.0,house,1.0,
+28,Attwood,767500.0,house,1.0,
+961,Auburn,,house,,Boroondara
+962,Auburn,,house,,Stonnington
+952,Auburn South,,house,,Boroondara
+955,Auburn South,,house,,Stonnington
+958,Auburn South,,house,,Yarra
+31,Avondale Heights,810000.0,house,1.0,
+32,Avonsleigh,532500.0,house,1.0,
+36,Balaclava,1310000.0,house,1.0,
+42,Balnarring,825000.0,house,1.0,
+43,Balnarring Beach,1275000.0,house,1.0,
+44,Balwyn,2392500.0,house,1.0,
+930,Balwyn East,,house,,Boroondara
+931,Balwyn East,,house,,Whitehorse
+45,Balwyn North,1700000.0,house,1.0,
+1217,Bangholme,,house,,Casey
+1221,Bangholme,,house,,Frankston
+1225,Bangholme,,house,,Greater Dandenong
+1229,Bangholme,,house,,Kingston
+1233,Bangholme,,house,,Knox
+1237,Bangholme,,house,,Monash
+823,Banyule,,house,,Banyule
+824,Banyule,,house,,Manningham
+1254,Batman,,house,,Darebin
+1257,Batman,,house,,Moreland
+50,Baxter,530000.0,house,1.0,
+51,Bayswater,715000.0,house,1.0,
+52,Bayswater North,695000.0,house,1.0,
+53,Beaconsfield,690000.0,house,1.0,
+54,Beaconsfield Upper,787500.0,house,1.0,
+56,Beaumaris,1582500.0,house,1.0,
+1357,Bedford Road,,house,,Knox
+1358,Bedford Road,,house,,Maroondah
+1102,Beenak,,house,,Cardinia
+1112,Beenak,,house,,Yarra Ranges
+59,Belgrave,636000.0,house,1.0,
+60,Belgrave Heights,685000.0,house,1.0,
+61,Belgrave South,665500.0,house,1.0,
+817,Bellfield,,house,,Banyule
+818,Bellfield,,house,,Darebin
+1269,Belvedere Park,,house,,Frankston
+1270,Belvedere Park,,house,,Kingston
+1380,Bend Of Islands,,house,,Manningham
+1383,Bend Of Islands,,house,,Nillumbik
+1562,Bend of Islands,,house,,Nillumbik
+973,Bennettswood,,house,,Boroondara
+975,Bennettswood,,house,,Monash
+977,Bennettswood,,house,,Whitehorse
+69,Bentleigh,1382500.0,house,1.0,
+70,Bentleigh East,1200000.0,house,1.0,
+71,Berwick,673500.0,house,1.0,
+860,Big Pats Creek,,house,,Baw Baw
+867,Big Pats Creek,,house,,Mansfield
+874,Big Pats Creek,,house,,Murrindindi
+881,Big Pats Creek,,house,,Yarra Ranges
+76,Bittern,577500.0,house,1.0,
+78,Black Rock,1777500.0,house,1.0,
+917,Black Rock North,,house,,Bayside
+919,Black Rock North,,house,,Kingston
+79,Blackburn,1300000.0,house,1.0,
+80,Blackburn North,1010000.0,house,1.0,
+81,Blackburn South,1038000.0,house,1.0,
+83,Blairgowrie,925000.0,house,1.0,
+84,Blind Bight,552500.0,house,1.0,
+85,Bonbeach,850000.0,house,1.0,
+1512,Boneo,,house,,Mornington Peninsula
+90,Boronia,684500.0,house,1.0,
+91,Botanic Ridge,700000.0,house,1.0,
+92,Box Hill,1528000.0,house,1.0,
+1552,Box Hill Central,,house,,Whitehorse
+93,Box Hill North,1200000.0,house,1.0,
+94,Box Hill South,1154000.0,house,1.0,
+1300,Braeside,,house,,Greater Dandenong
+1303,Braeside,,house,,Kingston
+95,Braybrook,630000.0,house,1.0,
+1012,Braybrook North,,house,,Brimbank
+1014,Braybrook North,,house,,Maribyrnong
+1016,Braybrook North,,house,,Moonee Valley
+1402,Brentford Square,,house,,Manningham
+1403,Brentford Square,,house,,Whitehorse
+98,Briar Hill,817000.0,house,1.0,
+100,Brighton,2600000.0,house,1.0,
+101,Brighton East,1700000.0,house,1.0,
+902,Brighton North,,house,,Bayside
+904,Brighton North,,house,,Glen Eira
+906,Brighton North,,house,,Port Phillip
+896,Brighton Road,,house,,Bayside
+897,Brighton Road,,house,,Glen Eira
+898,Brighton Road,,house,,Port Phillip
+103,Broadmeadows,526000.0,house,1.0,
+104,Brookfield,445000.0,house,1.0,
+105,Brooklyn,672500.0,house,1.0,
+107,Brunswick,1030000.0,house,1.0,
+108,Brunswick East,995500.0,house,1.0,
+1465,Brunswick Lower,,house,,Melbourne
+1467,Brunswick Lower,,house,,Moreland
+1469,Brunswick Lower,,house,,Yarra
+1466,Brunswick North,,house,,Melbourne
+1468,Brunswick North,,house,,Moreland
+1470,Brunswick North,,house,,Yarra
+1456,Brunswick South,,house,,Melbourne
+1459,Brunswick South,,house,,Moonee Valley
+1462,Brunswick South,,house,,Moreland
+109,Brunswick West,1061000.0,house,1.0,
+1100,Bulla,,house,,Brimbank
+1101,Bulla,,house,,Hume
+111,Bulleen,1100000.0,house,1.0,
+113,Bundoora,727500.0,house,1.0,
+115,Bunyip,501000.0,house,1.0,
+888,Bunyip North,,house,,Baw Baw
+891,Bunyip North,,house,,Cardinia
+116,Burnley,1188500.0,house,1.0,
+933,Burnley North,,house,,Boroondara
+938,Burnley North,,house,,Melbourne
+943,Burnley North,,house,,Stonnington
+948,Burnley North,,house,,Yarra
+117,Burnside,605000.0,house,1.0,
+118,Burnside Heights,591000.0,house,1.0,
+119,Burwood,1165000.0,house,1.0,
+120,Burwood East,1020000.0,house,1.0,
+1492,Burwood Heights,,house,,Monash
+1493,Burwood Heights,,house,,Whitehorse
+121,Cairnlea,752500.0,house,1.0,
+1323,Calder Park,,house,,Hume
+123,Camberwell,2100000.0,house,1.0,
+979,Camberwell East,,house,,Boroondara
+963,Camberwell North,,house,,Boroondara
+968,Camberwell North,,house,,Whitehorse
+964,Camberwell South,,house,,Boroondara
+969,Camberwell South,,house,,Whitehorse
+965,Camberwell West,,house,,Boroondara
+970,Camberwell West,,house,,Whitehorse
+124,Campbellfield,534500.0,house,1.0,
+1183,Cannons Creek,,house,,Cardinia
+1186,Cannons Creek,,house,,Casey
+1189,Cannons Creek,,house,,Frankston
+1192,Cannons Creek,,house,,Greater Dandenong
+129,Canterbury,2832500.0,house,1.0,
+131,Cape Schanck,940000.0,house,1.0,
+132,Capel Sound,515000.0,house,1.0,
+1195,Cardinia,,house,,Cardinia
+1197,Cardinia,,house,,Casey
+134,Carlton,1306000.0,house,1.0,
+135,Carlton North,1555000.0,house,1.0,
+1451,Carlton South,,house,,Melbourne
+1452,Carlton South,,house,,Yarra
+136,Carnegie,1310000.0,house,1.0,
+137,Caroline Springs,620000.0,house,1.0,
+138,Carrum,770000.0,house,1.0,
+139,Carrum Downs,537500.0,house,1.0,
+142,Caulfield,1658000.0,house,1.0,
+143,Caulfield East,1372500.0,house,1.0,
+1285,Caulfield Junction,,house,,Glen Eira
+1286,Caulfield Junction,,house,,Port Phillip
+1287,Caulfield Junction,,house,,Stonnington
+144,Caulfield North,2100000.0,house,1.0,
+145,Caulfield South,1488000.0,house,1.0,
+994,Central Park,,house,,Boroondara
+996,Central Park,,house,,Glen Eira
+998,Central Park,,house,,Monash
+1000,Central Park,,house,,Stonnington
+146,Chadstone,1000000.0,house,1.0,
+1486,Chadstone Centre,,house,,Monash
+1488,Chadstone Centre,,house,,Stonnington
+1473,Chapel Street North,,house,,Melbourne
+1474,Chapel Street North,,house,,Port Phillip
+1475,Chapel Street North,,house,,Stonnington
+1476,Chapel Street North,,house,,Yarra
+149,Chelsea,857500.0,house,1.0,
+150,Chelsea Heights,750000.0,house,1.0,
+151,Cheltenham,1035500.0,house,1.0,
+152,Cheltenham East,940000.0,house,1.0,
+153,Cheltenham North,858000.0,house,1.0,
+156,Chirnside Park,685000.0,house,1.0,
+1413,Christmas Hills,,house,,Manningham
+1417,Christmas Hills,,house,,Murrindindi
+1421,Christmas Hills,,house,,Nillumbik
+1425,Christmas Hills,,house,,Yarra Ranges
+159,Clarinda,815000.0,house,1.0,
+160,Clayton,1100500.0,house,1.0,
+162,Clayton South,832000.0,house,1.0,
+1141,Clematis,,house,,Cardinia
+1145,Clematis,,house,,Yarra Ranges
+163,Clifton Hill,1352500.0,house,1.0,
+166,Clyde,549000.0,house,1.0,
+167,Clyde North,584500.0,house,1.0,
+1288,Coatesville,,house,,Glen Eira
+1289,Coatesville,,house,,Kingston
+1290,Coatesville,,house,,Monash
+171,Coburg,931000.0,house,1.0,
+173,Coburg North,812500.0,house,1.0,
+174,Cockatoo,580000.0,house,1.0,
+1050,Cocoroc,,house,,Brimbank
+1053,Cocoroc,,house,,Greater Geelong
+1056,Cocoroc,,house,,Hobsons Bay
+1059,Cocoroc,,house,,Melton
+1062,Cocoroc,,house,,Wyndham
+177,Coldstream,635000.0,house,1.0,
+179,Collingwood,1050000.0,house,1.0,
+1471,Collingwood North,,house,,Melbourne
+1472,Collingwood North,,house,,Yarra
+181,Coolaroo,441000.0,house,1.0,
+1179,Cora Lynn,,house,,Cardinia
+928,Cotham,,house,,Boroondara
+929,Cotham,,house,,Yarra
+1521,Cottles Bridge,,house,,Murrindindi
+1526,Cottles Bridge,,house,,Nillumbik
+1531,Cottles Bridge,,house,,Whittlesea
+190,Craigieburn,530000.0,house,1.0,
+191,Cranbourne,500000.0,house,1.0,
+192,Cranbourne East,565000.0,house,1.0,
+193,Cranbourne North,570000.0,house,1.0,
+1184,Cranbourne South,,house,,Cardinia
+1187,Cranbourne South,,house,,Casey
+1190,Cranbourne South,,house,,Frankston
+1193,Cranbourne South,,house,,Greater Dandenong
+194,Cranbourne West,520000.0,house,1.0,
+195,Cremorne,1267000.0,house,1.0,
+197,Crib Point,527500.0,house,1.0,
+918,Cromer,,house,,Bayside
+920,Cromer,,house,,Kingston
+198,Croydon,732500.0,house,1.0,
+199,Croydon Hills,835000.0,house,1.0,
+200,Croydon North,825000.0,house,1.0,
+201,Croydon South,716000.0,house,1.0,
+203,Dallas,451500.0,house,1.0,
+205,Dandenong,602000.0,house,1.0,
+1218,Dandenong East,,house,,Casey
+1222,Dandenong East,,house,,Frankston
+1226,Dandenong East,,house,,Greater Dandenong
+1230,Dandenong East,,house,,Kingston
+1234,Dandenong East,,house,,Knox
+1238,Dandenong East,,house,,Monash
+206,Dandenong North,605000.0,house,1.0,
+1219,Dandenong South,,house,,Casey
+1223,Dandenong South,,house,,Frankston
+1227,Dandenong South,,house,,Greater Dandenong
+1231,Dandenong South,,house,,Kingston
+1235,Dandenong South,,house,,Knox
+1239,Dandenong South,,house,,Monash
+995,Darling,,house,,Boroondara
+997,Darling,,house,,Glen Eira
+999,Darling,,house,,Monash
+1001,Darling,,house,,Stonnington
+211,Deepdene,2758000.0,house,1.0,
+212,Deer Park,550000.0,house,1.0,
+1028,Deer Park East,,house,,Brimbank
+1031,Deer Park North,,house,,Brimbank
+1035,Deer Park North,,house,,Melton
+214,Delahey,530000.0,house,1.0,
+903,Dendy,,house,,Bayside
+905,Dendy,,house,,Glen Eira
+907,Dendy,,house,,Port Phillip
+216,Derrimut,649000.0,house,1.0,
+1185,Devon Meadows,,house,,Cardinia
+1188,Devon Meadows,,house,,Casey
+1191,Devon Meadows,,house,,Frankston
+1194,Devon Meadows,,house,,Greater Dandenong
+1164,Dewhurst,,house,,Cardinia
+1166,Dewhurst,,house,,Casey
+1168,Dewhurst,,house,,Yarra Ranges
+218,Diamond Creek,751500.0,house,1.0,
+219,Diggers Rest,515000.0,house,1.0,
+221,Dingley Village,810000.0,house,1.0,
+1414,Dixons Creek,,house,,Manningham
+1418,Dixons Creek,,house,,Murrindindi
+1422,Dixons Creek,,house,,Nillumbik
+1426,Dixons Creek,,house,,Yarra Ranges
+1446,Docklands,,house,,Melbourne
+1103,Don Valley,,house,,Cardinia
+1113,Don Valley,,house,,Yarra Ranges
+224,Doncaster,1251500.0,house,1.0,
+225,Doncaster East,1190000.0,house,1.0,
+1386,Doncaster Heights,,house,,Manningham
+1388,Doncaster Heights,,house,,Whitehorse
+1328,Donnybrook,,house,,Hume
+1331,Donnybrook,,house,,Macedon Ranges
+1334,Donnybrook,,house,,Mitchell
+1337,Donnybrook,,house,,Whittlesea
+226,Donvale,1121000.0,house,1.0,
+227,Doreen,597500.0,house,1.0,
+228,Doveton,470000.0,house,1.0,
+229,Dromana,715500.0,house,1.0,
+1220,Dunearn,,house,,Casey
+1224,Dunearn,,house,,Frankston
+1228,Dunearn,,house,,Greater Dandenong
+1232,Dunearn,,house,,Kingston
+1236,Dunearn,,house,,Knox
+1240,Dunearn,,house,,Monash
+236,Eaglemont,1799000.0,house,1.0,
+240,East Melbourne,3413500.0,house,1.0,
+241,East Warburton,446500.0,house,1.0,
+245,Edithvale,954000.0,house,1.0,
+249,Elsternwick,1750000.0,house,1.0,
+250,Eltham,925000.0,house,1.0,
+251,Eltham North,930000.0,house,1.0,
+252,Elwood,1952500.0,house,1.0,
+253,Emerald,660000.0,house,1.0,
+254,Endeavour Hills,620000.0,house,1.0,
+255,Epping,550000.0,house,1.0,
+257,Essendon,1447000.0,house,1.0,
+1565,Essendon Fields,,house,,Moonee Valley
+258,Essendon North,1100000.0,house,1.0,
+259,Essendon West,1160000.0,house,1.0,
+260,Eumemmerring,540000.0,house,1.0,
+1480,Exford,,house,,Melton
+1482,Exford,,house,,Moorabool
+1484,Exford,,house,,Wyndham
+263,Eynesbury,558500.0,house,1.0,
+264,Fairfield,1290000.0,house,1.0,
+266,Fawkner,665000.0,house,1.0,
+1260,Fawkner East,,house,,Darebin
+1262,Fawkner East,,house,,Hume
+1264,Fawkner East,,house,,Moreland
+1261,Fawkner North,,house,,Darebin
+1263,Fawkner North,,house,,Hume
+1265,Fawkner North,,house,,Moreland
+267,Ferntree Gully,692000.0,house,1.0,
+268,Ferny Creek,733000.0,house,1.0,
+269,Fingal,1240000.0,house,1.0,
+270,Fitzroy,1392500.0,house,1.0,
+271,Fitzroy North,1377500.0,house,1.0,
+273,Flemington,1000000.0,house,1.0,
+274,Flinders,1670000.0,house,1.0,
+277,Footscray,810000.0,house,1.0,
+278,Forest Hill,900000.0,house,1.0,
+1241,Fountain Gate,,house,,Casey
+280,Frankston,580500.0,house,1.0,
+1271,Frankston East,,house,,Frankston
+1275,Frankston East,,house,,Mornington Peninsula
+1272,Frankston Heights,,house,,Frankston
+1276,Frankston Heights,,house,,Mornington Peninsula
+281,Frankston North,423000.0,house,1.0,
+282,Frankston South,817500.0,house,1.0,
+285,Garden City,1375000.0,house,1.0,
+286,Gardenvale,1740000.0,house,1.0,
+287,Garfield,540000.0,house,1.0,
+1181,Garfield North,,house,,Cardinia
+290,Gembrook,650000.0,house,1.0,
+848,Gilderoy,,house,,Baw Baw
+852,Gilderoy,,house,,Cardinia
+856,Gilderoy,,house,,Yarra Ranges
+292,Gladstone Park,636500.0,house,1.0,
+849,Gladysdale,,house,,Baw Baw
+853,Gladysdale,,house,,Cardinia
+857,Gladysdale,,house,,Yarra Ranges
+293,Glen Huntly,1380000.0,house,1.0,
+294,Glen Iris,1929500.0,house,1.0,
+295,Glen Waverley,1270000.0,house,1.0,
+1018,Glengala,,house,,Brimbank
+1019,Glengala,,house,,Maribyrnong
+1020,Glengala,,house,,Moonee Valley
+1021,Glengala,,house,,Wyndham
+298,Glenroy,700000.0,house,1.0,
+304,Gowanbrae,700500.0,house,1.0,
+307,Greensborough,797500.0,house,1.0,
+308,Greenvale,715000.0,house,1.0,
+841,Greythorn,,house,,Banyule
+842,Greythorn,,house,,Boroondara
+843,Greythorn,,house,,Manningham
+844,Greythorn,,house,,Whitehorse
+1547,Gruyere,,house,,Nillumbik
+1550,Gruyere,,house,,Yarra Ranges
+1161,Guys Hill,,house,,Cardinia
+1162,Guys Hill,,house,,Casey
+310,Hadfield,727500.0,house,1.0,
+311,Hallam,560000.0,house,1.0,
+315,Hampton,1896000.0,house,1.0,
+316,Hampton East,1195000.0,house,1.0,
+910,Hampton North,,house,,Bayside
+911,Hampton North,,house,,Kingston
+317,Hampton Park,502000.0,house,1.0,
+1158,Harkaway,,house,,Cardinia
+1159,Harkaway,,house,,Casey
+1160,Harkaway,,house,,Yarra Ranges
+966,Hartwell,,house,,Boroondara
+971,Hartwell,,house,,Whitehorse
+319,Hastings,506000.0,house,1.0,
+985,Hawksburn,,house,,Boroondara
+986,Hawksburn,,house,,Stonnington
+987,Hawksburn,,house,,Yarra
+321,Hawthorn,2195500.0,house,1.0,
+322,Hawthorn East,2050000.0,house,1.0,
+953,Hawthorn North,,house,,Boroondara
+956,Hawthorn North,,house,,Stonnington
+959,Hawthorn North,,house,,Yarra
+954,Hawthorn West,,house,,Boroondara
+957,Hawthorn West,,house,,Stonnington
+960,Hawthorn West,,house,,Yarra
+325,Heatherton,965000.0,house,1.0,
+326,Heathmont,871000.0,house,1.0,
+327,Heidelberg,1122500.0,house,1.0,
+328,Heidelberg Heights,777500.0,house,1.0,
+329,Heidelberg West,665000.0,house,1.0,
+335,Highett,1229500.0,house,1.0,
+1432,Highpoint City,,house,,Maribyrnong
+1433,Highpoint City,,house,,Melbourne
+1434,Highpoint City,,house,,Moonee Valley
+1435,Highpoint City,,house,,Moreland
+1069,Hillside,,house,,Brimbank
+1071,Hillside,,house,,Hume
+1073,Hillside,,house,,Melton
+1104,Hoddles Creek,,house,,Cardinia
+1114,Hoddles Creek,,house,,Yarra Ranges
+1487,Holmesglen,,house,,Monash
+1489,Holmesglen,,house,,Stonnington
+894,Hopetoun Gardens,,house,,Bayside
+895,Hopetoun Gardens,,house,,Glen Eira
+339,Hoppers Crossing,528500.0,house,1.0,
+1553,Houston,,house,,Whitehorse
+341,Hughesdale,1150500.0,house,1.0,
+342,Huntingdale,914000.0,house,1.0,
+344,Hurstbridge,700000.0,house,1.0,
+889,Iona,,house,,Baw Baw
+892,Iona,,house,,Cardinia
+352,Ivanhoe,1540000.0,house,1.0,
+353,Ivanhoe East,1765000.0,house,1.0,
+812,Ivanhoe North,,house,,Banyule
+813,Ivanhoe North,,house,,Boroondara
+814,Ivanhoe North,,house,,Darebin
+815,Ivanhoe North,,house,,Manningham
+816,Ivanhoe North,,house,,Yarra
+354,Jacana,512500.0,house,1.0,
+360,Junction Village,483500.0,house,1.0,
+363,Kalkallo,532500.0,house,1.0,
+364,Kallista,700000.0,house,1.0,
+365,Kalorama,645000.0,house,1.0,
+1381,Kangaroo Ground,,house,,Manningham
+1384,Kangaroo Ground,,house,,Nillumbik
+1273,Karingal,,house,,Frankston
+1277,Karingal,,house,,Mornington Peninsula
+1274,Karingal Centre,,house,,Frankston
+1278,Karingal Centre,,house,,Mornington Peninsula
+369,Kealba,596000.0,house,1.0,
+370,Keilor,836500.0,house,1.0,
+371,Keilor Downs,630000.0,house,1.0,
+372,Keilor East,835000.0,house,1.0,
+373,Keilor Lodge,740000.0,house,1.0,
+1066,Keilor North,,house,,Brimbank
+1068,Keilor North,,house,,Hume
+374,Keilor Park,708000.0,house,1.0,
+376,Kensington,980000.0,house,1.0,
+796,Keon Park,,house,,Banyule
+800,Keon Park,,house,,Darebin
+804,Keon Park,,house,,Moreland
+808,Keon Park,,house,,Whittlesea
+982,Kerrimuir,,house,,Boroondara
+983,Kerrimuir,,house,,Manningham
+984,Kerrimuir,,house,,Whitehorse
+378,Kew,2255000.0,house,1.0,
+379,Kew East,1837000.0,house,1.0,
+381,Keysborough,740000.0,house,1.0,
+386,Kilsyth,642500.0,house,1.0,
+387,Kilsyth South,761500.0,house,1.0,
+389,Kings Park,510000.0,house,1.0,
+390,Kingsbury,660000.0,house,1.0,
+391,Kingsville,1010000.0,house,1.0,
+1002,Kingsville West,,house,,Brimbank
+1004,Kingsville West,,house,,Hobsons Bay
+1006,Kingsville West,,house,,Maribyrnong
+1008,Kingsville West,,house,,Moonee Valley
+1010,Kingsville West,,house,,Wyndham
+1362,Knox City Centre,,house,,Knox
+1363,Knox City Centre,,house,,Maroondah
+1364,Knox City Centre,,house,,Monash
+1365,Knox City Centre,,house,,Whitehorse
+392,Knoxfield,760000.0,house,1.0,
+988,Kooyong,,house,,Boroondara
+990,Kooyong,,house,,Glen Eira
+992,Kooyong,,house,,Stonnington
+1280,Kunyung,,house,,Frankston
+1281,Kunyung,,house,,Mornington Peninsula
+819,La Trobe University,,house,,Banyule
+820,La Trobe University,,house,,Darebin
+821,La Trobe University,,house,,Nillumbik
+822,La Trobe University,,house,,Whittlesea
+1400,Laburnum,,house,,Manningham
+1401,Laburnum,,house,,Whitehorse
+405,Lalor,590500.0,house,1.0,
+1340,Lalor Plaza,,house,,Hume
+1341,Lalor Plaza,,house,,Whittlesea
+408,Langwarrin,617500.0,house,1.0,
+1244,Langwarrin South,,house,,Casey
+1246,Langwarrin South,,house,,Frankston
+1248,Langwarrin South,,house,,Mornington Peninsula
+411,Launching Place,554000.0,house,1.0,
+412,Laverton,529000.0,house,1.0,
+1047,Laverton North,,house,,Brimbank
+1048,Laverton North,,house,,Hobsons Bay
+1049,Laverton North,,house,,Wyndham
+1314,Laverton Raaf,,house,,Hobsons Bay
+1315,Laverton Raaf,,house,,Wyndham
+418,Lilydale,680000.0,house,1.0,
+1305,Little River,,house,,Greater Geelong
+1306,Little River,,house,,Wyndham
+427,Lower Plenty,905000.0,house,1.0,
+430,Lynbrook,623000.0,house,1.0,
+431,Lyndhurst,665000.0,house,1.0,
+432,Lysterfield,956500.0,house,1.0,
+433,Lysterfield South,1045000.0,house,1.0,
+1143,Macclesfield,,house,,Cardinia
+1147,Macclesfield,,house,,Yarra Ranges
+435,Macleod,914500.0,house,1.0,
+825,Macleod West,,house,,Banyule
+827,Macleod West,,house,,Darebin
+440,Maidstone,779000.0,house,1.0,
+1506,Main Ridge,,house,,Mornington Peninsula
+444,Malvern,2550000.0,house,1.0,
+445,Malvern East,1770000.0,house,1.0,
+989,Malvern North,,house,,Boroondara
+991,Malvern North,,house,,Glen Eira
+993,Malvern North,,house,,Stonnington
+1037,Mambourin,,house,,Brimbank
+1039,Mambourin,,house,,Greater Geelong
+1041,Mambourin,,house,,Melton
+1043,Mambourin,,house,,Moorabool
+1045,Mambourin,,house,,Wyndham
+448,Manor Lakes,535000.0,house,1.0,
+451,Maribyrnong,987500.0,house,1.0,
+1174,Maryknoll,,house,,Cardinia
+1567,McCrae,,house,,Mornington Peninsula
+456,Mccrae,795000.0,house,1.0,
+458,McKinnon,1525000.0,house,1.0,
+459,Meadow Heights,472500.0,house,1.0,
+1439,Melbourne,,house,,Melbourne
+1440,Melbourne,,house,,Port Phillip
+1441,Melbourne,,house,,Stonnington
+1442,Melbourne,,house,,Yarra
+1090,Melbourne Airport,,house,,Brimbank
+1091,Melbourne Airport,,house,,Hume
+1448,Melbourne University,,house,,Melbourne
+1449,Melbourne University,,house,,Moonee Valley
+1450,Melbourne University,,house,,Moreland
+461,Melton South,390000.0,house,1.0,
+463,Mentone,1028000.0,house,1.0,
+921,Mentone East,,house,,Bayside
+923,Mentone East,,house,,Kingston
+464,Menzies Creek,682500.0,house,1.0,
+1255,Merlynston,,house,,Darebin
+1258,Merlynston,,house,,Moreland
+467,Mernda,552000.0,house,1.0,
+1498,Merricks,,house,,Mornington Peninsula
+1503,Merricks Beach,,house,,Mornington Peninsula
+1504,Merricks North,,house,,Mornington Peninsula
+470,Mickleham,525000.0,house,1.0,
+967,Middle Camberwell,,house,,Boroondara
+972,Middle Camberwell,,house,,Whitehorse
+471,Middle Park,2705000.0,house,1.0,
+473,Mill Park,654000.0,house,1.0,
+474,Millgrove,415000.0,house,1.0,
+478,Mitcham,942000.0,house,1.0,
+1404,Mitcham North,,house,,Manningham
+1406,Mitcham North,,house,,Maroondah
+1408,Mitcham North,,house,,Whitehorse
+1494,Monash University,,house,,Monash
+481,Monbulk,630000.0,house,1.0,
+482,Mont Albert,1680000.0,house,1.0,
+483,Mont Albert North,1380000.0,house,1.0,
+484,Montmorency,856000.0,house,1.0,
+485,Montrose,707500.0,house,1.0,
+486,Moonee Ponds,1300000.0,house,1.0,
+1457,Moonee Vale,,house,,Melbourne
+1460,Moonee Vale,,house,,Moonee Valley
+1463,Moonee Vale,,house,,Moreland
+487,Moorabbin,1050000.0,house,1.0,
+922,Moorabbin Airport,,house,,Bayside
+924,Moorabbin Airport,,house,,Kingston
+1508,Moorooduc,,house,,Mornington Peninsula
+488,Mooroolbark,670000.0,house,1.0,
+1540,Morang South,,house,,Nillumbik
+1541,Morang South,,house,,Whittlesea
+490,Mordialloc,1010000.0,house,1.0,
+1256,Moreland,,house,,Darebin
+1259,Moreland,,house,,Moreland
+1458,Moreland West,,house,,Melbourne
+1461,Moreland West,,house,,Moonee Valley
+1464,Moreland West,,house,,Moreland
+491,Mornington,800000.0,house,1.0,
+1135,Mount Burnett,,house,,Cardinia
+1138,Mount Burnett,,house,,Yarra Ranges
+1038,Mount Cottrell,,house,,Brimbank
+1040,Mount Cottrell,,house,,Greater Geelong
+1042,Mount Cottrell,,house,,Melton
+1044,Mount Cottrell,,house,,Moorabool
+1046,Mount Cottrell,,house,,Wyndham
+496,Mount Dandenong,662000.0,house,1.0,
+498,Mount Eliza,1157500.0,house,1.0,
+499,Mount Evelyn,636000.0,house,1.0,
+502,Mount Martha,1252500.0,house,1.0,
+504,Mount Waverley,1267000.0,house,1.0,
+1207,Mountain Gate,,house,,Casey
+1211,Mountain Gate,,house,,Knox
+1215,Mountain Gate,,house,,Yarra Ranges
+505,Mulgrave,840000.0,house,1.0,
+507,Murrumbeena,1241500.0,house,1.0,
+1136,Nangana,,house,,Cardinia
+1139,Nangana,,house,,Yarra Ranges
+1175,Nar Nar Goon,,house,,Cardinia
+1176,Nar Nar Goon North,,house,,Cardinia
+511,Narre Warren,590000.0,house,1.0,
+1150,Narre Warren East,,house,,Cardinia
+1152,Narre Warren East,,house,,Casey
+1154,Narre Warren East,,house,,Knox
+1156,Narre Warren East,,house,,Yarra Ranges
+512,Narre Warren North,1075000.0,house,1.0,
+513,Narre Warren South,625000.0,house,1.0,
+524,Newport,1055000.0,house,1.0,
+529,Niddrie,1070000.0,house,1.0,
+530,Noble Park,629000.0,house,1.0,
+1297,Noble Park East,,house,,Greater Dandenong
+1298,Noble Park East,,house,,Monash
+531,Noble Park North,610000.0,house,1.0,
+536,North Melbourne,1297500.0,house,1.0,
+908,North Road,,house,,Bayside
+909,North Road,,house,,Glen Eira
+1390,North Warrandyte,,house,,Manningham
+1392,North Warrandyte,,house,,Nillumbik
+538,Northcote,1300000.0,house,1.0,
+1266,Northcote South,,house,,Darebin
+1267,Northcote South,,house,,Moreland
+1268,Northcote South,,house,,Yarra
+784,Northland Centre,,house,,Banyule
+788,Northland Centre,,house,,Darebin
+792,Northland Centre,,house,,Moreland
+539,Notting Hill,875500.0,house,1.0,
+541,Nunawading,950000.0,house,1.0,
+1523,Nutfield,,house,,Murrindindi
+1528,Nutfield,,house,,Nillumbik
+1533,Nutfield,,house,,Whittlesea
+544,Oak Park,840000.0,house,1.0,
+1326,Oaklands Junction,,house,,Hume
+545,Oakleigh,1101000.0,house,1.0,
+546,Oakleigh East,942000.0,house,1.0,
+547,Oakleigh South,908000.0,house,1.0,
+549,Officer,550000.0,house,1.0,
+550,Officer South,686000.0,house,1.0,
+551,Olinda,748000.0,house,1.0,
+553,Ormond,1467500.0,house,1.0,
+556,Pakenham,485000.0,house,1.0,
+1171,Pakenham South,,house,,Cardinia
+1172,Pakenham Upper,,house,,Cardinia
+1544,Panton Hill,,house,,Nillumbik
+558,Park Orchards,1460000.0,house,1.0,
+559,Parkdale,1155000.0,house,1.0,
+560,Parkville,1480000.0,house,1.0,
+561,Pascoe Vale,858500.0,house,1.0,
+562,Pascoe Vale South,950000.0,house,1.0,
+925,Patterson,,house,,Bayside
+926,Patterson,,house,,Glen Eira
+927,Patterson,,house,,Kingston
+564,Patterson Lakes,923000.0,house,1.0,
+566,Pearcedale,670000.0,house,1.0,
+1279,Pines Forest,,house,,Frankston
+1490,Pinewood,,house,,Monash
+1491,Pinewood,,house,,Whitehorse
+570,Plenty,1301000.0,house,1.0,
+1092,Plumpton,,house,,Brimbank
+1094,Plumpton,,house,,Melton
+571,Point Cook,640500.0,house,1.0,
+1499,Point Leo,,house,,Mornington Peninsula
+578,Port Melbourne,1375000.0,house,1.0,
+583,Portsea,1950000.0,house,1.0,
+850,Powelltown,,house,,Baw Baw
+854,Powelltown,,house,,Cardinia
+858,Powelltown,,house,,Yarra Ranges
+584,Prahran,1510000.0,house,1.0,
+1477,Prahran East,,house,,Melbourne
+1478,Prahran East,,house,,Port Phillip
+1479,Prahran East,,house,,Stonnington
+585,Preston,936500.0,house,1.0,
+785,Preston Lower,,house,,Banyule
+789,Preston Lower,,house,,Darebin
+793,Preston Lower,,house,,Moreland
+786,Preston South,,house,,Banyule
+790,Preston South,,house,,Darebin
+794,Preston South,,house,,Moreland
+787,Preston West,,house,,Banyule
+791,Preston West,,house,,Darebin
+795,Preston West,,house,,Moreland
+586,Princes Hill,2035000.0,house,1.0,
+1052,Quandong,,house,,Brimbank
+1055,Quandong,,house,,Greater Geelong
+1058,Quandong,,house,,Hobsons Bay
+1061,Quandong,,house,,Melton
+1064,Quandong,,house,,Wyndham
+1405,Rangeview,,house,,Manningham
+1407,Rangeview,,house,,Maroondah
+1409,Rangeview,,house,,Whitehorse
+1032,Ravenhall,,house,,Brimbank
+1036,Ravenhall,,house,,Melton
+1510,Red Hill,,house,,Mornington Peninsula
+1511,Red Hill South,,house,,Mornington Peninsula
+864,Reefton,,house,,Baw Baw
+871,Reefton,,house,,Mansfield
+878,Reefton,,house,,Murrindindi
+885,Reefton,,house,,Yarra Ranges
+595,Research,930000.0,house,1.0,
+596,Reservoir,750000.0,house,1.0,
+797,Reservoir East,,house,,Banyule
+801,Reservoir East,,house,,Darebin
+805,Reservoir East,,house,,Moreland
+809,Reservoir East,,house,,Whittlesea
+798,Reservoir North,,house,,Banyule
+802,Reservoir North,,house,,Darebin
+806,Reservoir North,,house,,Moreland
+810,Reservoir North,,house,,Whittlesea
+799,Reservoir South,,house,,Banyule
+803,Reservoir South,,house,,Darebin
+807,Reservoir South,,house,,Moreland
+811,Reservoir South,,house,,Whittlesea
+598,Richmond,1255000.0,house,1.0,
+934,Richmond East,,house,,Boroondara
+939,Richmond East,,house,,Melbourne
+944,Richmond East,,house,,Stonnington
+949,Richmond East,,house,,Yarra
+935,Richmond North,,house,,Boroondara
+940,Richmond North,,house,,Melbourne
+945,Richmond North,,house,,Stonnington
+950,Richmond North,,house,,Yarra
+936,Richmond South,,house,,Boroondara
+941,Richmond South,,house,,Melbourne
+946,Richmond South,,house,,Stonnington
+951,Richmond South,,house,,Yarra
+600,Ringwood,813500.0,house,1.0,
+601,Ringwood East,809000.0,house,1.0,
+602,Ringwood North,871000.0,house,1.0,
+899,Ripponlea,,house,,Bayside
+900,Ripponlea,,house,,Glen Eira
+901,Ripponlea,,house,,Port Phillip
+1013,Robinson,,house,,Brimbank
+1015,Robinson,,house,,Maribyrnong
+1017,Robinson,,house,,Moonee Valley
+606,Rockbank,497000.0,house,1.0,
+608,Rosanna,1042500.0,house,1.0,
+609,Rosebud,545000.0,house,1.0,
+1515,Rosebud Plaza,,house,,Mornington Peninsula
+612,Rowville,820500.0,house,1.0,
+613,Roxburgh Park,540000.0,house,1.0,
+616,Rye,690000.0,house,1.0,
+1173,Rythdale,,house,,Cardinia
+617,Safety Beach,785000.0,house,1.0,
+832,Saint Helena,,house,,Banyule
+833,Saint Helena,,house,,Nillumbik
+834,Saint Helena,,house,,Whittlesea
+622,Sandhurst,815000.0,house,1.0,
+1294,Sandown Village,,house,,Greater Dandenong
+1295,Sandown Village,,house,,Kingston
+1296,Sandown Village,,house,,Monash
+623,Sandringham,1650000.0,house,1.0,
+625,Sassafras,805000.0,house,1.0,
+1375,Sassafras Gully,,house,,Knox
+1377,Sassafras Gully,,house,,Yarra Ranges
+626,Scoresby,767000.0,house,1.0,
+628,Seabrook,626500.0,house,1.0,
+629,Seaford,655000.0,house,1.0,
+630,Seaholme,1020000.0,house,1.0,
+633,Seddon,960000.0,house,1.0,
+1429,Seddon West,,house,,Maribyrnong
+1430,Seddon West,,house,,Melbourne
+1431,Seddon West,,house,,Moonee Valley
+634,Selby,601500.0,house,1.0,
+635,Seville,620000.0,house,1.0,
+636,Seville East,580000.0,house,1.0,
+1558,Sherbrooke,,house,,Yarra Ranges
+640,Shoreham,1500000.0,house,1.0,
+1561,Silvan,,house,,Yarra Ranges
+644,Skye,600000.0,house,1.0,
+1545,Smiths Gully,,house,,Nillumbik
+648,Somers,950000.0,house,1.0,
+1324,Somerton,,house,,Hume
+1325,Somerton,,house,,Whittlesea
+649,Somerville,600000.0,house,1.0,
+650,Sorrento,1465000.0,house,1.0,
+653,South Kingsville,859000.0,house,1.0,
+654,South Melbourne,1355000.0,house,1.0,
+655,South Morang,625500.0,house,1.0,
+656,South Yarra,1767500.0,house,1.0,
+1444,Southbank,,house,,Melbourne
+1445,Southbank,,house,,Port Phillip
+915,Southland Centre,,house,,Bayside
+916,Southland Centre,,house,,Kingston
+657,Spotswood,960000.0,house,1.0,
+659,Springvale,743000.0,house,1.0,
+660,Springvale South,678000.0,house,1.0,
+661,St Albans,590000.0,house,1.0,
+663,St Andrews Beach,930000.0,house,1.0,
+665,St Helena,905000.0,house,1.0,
+666,St Kilda,1600000.0,house,1.0,
+667,St Kilda East,1560000.0,house,1.0,
+668,St Kilda West,2078500.0,house,1.0,
+1415,Steels Creek,,house,,Manningham
+1419,Steels Creek,,house,,Murrindindi
+1423,Steels Creek,,house,,Nillumbik
+1427,Steels Creek,,house,,Yarra Ranges
+1524,Strathewen,,house,,Murrindindi
+1529,Strathewen,,house,,Nillumbik
+1534,Strathewen,,house,,Whittlesea
+676,Strathmore,1310000.0,house,1.0,
+677,Strathmore Heights,800000.0,house,1.0,
+680,Sunbury,535000.0,house,1.0,
+684,Sunshine,720000.0,house,1.0,
+685,Sunshine North,630000.0,house,1.0,
+686,Sunshine West,635000.0,house,1.0,
+688,Surrey Hills,1886500.0,house,1.0,
+980,Surrey Hills North,,house,,Boroondara
+981,Surrey Hills North,,house,,Whitehorse
+974,Surrey Hills South,,house,,Boroondara
+976,Surrey Hills South,,house,,Monash
+978,Surrey Hills South,,house,,Whitehorse
+690,Sydenham,599500.0,house,1.0,
+691,Syndal,1524500.0,house,1.0,
+693,Tarneit,555000.0,house,1.0,
+1416,Tarrawarra,,house,,Manningham
+1420,Tarrawarra,,house,,Murrindindi
+1424,Tarrawarra,,house,,Nillumbik
+1428,Tarrawarra,,house,,Yarra Ranges
+697,Taylors Hill,702500.0,house,1.0,
+698,Taylors Lakes,748500.0,house,1.0,
+699,Tecoma,662500.0,house,1.0,
+700,Templestowe,1276500.0,house,1.0,
+701,Templestowe Lower,1080000.0,house,1.0,
+703,The Basin,695000.0,house,1.0,
+705,The Patch,755000.0,house,1.0,
+1387,The Pines,,house,,Manningham
+1389,The Pines,,house,,Whitehorse
+706,Thomastown,592000.0,house,1.0,
+708,Thornbury,1135000.0,house,1.0,
+851,Three Bridges,,house,,Baw Baw
+855,Three Bridges,,house,,Cardinia
+859,Three Bridges,,house,,Yarra Ranges
+890,Tonimbuk,,house,,Baw Baw
+893,Tonimbuk,,house,,Cardinia
+714,Tooradin,700000.0,house,1.0,
+715,Toorak,4361000.0,house,1.0,
+716,Tootgarook,580000.0,house,1.0,
+1003,Tottenham,,house,,Brimbank
+1005,Tottenham,,house,,Hobsons Bay
+1007,Tottenham,,house,,Maribyrnong
+1009,Tottenham,,house,,Moonee Valley
+1011,Tottenham,,house,,Wyndham
+721,Travancore,1125000.0,house,1.0,
+1370,Tremont,,house,,Knox
+1371,Tremont,,house,,Yarra Ranges
+723,Truganina,575000.0,house,1.0,
+1497,Tuerong,,house,,Mornington Peninsula
+724,Tullamarine,612000.0,house,1.0,
+725,Tyabb,580500.0,house,1.0,
+1177,Tynong,,house,,Cardinia
+1178,Tynong North,,house,,Cardinia
+1447,University Of Melbourne,,house,,Melbourne
+727,Upper Ferntree Gully,642500.0,house,1.0,
+728,Upwey,702500.0,house,1.0,
+731,Vermont,937000.0,house,1.0,
+732,Vermont South,1166500.0,house,1.0,
+1182,Vervale,,house,,Cardinia
+733,Viewbank,920000.0,house,1.0,
+1108,Wandin East,,house,,Cardinia
+1118,Wandin East,,house,,Yarra Ranges
+740,Wandin North,627500.0,house,1.0,
+742,Wantirna,860000.0,house,1.0,
+743,Wantirna South,988500.0,house,1.0,
+744,Warburton,515000.0,house,1.0,
+745,Warneet,512500.0,house,1.0,
+748,Warrandyte,987500.0,house,1.0,
+1349,Warrandyte South,,house,,Knox
+1351,Warrandyte South,,house,,Manningham
+1353,Warrandyte South,,house,,Maroondah
+1355,Warrandyte South,,house,,Whitehorse
+749,Warranwood,935000.0,house,1.0,
+1077,Watergardens,,house,,Brimbank
+751,Waterways,1270000.0,house,1.0,
+752,Watsonia,736000.0,house,1.0,
+753,Watsonia North,726500.0,house,1.0,
+1382,Watsons Creek,,house,,Manningham
+1385,Watsons Creek,,house,,Nillumbik
+754,Wattle Glen,778500.0,house,1.0,
+1554,Wattle Park,,house,,Whitehorse
+1291,Waverley Gardens,,house,,Greater Dandenong
+1292,Waverley Gardens,,house,,Knox
+1293,Waverley Gardens,,house,,Monash
+760,Werribee,510000.0,house,1.0,
+761,Werribee South,744500.0,house,1.0,
+762,Wesburn,530000.0,house,1.0,
+763,West Footscray,787500.0,house,1.0,
+764,West Melbourne,1085000.0,house,1.0,
+768,Westmeadows,620000.0,house,1.0,
+769,Wheelers Hill,1009000.0,house,1.0,
+1342,Wildwood,,house,,Hume
+1343,Wildwood,,house,,Macedon Ranges
+1344,Wildwood,,house,,Melton
+774,Williams Landing,660000.0,house,1.0,
+775,Williamstown,1350000.0,house,1.0,
+776,Williamstown North,915000.0,house,1.0,
+779,Windsor,1350000.0,house,1.0,
+912,Wishart,,house,,Bayside
+913,Wishart,,house,,Glen Eira
+914,Wishart,,house,,Kingston
+782,Wollert,577500.0,house,1.0,
+783,Wonga Park,1111000.0,house,1.0,
+1345,Woodstock,,house,,Hume
+1346,Woodstock,,house,,Mitchell
+1347,Woodstock,,house,,Whittlesea
+787,Woori Yallock,510000.0,house,1.0,
+1443,World Trade Centre,,house,,Melbourne
+791,Wyndham Vale,465000.0,house,1.0,
+793,Yallambie,792500.0,house,1.0,
+1542,Yan Yean,,house,,Nillumbik
+1543,Yan Yean,,house,,Whittlesea
+795,Yarra Glen,670000.0,house,1.0,
+796,Yarra Junction,582500.0,house,1.0,
+1537,Yarrambat,,house,,Nillumbik
+1538,Yarrambat,,house,,Whittlesea
+799,Yarraville,971000.0,house,1.0,
+1307,Yarraville West,,house,,Hobsons Bay
+1308,Yarraville West,,house,,Maribyrnong
+1309,Yarraville West,,house,,Melbourne
+1111,Yellingbo,,house,,Cardinia
+1121,Yellingbo,,house,,Yarra Ranges
+1548,Yering,,house,,Nillumbik
+1551,Yering,,house,,Yarra Ranges
+1327,Yuroke,,house,,Hume
