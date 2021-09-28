@@ -1,0 +1,1689 @@
+,suburb,median_price,type
+0,Abbotsford,1030000,house
+0,Abbotsford,517500,unit
+1,Aberfeldie,1390000,house
+1,Aberfeldie,950000,unit
+2,Aintree,610000,house
+3,Aireys Inlet,985000,house
+4,Airport West,790000,house
+2,Airport West,608000,unit
+5,Albanvale,512000,house
+6,Albert Park,1965000,house
+3,Albert Park,915000,unit
+7,Albion,675000,house
+4,Albion,261000,unit
+8,Alexandra,325500,house
+9,Alfredton,480000,house
+5,Alfredton,277000,unit
+10,Allansford,300000,house
+11,Alphington,1570000,house
+6,Alphington,713500,unit
+12,Altona,882500,house
+7,Altona,625000,unit
+13,Altona East,842500,house
+8,Altona East,630000,unit
+0,Altona Gate,738750,house
+1,Altona Gate,530000,unit
+14,Altona Meadows,617500,house
+9,Altona Meadows,472500,unit
+15,Altona North,788500,house
+10,Altona North,630000,unit
+16,Anglesea,905000,house
+11,Anglesea,755000,unit
+17,Apollo Bay,597500,house
+12,Apollo Bay,534000,unit
+18,Ararat,216500,house
+13,Ararat,207000,unit
+19,Ardeer,571500,house
+14,Ardeer,531000,unit
+20,Armadale,2462500,house
+15,Armadale,634000,unit
+2,Armadale North,1467500,house
+3,Armadale North,606750,unit
+21,Armstrong Creek,540000,house
+4,Arthurs Creek,594750,house
+5,Arthurs Creek,425000,unit
+6,Arthurs Seat,797500,house
+7,Arthurs Seat,540000,unit
+22,Ascot (Greater Bendigo),415500,house
+23,Ascot Vale,1088500,house
+16,Ascot Vale,516000,unit
+24,Ashburton,1651000,house
+17,Ashburton,1144500,unit
+25,Ashwood,1100000,house
+18,Ashwood,875000,unit
+26,Aspendale,994000,house
+19,Aspendale,690500,unit
+27,Aspendale Gardens,844000,house
+28,Attwood,767500,house
+8,Auburn,1530000,house
+9,Auburn,668875,unit
+10,Auburn South,1385000,house
+11,Auburn South,606750,unit
+29,Avenel,370000,house
+30,Avoca,219500,house
+31,Avondale Heights,810000,house
+20,Avondale Heights,628000,unit
+32,Avonsleigh,532500,house
+33,Bacchus Marsh,500000,house
+21,Bacchus Marsh,393000,unit
+34,Badger Creek,498000,house
+35,Bairnsdale,274000,house
+22,Bairnsdale,215000,unit
+36,Balaclava,1310000,house
+23,Balaclava,565000,unit
+37,Balcombe,1109000,house
+38,Ballan,450000,house
+24,Ballan,337000,unit
+39,Ballarat Central,520000,house
+25,Ballarat Central,270000,unit
+40,Ballarat East,360000,house
+26,Ballarat East,299500,unit
+41,Ballarat North,413500,house
+27,Ballarat North,275000,unit
+42,Balnarring,825000,house
+43,Balnarring Beach,1275000,house
+44,Balwyn,2392500,house
+28,Balwyn,875000,unit
+12,Balwyn East,1422875,house
+13,Balwyn East,735500,unit
+45,Balwyn North,1700000,house
+29,Balwyn North,1010000,unit
+14,Bangholme,773250,house
+15,Bangholme,543750,unit
+46,Bannockburn,529000,house
+16,Banyule,967500,house
+17,Banyule,655375,unit
+47,Baranduda,395000,house
+48,Barnawartha,316000,house
+49,Barwon Heads,1007500,house
+30,Barwon Heads,938000,unit
+18,Batman,932250,house
+19,Batman,546500,unit
+50,Baxter,530000,house
+51,Bayswater,715000,house
+31,Bayswater,581000,unit
+52,Bayswater North,695000,house
+32,Bayswater North,480000,unit
+53,Beaconsfield,690000,house
+33,Beaconsfield,454000,unit
+54,Beaconsfield Upper,787500,house
+55,Beaufort,242500,house
+56,Beaumaris,1582500,house
+34,Beaumaris,887500,unit
+20,Bedford Road,817500,house
+21,Bedford Road,594750,unit
+57,Beeac,195000,house
+58,Beechworth,472000,house
+22,Beenak,632000,house
+23,Beenak,498375,unit
+59,Belgrave,636000,house
+60,Belgrave Heights,685000,house
+61,Belgrave South,665500,house
+62,Bell Park,482000,house
+35,Bell Park,397500,unit
+63,Bell Post Hill,475000,house
+64,Bellbridge,368500,house
+24,Bellfield,919750,house
+25,Bellfield,605125,unit
+65,Bellfield (Banyule),770000,house
+36,Bellfield (Banyule),655000,unit
+66,Belmont,545000,house
+37,Belmont,419000,unit
+26,Belvedere Park,765750,house
+27,Belvedere Park,518250,unit
+67,Benalla,290000,house
+38,Benalla,210000,unit
+28,Bend Of Islands,880750,house
+29,Bend Of Islands,610000,unit
+30,Bend of Islands,751500,house
+31,Bend of Islands,547500,unit
+68,Bendigo,420000,house
+39,Bendigo,275000,unit
+32,Bennettswood,1165750,house
+33,Bennettswood,731000,unit
+69,Bentleigh,1382500,house
+40,Bentleigh,655000,unit
+70,Bentleigh East,1200000,house
+41,Bentleigh East,746000,unit
+71,Berwick,673500,house
+42,Berwick,522500,unit
+72,Beulah,77000,house
+73,Beveridge,610000,house
+34,Big Pats Creek,518750,house
+35,Big Pats Creek,429500,unit
+74,Birchip,107500,house
+75,Birregurra,463000,house
+76,Bittern,577500,house
+43,Bittern,471500,unit
+77,Black Hill,495000,house
+44,Black Hill,282500,unit
+78,Black Rock,1777500,house
+45,Black Rock,950000,unit
+36,Black Rock North,1228250,house
+37,Black Rock North,637125,unit
+79,Blackburn,1300000,house
+46,Blackburn,685500,unit
+80,Blackburn North,1010000,house
+47,Blackburn North,760500,unit
+81,Blackburn South,1038000,house
+48,Blackburn South,760000,unit
+82,Blackwood,372500,house
+83,Blairgowrie,925000,house
+84,Blind Bight,552500,house
+85,Bonbeach,850000,house
+49,Bonbeach,545000,unit
+38,Boneo,797500,house
+39,Boneo,540000,unit
+86,Bonnie Doon,420000,house
+87,Bonshaw,389000,house
+88,Boolarra,245000,house
+89,Boort,185000,house
+90,Boronia,684500,house
+50,Boronia,573000,unit
+91,Botanic Ridge,700000,house
+92,Box Hill,1528000,house
+51,Box Hill,519000,unit
+40,Box Hill Central,1165750,house
+41,Box Hill Central,740000,unit
+93,Box Hill North,1200000,house
+52,Box Hill North,878000,unit
+94,Box Hill South,1154000,house
+53,Box Hill South,713000,unit
+42,Braeside,836500,house
+43,Braeside,556750,unit
+95,Braybrook,630000,house
+54,Braybrook,556000,unit
+44,Braybrook North,849250,house
+45,Braybrook North,516000,unit
+96,Breakwater,405000,house
+55,Breakwater,360500,unit
+46,Brentford Square,1087875,house
+47,Brentford Square,706250,unit
+97,Briagolong,315000,house
+98,Briar Hill,817000,house
+56,Briar Hill,627500,unit
+99,Bright,580000,house
+57,Bright,450000,unit
+100,Brighton,2600000,house
+58,Brighton,1038000,unit
+101,Brighton East,1700000,house
+59,Brighton East,990000,unit
+48,Brighton North,1525000,house
+49,Brighton North,641500,unit
+50,Brighton Road,1525000,house
+51,Brighton Road,641500,unit
+102,Broadford,417500,house
+103,Broadmeadows,526000,house
+60,Broadmeadows,395000,unit
+104,Brookfield,445000,house
+61,Brookfield,455000,unit
+105,Brooklyn,672500,house
+62,Brooklyn,567500,unit
+106,Brown Hill,449000,house
+63,Brown Hill,297500,unit
+107,Brunswick,1030000,house
+64,Brunswick,555000,unit
+108,Brunswick East,995500,house
+65,Brunswick East,521000,unit
+52,Brunswick Lower,1267000,house
+53,Brunswick Lower,590000,unit
+54,Brunswick North,1267000,house
+55,Brunswick North,590000,unit
+56,Brunswick South,950000,house
+57,Brunswick South,521000,unit
+109,Brunswick West,1061000,house
+66,Brunswick West,499000,unit
+110,Bruthen,229000,house
+58,Bulla,614125,house
+59,Bulla,450250,unit
+111,Bulleen,1100000,house
+67,Bulleen,727000,unit
+112,Bundalong,515000,house
+113,Bundoora,727500,house
+68,Bundoora,400000,unit
+114,Buninyong,475000,house
+115,Bunyip,501000,house
+69,Bunyip,397500,unit
+60,Bunyip North,553625,house
+61,Bunyip North,429125,unit
+116,Burnley,1188500,house
+62,Burnley North,1382500,house
+63,Burnley North,599125,unit
+117,Burnside,605000,house
+118,Burnside Heights,591000,house
+119,Burwood,1165000,house
+70,Burwood,740000,unit
+120,Burwood East,1020000,house
+71,Burwood East,660000,unit
+64,Burwood Heights,1087375,house
+65,Burwood Heights,687500,unit
+121,Cairnlea,752500,house
+72,Cairnlea,432500,unit
+66,Calder Park,595750,house
+67,Calder Park,435500,unit
+122,California Gully,289000,house
+73,California Gully,188500,unit
+123,Camberwell,2100000,house
+74,Camberwell,810000,unit
+68,Camberwell East,1680000,house
+69,Camberwell East,731000,unit
+70,Camberwell North,1422875,house
+71,Camberwell North,735500,unit
+72,Camberwell South,1422875,house
+73,Camberwell South,735500,unit
+74,Camberwell West,1422875,house
+75,Camberwell West,735500,unit
+124,Campbellfield,534500,house
+75,Campbellfield,343000,unit
+125,Campbells Creek,500000,house
+126,Camperdown,280000,house
+127,Canadian,377500,house
+76,Canadian,301500,unit
+128,Cann River,125000,house
+76,Cannons Creek,602500,house
+77,Cannons Creek,430500,unit
+129,Canterbury,2832500,house
+77,Canterbury,1210000,unit
+130,Cape Paterson,540000,house
+131,Cape Schanck,940000,house
+132,Capel Sound,515000,house
+78,Capel Sound,540000,unit
+78,Cardinia,598625,house
+79,Cardinia,429375,unit
+133,Carisbrook,300000,house
+134,Carlton,1306000,house
+79,Carlton,407500,unit
+135,Carlton North,1555000,house
+80,Carlton North,592000,unit
+80,Carlton South,1326000,house
+81,Carlton South,590750,unit
+136,Carnegie,1310000,house
+81,Carnegie,621000,unit
+137,Caroline Springs,620000,house
+82,Caroline Springs,465000,unit
+138,Carrum,770000,house
+83,Carrum,608000,unit
+139,Carrum Downs,537500,house
+84,Carrum Downs,431000,unit
+140,Casterton,150000,house
+141,Castlemaine,520000,house
+85,Castlemaine,420000,unit
+142,Caulfield,1658000,house
+86,Caulfield,750500,unit
+143,Caulfield East,1372500,house
+87,Caulfield East,350000,unit
+82,Caulfield Junction,1467500,house
+83,Caulfield Junction,606750,unit
+144,Caulfield North,2100000,house
+88,Caulfield North,597000,unit
+145,Caulfield South,1488000,house
+89,Caulfield South,707000,unit
+84,Central Park,1423750,house
+85,Central Park,638250,unit
+146,Chadstone,1000000,house
+90,Chadstone,801000,unit
+86,Chadstone Centre,1194500,house
+87,Chadstone Centre,620875,unit
+88,Chapel Street North,1382500,house
+89,Chapel Street North,592000,unit
+147,Charlemont,465000,house
+148,Charlton,147000,house
+149,Chelsea,857500,house
+91,Chelsea,605500,unit
+150,Chelsea Heights,750000,house
+92,Chelsea Heights,610500,unit
+151,Cheltenham,1035500,house
+93,Cheltenham,575000,unit
+152,Cheltenham East,940000,house
+94,Cheltenham East,590000,unit
+153,Cheltenham North,858000,house
+95,Cheltenham North,620000,unit
+154,Chewton,439500,house
+155,Chiltern,223500,house
+156,Chirnside Park,685000,house
+96,Chirnside Park,610000,unit
+90,Christmas Hills,711625,house
+91,Christmas Hills,557750,unit
+157,Chum Creek,575000,house
+158,Churchill,185000,house
+159,Clarinda,815000,house
+97,Clarinda,670000,unit
+160,Clayton,1100500,house
+98,Clayton,681000,unit
+161,Clayton North,1405000,house
+99,Clayton North,607000,unit
+162,Clayton South,832000,house
+100,Clayton South,507500,unit
+92,Clematis,632000,house
+93,Clematis,498375,unit
+163,Clifton Hill,1352500,house
+101,Clifton Hill,607500,unit
+164,Clifton Springs,485000,house
+165,Clunes,330000,house
+166,Clyde,549000,house
+167,Clyde North,584500,house
+102,Clyde North,518500,unit
+94,Coatesville,1009000,house
+95,Coatesville,635000,unit
+168,Cobblebank,480500,house
+169,Cobden,237000,house
+170,Cobram,272500,house
+103,Cobram,215000,unit
+171,Coburg,931000,house
+104,Coburg,542500,unit
+172,Coburg East,823500,house
+105,Coburg East,623000,unit
+173,Coburg North,812500,house
+106,Coburg North,572000,unit
+174,Cockatoo,580000,house
+96,Cocoroc,635000,house
+97,Cocoroc,460000,unit
+175,Cohuna,205000,house
+176,Colac,315000,house
+107,Colac,310000,unit
+177,Coldstream,635000,house
+178,Coleraine,136000,house
+179,Collingwood,1050000,house
+108,Collingwood,591000,unit
+98,Collingwood North,1326000,house
+99,Collingwood North,590750,unit
+180,Connewarre,1345000,house
+181,Coolaroo,441000,house
+182,Coonans Hill,902500,house
+183,Coongulla,335000,house
+100,Cora Lynn,592250,house
+101,Cora Lynn,428750,unit
+184,Corinella,357500,house
+185,Corio,354000,house
+109,Corio,310000,unit
+186,Coronet Bay,365000,house
+187,Corryong,236000,house
+102,Cotham,1532500,house
+103,Cotham,661250,unit
+104,Cottles Bridge,594750,house
+105,Cottles Bridge,425000,unit
+188,Cowes,560000,house
+110,Cowes,350000,unit
+189,Cowes West,508500,house
+111,Cowes West,439000,unit
+190,Craigieburn,530000,house
+112,Craigieburn,380000,unit
+191,Cranbourne,500000,house
+113,Cranbourne,362500,unit
+192,Cranbourne East,565000,house
+114,Cranbourne East,427500,unit
+193,Cranbourne North,570000,house
+115,Cranbourne North,425000,unit
+106,Cranbourne South,602500,house
+107,Cranbourne South,430500,unit
+194,Cranbourne West,520000,house
+116,Cranbourne West,385000,unit
+195,Cremorne,1267000,house
+117,Cremorne,870000,unit
+196,Creswick,345000,house
+118,Creswick,307500,unit
+197,Crib Point,527500,house
+119,Crib Point,405000,unit
+108,Cromer,1228250,house
+109,Cromer,637125,unit
+198,Croydon,732500,house
+120,Croydon,567000,unit
+199,Croydon Hills,835000,house
+200,Croydon North,825000,house
+121,Croydon North,610000,unit
+201,Croydon South,716000,house
+122,Croydon South,652000,unit
+202,Curlewis,560000,house
+203,Dallas,451500,house
+123,Dallas,429000,unit
+204,Dalyston,373000,house
+205,Dandenong,602000,house
+124,Dandenong,337000,unit
+110,Dandenong East,773250,house
+111,Dandenong East,543750,unit
+206,Dandenong North,605000,house
+125,Dandenong North,430000,unit
+112,Dandenong South,773250,house
+113,Dandenong South,543750,unit
+207,Darley,520000,house
+126,Darley,310000,unit
+114,Darling,1423750,house
+115,Darling,638250,unit
+208,Dartmoor,157500,house
+209,Daylesford,590000,house
+127,Daylesford,535500,unit
+211,Deepdene,2758000,house
+128,Deepdene,1060000,unit
+212,Deer Park,550000,house
+129,Deer Park,460000,unit
+116,Deer Park East,632500,house
+117,Deer Park East,465000,unit
+118,Deer Park North,594625,house
+119,Deer Park North,440250,unit
+213,Delacombe,390000,house
+214,Delahey,530000,house
+130,Delahey,400000,unit
+120,Dendy,1525000,house
+121,Dendy,641500,unit
+215,Dennington,360000,house
+216,Derrimut,649000,house
+217,Derrinallum,221500,house
+122,Devon Meadows,602500,house
+123,Devon Meadows,430500,unit
+124,Dewhurst,605000,house
+125,Dewhurst,430000,unit
+218,Diamond Creek,751500,house
+131,Diamond Creek,661000,unit
+219,Diggers Rest,515000,house
+220,Dimboola,120000,house
+221,Dingley Village,810000,house
+132,Dingley Village,600000,unit
+222,Dinner Plain,520000,house
+126,Dixons Creek,711625,house
+127,Dixons Creek,557750,unit
+133,Docklands,590000,unit
+128,Don Valley,632000,house
+129,Don Valley,498375,unit
+223,Donald,135500,house
+224,Doncaster,1251500,house
+134,Doncaster,620000,unit
+225,Doncaster East,1190000,house
+135,Doncaster East,796000,unit
+130,Doncaster Heights,1087875,house
+131,Doncaster Heights,706250,unit
+132,Donnybrook,563000,house
+133,Donnybrook,410000,unit
+226,Donvale,1121000,house
+136,Donvale,756000,unit
+227,Doreen,597500,house
+137,Doreen,430000,unit
+228,Doveton,470000,house
+138,Doveton,400000,unit
+229,Dromana,715500,house
+139,Dromana,585000,unit
+230,Drouin,440000,house
+140,Drouin,334000,unit
+231,Drysdale,572500,house
+141,Drysdale,392500,unit
+134,Dunearn,773250,house
+135,Dunearn,543750,unit
+232,Dunkeld,225000,house
+233,Dunolly,234500,house
+234,Eagle Point,360000,house
+235,Eaglehawk,321500,house
+142,Eaglehawk,242000,unit
+236,Eaglemont,1799000,house
+143,Eaglemont,785000,unit
+237,East Bairnsdale,235000,house
+238,East Bendigo,390000,house
+144,East Bendigo,331000,unit
+239,East Geelong,625000,house
+145,East Geelong,425500,unit
+240,East Melbourne,3413500,house
+146,East Melbourne,595000,unit
+241,East Warburton,446500,house
+242,Eastwood,410000,house
+243,Echuca,370000,house
+147,Echuca,269000,unit
+244,Edenhope,173000,house
+245,Edithvale,954000,house
+148,Edithvale,694000,unit
+246,Eildon,251500,house
+247,Elliminyt,445000,house
+248,Elmore,235000,house
+249,Elsternwick,1750000,house
+149,Elsternwick,600000,unit
+250,Eltham,925000,house
+150,Eltham,650000,unit
+251,Eltham North,930000,house
+252,Elwood,1952500,house
+151,Elwood,672500,unit
+253,Emerald,660000,house
+254,Endeavour Hills,620000,house
+152,Endeavour Hills,497500,unit
+255,Epping,550000,house
+153,Epping,400000,unit
+256,Epsom,371500,house
+154,Epsom,305000,unit
+257,Essendon,1447000,house
+155,Essendon,520000,unit
+136,Essendon Fields,849250,house
+137,Essendon Fields,516000,unit
+258,Essendon North,1100000,house
+156,Essendon North,425000,unit
+259,Essendon West,1160000,house
+260,Eumemmerring,540000,house
+157,Eumemmerring,430000,unit
+261,Eureka,360000,house
+262,Euroa,309000,house
+158,Euroa,239000,unit
+138,Exford,556750,house
+139,Exford,415500,unit
+263,Eynesbury,558500,house
+264,Fairfield,1290000,house
+159,Fairfield,526500,unit
+265,Fairhaven,1395000,house
+266,Fawkner,665000,house
+160,Fawkner,477500,unit
+140,Fawkner East,914500,house
+141,Fawkner East,521000,unit
+142,Fawkner North,914500,house
+143,Fawkner North,521000,unit
+267,Ferntree Gully,692000,house
+161,Ferntree Gully,537500,unit
+268,Ferny Creek,733000,house
+269,Fingal,1240000,house
+162,Fishermans Bend,883000,unit
+270,Fitzroy,1392500,house
+163,Fitzroy,755500,unit
+271,Fitzroy North,1377500,house
+164,Fitzroy North,640000,unit
+272,Fiveways,485000,house
+273,Flemington,1000000,house
+165,Flemington,407500,unit
+274,Flinders,1670000,house
+275,Flora Hill,370000,house
+166,Flora Hill,244500,unit
+276,Flowerdale,290000,house
+277,Footscray,810000,house
+167,Footscray,410000,unit
+278,Forest Hill,900000,house
+168,Forest Hill,727500,unit
+279,Foster,325000,house
+169,Foster,180000,unit
+144,Fountain Gate,605000,house
+145,Fountain Gate,430000,unit
+280,Frankston,580500,house
+170,Frankston,414500,unit
+146,Frankston East,698750,house
+147,Frankston East,485500,unit
+148,Frankston Heights,698750,house
+149,Frankston Heights,485500,unit
+281,Frankston North,423000,house
+171,Frankston North,400000,unit
+282,Frankston South,817500,house
+172,Frankston South,615000,unit
+283,Fraser Rise,598000,house
+284,Fyansford,617500,house
+285,Garden City,1375000,house
+286,Gardenvale,1740000,house
+173,Gardenvale,641500,unit
+287,Garfield,540000,house
+150,Garfield North,592250,house
+151,Garfield North,428750,unit
+288,Geelong,720000,house
+174,Geelong,547500,unit
+289,Geelong West,675000,house
+175,Geelong West,434000,unit
+290,Gembrook,650000,house
+152,Gilderoy,592250,house
+153,Gilderoy,429500,unit
+291,Gisborne,730000,house
+176,Gisborne,510000,unit
+292,Gladstone Park,636500,house
+154,Gladysdale,592250,house
+155,Gladysdale,429500,unit
+293,Glen Huntly,1380000,house
+177,Glen Huntly,524000,unit
+294,Glen Iris,1929500,house
+178,Glen Iris,630000,unit
+295,Glen Waverley,1270000,house
+179,Glen Waverley,847500,unit
+156,Glengala,742125,house
+157,Glengala,490500,unit
+296,Glengarry,324000,house
+297,Glenrowan,372500,house
+298,Glenroy,700000,house
+180,Glenroy,529000,unit
+299,Golden Beach,220000,house
+300,Golden Point (Ballarat),370000,house
+181,Golden Point (Ballarat),319500,unit
+301,Golden Square,340000,house
+182,Golden Square,277000,unit
+302,Gordon,495000,house
+303,Goughs Bay,299500,house
+304,Gowanbrae,700500,house
+305,Grantville,397500,house
+306,Green Lake,290000,house
+307,Greensborough,797500,house
+183,Greensborough,633000,unit
+308,Greenvale,715000,house
+184,Greenvale,561500,unit
+158,Greythorn,1087875,house
+159,Greythorn,701750,unit
+309,Grovedale,505000,house
+185,Grovedale,399000,unit
+160,Gruyere,711625,house
+161,Gruyere,557750,unit
+162,Guys Hill,598625,house
+163,Guys Hill,429375,unit
+310,Hadfield,727500,house
+186,Hadfield,502500,unit
+311,Hallam,560000,house
+187,Hallam,415000,unit
+312,Halls Gap,310000,house
+313,Hamilton,208500,house
+188,Hamilton,187500,unit
+314,Hamlyn Heights,540000,house
+189,Hamlyn Heights,470000,unit
+315,Hampton,1896000,house
+190,Hampton,775000,unit
+316,Hampton East,1195000,house
+191,Hampton East,597000,unit
+164,Hampton North,1228250,house
+165,Hampton North,637125,unit
+317,Hampton Park,502000,house
+192,Hampton Park,400000,unit
+166,Harkaway,605000,house
+167,Harkaway,430000,unit
+318,Harkness,475000,house
+193,Harkness,348500,unit
+168,Hartwell,1422875,house
+169,Hartwell,735500,unit
+319,Hastings,506000,house
+194,Hastings,390000,unit
+320,Hastings West,430000,house
+170,Hawksburn,1385000,house
+171,Hawksburn,606750,unit
+321,Hawthorn,2195500,house
+195,Hawthorn,540000,unit
+322,Hawthorn East,2050000,house
+196,Hawthorn East,616500,unit
+172,Hawthorn North,1385000,house
+173,Hawthorn North,606750,unit
+174,Hawthorn West,1385000,house
+175,Hawthorn West,606750,unit
+323,Healesville,579500,house
+197,Healesville,475000,unit
+324,Heathcote,332500,house
+325,Heatherton,965000,house
+326,Heathmont,871000,house
+198,Heathmont,638000,unit
+327,Heidelberg,1122500,house
+199,Heidelberg,657500,unit
+328,Heidelberg Heights,777500,house
+200,Heidelberg Heights,626000,unit
+329,Heidelberg West,665000,house
+201,Heidelberg West,578500,unit
+330,Hepburn,452500,house
+331,Hepburn Springs,595000,house
+332,Herne Hill,534000,house
+202,Herne Hill,290000,unit
+333,Heyfield,195000,house
+334,Heywood,178000,house
+335,Highett,1229500,house
+203,Highett,665000,unit
+176,Highpoint City,960500,house
+177,Highpoint City,520125,unit
+336,Highton,690000,house
+204,Highton,424000,unit
+178,Hillside,595750,house
+179,Hillside,435500,unit
+337,Hillside (Melton),642000,house
+205,Hillside (Melton),460000,unit
+180,Hoddles Creek,632000,house
+181,Hoddles Creek,498375,unit
+182,Holmesglen,1194500,house
+183,Holmesglen,620875,unit
+338,Hopetoun,66000,house
+184,Hopetoun Gardens,1496250,house
+185,Hopetoun Gardens,655125,unit
+339,Hoppers Crossing,528500,house
+206,Hoppers Crossing,400000,unit
+340,Horsham,269000,house
+207,Horsham,220000,unit
+186,Houston,1165750,house
+187,Houston,740000,unit
+341,Hughesdale,1150500,house
+208,Hughesdale,622000,unit
+342,Huntingdale,914000,house
+209,Huntingdale,661000,unit
+343,Huntly,367500,house
+344,Hurstbridge,700000,house
+345,Indented Head,606000,house
+346,Inglewood,185000,house
+347,Inverleigh,503000,house
+348,Inverloch,592500,house
+210,Inverloch,515000,unit
+349,Invermay Park,475000,house
+188,Iona,553625,house
+189,Iona,429125,unit
+350,Ironbark,296000,house
+351,Irymple,380000,house
+211,Irymple,135000,unit
+352,Ivanhoe,1540000,house
+212,Ivanhoe,632500,unit
+353,Ivanhoe East,1765000,house
+213,Ivanhoe East,597000,unit
+190,Ivanhoe North,1010000,house
+191,Ivanhoe North,638250,unit
+354,Jacana,512500,house
+214,Jacana,410000,unit
+355,Jackass Flat,331500,house
+356,Jamieson,311500,house
+357,Jan Juc,870000,house
+358,Jeeralang North,235000,house
+359,Jeparit,81000,house
+215,Jolimont,1041500,unit
+360,Junction Village,483500,house
+216,Junction Village,285000,unit
+361,Junortoun,530000,house
+362,Kalimna,292500,house
+363,Kalkallo,532500,house
+364,Kallista,700000,house
+365,Kalorama,645000,house
+366,Kangaroo Flat,340000,house
+217,Kangaroo Flat,240000,unit
+192,Kangaroo Ground,880750,house
+193,Kangaroo Ground,610000,unit
+367,Kangaroo Ground South,815500,house
+368,Kaniva,169500,house
+194,Karingal,698750,house
+195,Karingal,485500,unit
+196,Karingal Centre,698750,house
+197,Karingal Centre,485500,unit
+369,Kealba,596000,house
+370,Keilor,836500,house
+371,Keilor Downs,630000,house
+218,Keilor Downs,466000,unit
+372,Keilor East,835000,house
+219,Keilor East,642000,unit
+373,Keilor Lodge,740000,house
+198,Keilor North,614125,house
+199,Keilor North,450250,unit
+374,Keilor Park,708000,house
+375,Kennington,373500,house
+220,Kennington,267500,unit
+376,Kensington,980000,house
+221,Kensington,518500,unit
+200,Keon Park,919750,house
+201,Keon Park,546500,unit
+377,Kerang,170000,house
+202,Kerrimuir,1165750,house
+203,Kerrimuir,731000,unit
+378,Kew,2255000,house
+222,Kew,804000,unit
+379,Kew East,1837000,house
+380,Kew North,1833000,house
+223,Kew North,881000,unit
+381,Keysborough,740000,house
+224,Keysborough,590500,unit
+382,Kialla,450000,house
+383,Kilcunda,533000,house
+384,Killara (Wodonga),453500,house
+385,Kilmore,435000,house
+225,Kilmore,335000,unit
+386,Kilsyth,642500,house
+226,Kilsyth,568000,unit
+387,Kilsyth South,761500,house
+388,Kinglake,555000,house
+389,Kings Park,510000,house
+390,Kingsbury,660000,house
+227,Kingsbury,547500,unit
+391,Kingsville,1010000,house
+228,Kingsville,408000,unit
+204,Kingsville West,842500,house
+205,Kingsville West,516000,unit
+206,Knox City Centre,919500,house
+207,Knox City Centre,622500,unit
+392,Knoxfield,760000,house
+229,Knoxfield,625000,unit
+393,Koo Wee Rup,550000,house
+230,Koo Wee Rup,415000,unit
+394,Koondrook,212500,house
+231,Kooyong,735000,unit
+395,Koroit,345000,house
+396,Korumburra,319000,house
+232,Korumburra,311000,unit
+208,Kunyung,698750,house
+209,Kunyung,485500,unit
+397,Kurunjang,420500,house
+233,Kurunjang,372000,unit
+398,Kyabram,263000,house
+234,Kyabram,205000,unit
+399,Kyneton,595000,house
+235,Kyneton,420000,unit
+210,La Trobe University,833000,house
+211,La Trobe University,559750,unit
+212,Laburnum,1087875,house
+213,Laburnum,706250,unit
+400,Lake Boga,239000,house
+401,Lake Gardens,552500,house
+402,Lake Tyers Beach,357500,house
+403,Lake Wendouree,836500,house
+236,Lake Wendouree,473500,unit
+404,Lakes Entrance,310000,house
+237,Lakes Entrance,220000,unit
+405,Lalor,590500,house
+238,Lalor,442000,unit
+214,Lalor Plaza,595250,house
+215,Lalor Plaza,430250,unit
+406,Lancefield,500000,house
+407,Lang Lang,495000,house
+408,Langwarrin,617500,house
+239,Langwarrin,450500,unit
+216,Langwarrin South,605000,house
+217,Langwarrin South,431000,unit
+409,Lara,495000,house
+240,Lara,377500,unit
+410,Lara Lake,540000,house
+241,Lara Lake,379000,unit
+411,Launching Place,554000,house
+412,Laverton,529000,house
+242,Laverton,505000,unit
+218,Laverton North,635000,house
+219,Laverton North,465000,unit
+220,Laverton Raaf,738750,house
+221,Laverton Raaf,530000,unit
+413,Laverton South,622500,house
+243,Laverton South,468000,unit
+414,Learmonth,331000,house
+415,Leneva,426000,house
+416,Leongatha,367000,house
+244,Leongatha,247500,unit
+417,Leopold,510000,house
+245,Leopold,391500,unit
+418,Lilydale,680000,house
+246,Lilydale,500000,unit
+419,Linton,256500,house
+420,Lismore,144500,house
+222,Little River,637750,house
+223,Little River,441250,unit
+421,Loch Sport,244000,house
+422,Lockington,222000,house
+423,Long Gully,280000,house
+247,Long Gully,255000,unit
+424,Longwarry,405000,house
+248,Longwarry,330000,unit
+425,Lorne,1295000,house
+249,Lorne,815000,unit
+426,Lovely Banks,570000,house
+427,Lower Plenty,905000,house
+250,Lower Plenty,545000,unit
+428,Lucas,431000,house
+429,Lucknow,275000,house
+430,Lynbrook,623000,house
+251,Lynbrook,535000,unit
+431,Lyndhurst,665000,house
+432,Lysterfield,956500,house
+433,Lysterfield South,1045000,house
+224,Macclesfield,632000,house
+225,Macclesfield,498375,unit
+434,Macedon,800000,house
+435,Macleod,914500,house
+252,Macleod,655000,unit
+226,Macleod West,919750,house
+227,Macleod West,605125,unit
+436,Macs Cove,300000,house
+437,Maddingley,460000,house
+253,Maddingley,365000,unit
+438,Maffra,255000,house
+254,Maffra,220000,unit
+439,Maiden Gully,512500,house
+440,Maidstone,779000,house
+255,Maidstone,575000,unit
+228,Main Ridge,797500,house
+229,Main Ridge,540000,unit
+441,Maldon,510000,house
+442,Mallacoota,406500,house
+443,Malmsbury,475000,house
+444,Malvern,2550000,house
+256,Malvern,720000,unit
+445,Malvern East,1770000,house
+257,Malvern East,633500,unit
+230,Malvern North,1467500,house
+231,Malvern North,641500,unit
+232,Mambourin,632500,house
+233,Mambourin,422500,unit
+446,Manangatang,97000,house
+447,Manifold Heights,715000,house
+258,Manifold Heights,339000,unit
+448,Manor Lakes,535000,house
+449,Mansfield,456000,house
+259,Mansfield,340000,unit
+450,Marengo,687500,house
+451,Maribyrnong,987500,house
+260,Maribyrnong,510000,unit
+452,Marong,420000,house
+453,Marshall,486500,house
+454,Maryborough,235500,house
+261,Maryborough,208000,unit
+234,Maryknoll,592250,house
+235,Maryknoll,428750,unit
+455,Marysville,462500,house
+236,McCrae,797500,house
+237,McCrae,540000,unit
+456,Mccrae,795000,house
+262,Mccrae,700000,unit
+457,Mckenzie Hill,536500,house
+458,McKinnon,1525000,house
+263,McKinnon,785000,unit
+238,Mcmahons Creek,518750,house
+239,Mcmahons Creek,429500,unit
+459,Meadow Heights,472500,house
+264,Meadow Heights,376500,unit
+265,Melbourne,474000,unit
+240,Melbourne Airport,614125,house
+241,Melbourne Airport,450250,unit
+242,Melbourne University,950000,house
+243,Melbourne University,521000,unit
+460,Melton,385000,house
+266,Melton,314000,unit
+461,Melton South,390000,house
+267,Melton South,299500,unit
+462,Melton West,424000,house
+268,Melton West,362000,unit
+463,Mentone,1028000,house
+269,Mentone,600000,unit
+244,Mentone East,1228250,house
+245,Mentone East,637125,unit
+464,Menzies Creek,682500,house
+465,Merbein,210000,house
+466,Merinda Park,477000,house
+246,Merlynston,932250,house
+247,Merlynston,546500,unit
+467,Mernda,552000,house
+270,Mernda,385500,unit
+248,Merricks,797500,house
+249,Merricks,540000,unit
+250,Merricks Beach,797500,house
+251,Merricks Beach,540000,unit
+252,Merricks North,797500,house
+253,Merricks North,540000,unit
+468,Merrijig (Mansfield),422500,house
+469,Metung,425000,house
+271,Metung,292500,unit
+470,Mickleham,525000,house
+254,Middle Camberwell,1422875,house
+255,Middle Camberwell,735500,unit
+471,Middle Park,2705000,house
+272,Middle Park,735000,unit
+472,Mildura,310000,house
+273,Mildura,220000,unit
+473,Mill Park,654000,house
+274,Mill Park,444500,unit
+474,Millgrove,415000,house
+475,Miners Rest,428000,house
+476,Minyip,114500,house
+477,Mirboo North,327500,house
+478,Mitcham,942000,house
+275,Mitcham,696000,unit
+256,Mitcham North,1010000,house
+257,Mitcham North,672500,unit
+479,Mitchell Park,313000,house
+480,Moe,210000,house
+276,Moe,163000,unit
+258,Monash University,1009000,house
+259,Monash University,635000,unit
+481,Monbulk,630000,house
+482,Mont Albert,1680000,house
+277,Mont Albert,708500,unit
+483,Mont Albert North,1380000,house
+278,Mont Albert North,887000,unit
+484,Montmorency,856000,house
+279,Montmorency,685000,unit
+485,Montrose,707500,house
+486,Moonee Ponds,1300000,house
+280,Moonee Ponds,483500,unit
+260,Moonee Vale,950000,house
+261,Moonee Vale,521000,unit
+487,Moorabbin,1050000,house
+281,Moorabbin,683000,unit
+262,Moorabbin Airport,1228250,house
+263,Moorabbin Airport,637125,unit
+264,Moorooduc,797500,house
+265,Moorooduc,540000,unit
+488,Mooroolbark,670000,house
+282,Mooroolbark,568500,unit
+489,Mooroopna,249000,house
+283,Mooroopna,175000,unit
+266,Morang South,673125,house
+267,Morang South,486250,unit
+490,Mordialloc,1010000,house
+284,Mordialloc,615000,unit
+268,Moreland,932250,house
+269,Moreland,546500,unit
+270,Moreland West,950000,house
+271,Moreland West,521000,unit
+491,Mornington,800000,house
+285,Mornington,643000,unit
+492,Mortlake,164000,house
+493,Morwell,180000,house
+286,Morwell,175500,unit
+494,Mount Beauty,294000,house
+272,Mount Burnett,632000,house
+273,Mount Burnett,498375,unit
+495,Mount Clear,396500,house
+287,Mount Clear,275500,unit
+274,Mount Cottrell,632500,house
+275,Mount Cottrell,422500,unit
+496,Mount Dandenong,662000,house
+497,Mount Duneed,563000,house
+498,Mount Eliza,1157500,house
+288,Mount Eliza,595000,unit
+499,Mount Evelyn,636000,house
+289,Mount Evelyn,580000,unit
+500,Mount Helen,418500,house
+501,Mount Macedon,775000,house
+502,Mount Martha,1252500,house
+290,Mount Martha,650000,unit
+503,Mount Pleasant,377500,house
+291,Mount Pleasant,245000,unit
+504,Mount Waverley,1267000,house
+292,Mount Waverley,954000,unit
+276,Mountain Gate,671750,house
+277,Mountain Gate,568000,unit
+505,Mulgrave,840000,house
+293,Mulgrave,731000,unit
+506,Murchison,244500,house
+507,Murrumbeena,1241500,house
+294,Murrumbeena,510000,unit
+508,Murtoa,119000,house
+509,Myrtleford,315000,house
+295,Myrtleford,310000,unit
+510,Nagambie,414000,house
+296,Nagambie,360000,unit
+278,Nangana,632000,house
+279,Nangana,498375,unit
+280,Nar Nar Goon,592250,house
+281,Nar Nar Goon,428750,unit
+282,Nar Nar Goon North,592250,house
+283,Nar Nar Goon North,428750,unit
+511,Narre Warren,590000,house
+297,Narre Warren,418000,unit
+284,Narre Warren East,638375,house
+285,Narre Warren East,499000,unit
+512,Narre Warren North,1075000,house
+513,Narre Warren South,625000,house
+514,Nathalia,229000,house
+515,Natimuk,148500,house
+516,Neerim South,394000,house
+517,Nelson,247500,house
+518,Nerrina,617500,house
+519,New Gisborne,695000,house
+520,Newborough,256000,house
+298,Newborough,203500,unit
+521,Newcomb,435000,house
+299,Newcomb,353500,unit
+522,Newington,495000,house
+523,Newlands Arm,444000,house
+524,Newport,1055000,house
+300,Newport,730000,unit
+525,Newstead,436000,house
+526,Newtown (Greater Geelong),825000,house
+301,Newtown (Greater Geelong),562000,unit
+527,Nhill,137000,house
+528,Nichols Point,430000,house
+529,Niddrie,1070000,house
+302,Niddrie,656500,unit
+530,Noble Park,629000,house
+303,Noble Park,460000,unit
+286,Noble Park East,875250,house
+287,Noble Park East,571500,unit
+531,Noble Park North,610000,house
+304,Noble Park North,515000,unit
+532,Noojee,224000,house
+533,Norlane,349000,house
+305,Norlane,300000,unit
+534,North Bendigo,325000,house
+306,North Bendigo,265000,unit
+535,North Geelong,500000,house
+307,North Geelong,396500,unit
+536,North Melbourne,1297500,house
+308,North Melbourne,477500,unit
+288,North Road,1496250,house
+289,North Road,655125,unit
+290,North Warrandyte,880750,house
+291,North Warrandyte,610000,unit
+537,North Wonthaggi,389000,house
+538,Northcote,1300000,house
+309,Northcote,585500,unit
+292,Northcote South,950000,house
+293,Northcote South,572000,unit
+294,Northland Centre,925000,house
+295,Northland Centre,572000,unit
+539,Notting Hill,875500,house
+310,Notting Hill,396000,unit
+540,Numurkah,252500,house
+311,Numurkah,175000,unit
+541,Nunawading,950000,house
+312,Nunawading,590500,unit
+296,Nutfield,594750,house
+297,Nutfield,425000,unit
+542,Nyah West,85000,house
+543,Nyora,370000,house
+544,Oak Park,840000,house
+313,Oak Park,658000,unit
+298,Oaklands Junction,595750,house
+299,Oaklands Junction,435500,unit
+545,Oakleigh,1101000,house
+314,Oakleigh,540000,unit
+546,Oakleigh East,942000,house
+315,Oakleigh East,791500,unit
+547,Oakleigh South,908000,house
+316,Oakleigh South,697500,unit
+548,Ocean Grove,695000,house
+317,Ocean Grove,615000,unit
+549,Officer,550000,house
+318,Officer,430000,unit
+550,Officer South,686000,house
+551,Olinda,748000,house
+552,Orbost,185500,house
+553,Ormond,1467500,house
+319,Ormond,605000,unit
+554,Osborne,780000,house
+320,Osborne,640000,unit
+555,Ouyen,99000,house
+556,Pakenham,485000,house
+321,Pakenham,370000,unit
+300,Pakenham South,592250,house
+301,Pakenham South,428750,unit
+302,Pakenham Upper,592250,house
+303,Pakenham Upper,428750,unit
+304,Panton Hill,751500,house
+305,Panton Hill,547500,unit
+557,Paradise Beach,200000,house
+558,Park Orchards,1460000,house
+559,Parkdale,1155000,house
+322,Parkdale,672000,unit
+560,Parkville,1480000,house
+323,Parkville,458000,unit
+561,Pascoe Vale,858500,house
+324,Pascoe Vale,610000,unit
+562,Pascoe Vale South,950000,house
+325,Pascoe Vale South,600000,unit
+306,Patterson,1467500,house
+307,Patterson,641500,unit
+563,Patterson Gardens,920000,house
+564,Patterson Lakes,923000,house
+326,Patterson Lakes,587500,unit
+565,Paynesville,339000,house
+327,Paynesville,295000,unit
+566,Pearcedale,670000,house
+567,Penshurst,165000,house
+568,Peterborough,419000,house
+308,Pines Forest,600000,house
+309,Pines Forest,431000,unit
+310,Pinewood,1087375,house
+311,Pinewood,687500,unit
+569,Pioneer Bay,310000,house
+570,Plenty,1301000,house
+312,Plumpton,594625,house
+313,Plumpton,440250,unit
+571,Point Cook,640500,house
+328,Point Cook,465000,unit
+314,Point Leo,797500,house
+315,Point Leo,540000,unit
+572,Point Lonsdale,827500,house
+329,Point Lonsdale,595500,unit
+573,Poowong,443000,house
+574,Porepunkah,535000,house
+575,Port Albert,250000,house
+576,Port Fairy,630000,house
+330,Port Fairy,522500,unit
+577,Port Franklin,302500,house
+578,Port Melbourne,1375000,house
+331,Port Melbourne,729000,unit
+579,Port Welshpool,315000,house
+580,Portarlington,621500,house
+332,Portarlington,494000,unit
+581,Portland,267500,house
+333,Portland,189500,unit
+582,Portland North,276000,house
+583,Portsea,1950000,house
+316,Powelltown,592250,house
+317,Powelltown,429500,unit
+584,Prahran,1510000,house
+334,Prahran,590000,unit
+318,Prahran East,1380000,house
+319,Prahran East,592500,unit
+585,Preston,936500,house
+335,Preston,490000,unit
+320,Preston Lower,925000,house
+321,Preston Lower,572000,unit
+322,Preston South,925000,house
+323,Preston South,572000,unit
+324,Preston West,925000,house
+325,Preston West,572000,unit
+586,Princes Hill,2035000,house
+587,Pyramid Hill,120000,house
+326,Quandong,635000,house
+327,Quandong,460000,unit
+588,Quarry Hill,395000,house
+336,Quarry Hill,283500,unit
+589,Queenscliff,950000,house
+590,Rainbow,75000,house
+328,Rangeview,1010000,house
+329,Rangeview,672500,unit
+330,Ravenhall,594625,house
+331,Ravenhall,440250,unit
+591,Rawson,156000,house
+592,Raymond Island,300000,house
+593,Red Cliffs,217500,house
+332,Red Hill,797500,house
+333,Red Hill,540000,unit
+334,Red Hill South,797500,house
+335,Red Hill South,540000,unit
+594,Redan,357000,house
+337,Redan,260000,unit
+336,Reefton,518750,house
+337,Reefton,429500,unit
+595,Research,930000,house
+338,Research,672500,unit
+596,Reservoir,750000,house
+339,Reservoir,560500,unit
+338,Reservoir East,919750,house
+339,Reservoir East,546500,unit
+340,Reservoir North,919750,house
+341,Reservoir North,546500,unit
+342,Reservoir South,919750,house
+343,Reservoir South,546500,unit
+597,Rhyll,565000,house
+598,Richmond,1255000,house
+340,Richmond,578500,unit
+344,Richmond East,1382500,house
+345,Richmond East,599125,unit
+346,Richmond North,1382500,house
+347,Richmond North,599125,unit
+348,Richmond South,1382500,house
+349,Richmond South,599125,unit
+599,Riddells Creek,695000,house
+341,Riddells Creek,490000,unit
+600,Ringwood,813500,house
+342,Ringwood,532000,unit
+601,Ringwood East,809000,house
+343,Ringwood East,628000,unit
+602,Ringwood North,871000,house
+344,Ringwood North,640000,unit
+603,Rippleside,810000,house
+345,Ripponlea,525500,unit
+350,Robinson,849250,house
+351,Robinson,516000,unit
+604,Robinvale,225000,house
+605,Rochester,255000,house
+606,Rockbank,497000,house
+607,Romsey,580500,house
+346,Romsey,425000,unit
+608,Rosanna,1042500,house
+347,Rosanna,685000,unit
+609,Rosebud,545000,house
+348,Rosebud,525000,unit
+352,Rosebud Plaza,797500,house
+353,Rosebud Plaza,540000,unit
+610,Rosebud South,682500,house
+349,Rosebud South,520000,unit
+611,Rosedale,247000,house
+612,Rowville,820500,house
+350,Rowville,578000,unit
+613,Roxburgh Park,540000,house
+351,Roxburgh Park,401000,unit
+614,Rushworth,197500,house
+615,Rutherglen,280000,house
+616,Rye,690000,house
+352,Rye,475000,unit
+354,Rythdale,592250,house
+355,Rythdale,428750,unit
+617,Safety Beach,785000,house
+353,Safety Beach,665000,unit
+618,Sailors Gully,280000,house
+356,Saint Helena,751500,house
+357,Saint Helena,547500,unit
+619,Sale,325000,house
+354,Sale,210000,unit
+620,San Remo,554500,house
+355,San Remo,228000,unit
+621,Sanctuary Lakes,620000,house
+356,Sanctuary Lakes,535000,unit
+622,Sandhurst,815000,house
+357,Sandhurst,592500,unit
+358,Sandown Village,931500,house
+359,Sandown Village,605500,unit
+623,Sandringham,1650000,house
+358,Sandringham,781000,unit
+624,Sandy Point,410000,house
+625,Sassafras,805000,house
+360,Sassafras Gully,738375,house
+361,Sassafras Gully,573750,unit
+626,Scoresby,767000,house
+359,Scoresby,574500,unit
+627,Sea Lake,100000,house
+628,Seabrook,626500,house
+629,Seaford,655000,house
+360,Seaford,495000,unit
+630,Seaholme,1020000,house
+631,Seaspray,265000,house
+632,Sebastopol,315000,house
+361,Sebastopol,235500,unit
+633,Seddon,960000,house
+362,Seddon,696000,unit
+362,Seddon West,971000,house
+363,Seddon West,519250,unit
+634,Selby,601500,house
+635,Seville,620000,house
+636,Seville East,580000,house
+637,Seymour,300000,house
+363,Seymour,195000,unit
+638,Shepparton,282000,house
+364,Shepparton,252000,unit
+639,Shepparton North,393000,house
+364,Sherbrooke,671750,house
+365,Sherbrooke,568000,unit
+640,Shoreham,1500000,house
+366,Silvan,671750,house
+367,Silvan,568000,unit
+641,Silverleaves,618500,house
+642,Skenes Creek,667500,house
+643,Skipton,200000,house
+644,Skye,600000,house
+365,Skye,445000,unit
+645,Smiths Beach,624500,house
+368,Smiths Gully,751500,house
+369,Smiths Gully,547500,unit
+646,Smythesdale,340000,house
+647,Soldiers Hill,480000,house
+366,Soldiers Hill,331000,unit
+648,Somers,950000,house
+370,Somerton,595250,house
+371,Somerton,430250,unit
+649,Somerville,600000,house
+367,Somerville,453500,unit
+650,Sorrento,1465000,house
+368,Sorrento,890000,unit
+651,South Dudley,339000,house
+652,South Geelong,702500,house
+653,South Kingsville,859000,house
+369,South Kingsville,643000,unit
+654,South Melbourne,1355000,house
+370,South Melbourne,582500,unit
+655,South Morang,625500,house
+371,South Morang,407000,unit
+656,South Yarra,1767500,house
+372,South Yarra,580000,unit
+373,Southbank,582500,unit
+372,Southland Centre,1228250,house
+373,Southland Centre,637125,unit
+657,Spotswood,960000,house
+374,Spotswood,650000,unit
+658,Spring Gully,386500,house
+375,Spring Gully,280000,unit
+659,Springvale,743000,house
+376,Springvale,508000,unit
+660,Springvale South,678000,house
+377,Springvale South,470000,unit
+661,St Albans,590000,house
+378,St Albans,430000,unit
+662,St Albans Park,422000,house
+379,St Albans Park,377500,unit
+663,St Andrews Beach,930000,house
+664,St Arnaud,175000,house
+665,St Helena,905000,house
+666,St Kilda,1600000,house
+380,St Kilda,535000,unit
+667,St Kilda East,1560000,house
+381,St Kilda East,590000,unit
+668,St Kilda West,2078500,house
+382,St Kilda West,595000,unit
+669,St Leonards,562500,house
+383,St Leonards,419000,unit
+670,Stanhope,174000,house
+671,Stawell,189000,house
+384,Stawell,244000,unit
+374,Steels Creek,711625,house
+375,Steels Creek,557750,unit
+672,Stratford,316500,house
+673,Strathdale,453500,house
+385,Strathdale,273500,unit
+376,Strathewen,594750,house
+377,Strathewen,425000,unit
+674,Strathfieldsaye,476500,house
+675,Strathmerton,195000,house
+676,Strathmore,1310000,house
+386,Strathmore,732000,unit
+677,Strathmore Heights,800000,house
+678,Strathtulloh,515000,house
+387,Strathtulloh,420000,unit
+679,Studfield,811000,house
+388,Studfield,721000,unit
+680,Sunbury,535000,house
+389,Sunbury,395000,unit
+681,Sunderland Bay,412000,house
+682,Sunnycliffs,239000,house
+683,Sunset Strip,460000,house
+684,Sunshine,720000,house
+390,Sunshine,390000,unit
+685,Sunshine North,630000,house
+391,Sunshine North,512000,unit
+686,Sunshine West,635000,house
+392,Sunshine West,480000,unit
+687,Surf Beach,510000,house
+688,Surrey Hills,1886500,house
+393,Surrey Hills,756000,unit
+378,Surrey Hills North,1422875,house
+379,Surrey Hills North,735500,unit
+380,Surrey Hills South,1165750,house
+381,Surrey Hills South,731000,unit
+689,Swan Hill,285000,house
+394,Swan Hill,245000,unit
+690,Sydenham,599500,house
+395,Sydenham,416000,unit
+691,Syndal,1524500,house
+396,Syndal,880000,unit
+692,Tallangatta,251500,house
+693,Tarneit,555000,house
+397,Tarneit,388000,unit
+382,Tarrawarra,711625,house
+383,Tarrawarra,557750,unit
+694,Tatura,276500,house
+398,Tatura,221000,unit
+695,Tawonga,460000,house
+696,Tawonga South,400000,house
+697,Taylors Hill,702500,house
+698,Taylors Lakes,748500,house
+699,Tecoma,662500,house
+700,Templestowe,1276500,house
+399,Templestowe,740000,unit
+701,Templestowe Lower,1080000,house
+400,Templestowe Lower,765000,unit
+702,Terang,190000,house
+703,The Basin,695000,house
+704,The Honeysuckles,336000,house
+705,The Patch,755000,house
+384,The Pines,1087875,house
+385,The Pines,706250,unit
+706,Thomastown,592000,house
+401,Thomastown,457500,unit
+707,Thomson (Greater Geelong),400500,house
+402,Thomson (Greater Geelong),400500,unit
+708,Thornbury,1135000,house
+403,Thornbury,602000,unit
+709,Thornhill Park,535000,house
+386,Three Bridges,592250,house
+387,Three Bridges,429500,unit
+710,Timboon,260000,house
+711,Tongala,234500,house
+388,Tonimbuk,553625,house
+389,Tonimbuk,429125,unit
+712,Toongabbie,270000,house
+713,Toora,275000,house
+714,Tooradin,700000,house
+715,Toorak,4361000,house
+404,Toorak,1085500,unit
+716,Tootgarook,580000,house
+717,Torquay,820000,house
+405,Torquay,615000,unit
+390,Tottenham,842500,house
+391,Tottenham,516000,unit
+718,Trafalgar,397500,house
+406,Trafalgar,310000,unit
+719,Traralgon,325000,house
+407,Traralgon,215000,unit
+720,Traralgon East,470000,house
+721,Travancore,1125000,house
+408,Travancore,348000,unit
+392,Tremont,738375,house
+393,Tremont,573750,unit
+722,Trentham,614000,house
+723,Truganina,575000,house
+409,Truganina,415000,unit
+394,Tuerong,797500,house
+395,Tuerong,540000,unit
+724,Tullamarine,612000,house
+410,Tullamarine,480000,unit
+725,Tyabb,580500,house
+411,Tyabb,443000,unit
+726,Tylden,492500,house
+396,Tynong,592250,house
+397,Tynong,428750,unit
+398,Tynong North,592250,house
+399,Tynong North,428750,unit
+400,University Of Melbourne,1267000,house
+401,University Of Melbourne,590000,unit
+727,Upper Ferntree Gully,642500,house
+728,Upwey,702500,house
+729,Ventnor,535000,house
+730,Venus Bay,330000,house
+731,Vermont,937000,house
+412,Vermont,725000,unit
+732,Vermont South,1166500,house
+413,Vermont South,772500,unit
+402,Vervale,592250,house
+403,Vervale,428750,unit
+733,Viewbank,920000,house
+414,Viewbank,643500,unit
+734,Violet Town,287500,house
+735,Wahgunyah,355000,house
+736,Walkerville,334500,house
+737,Wallan,477500,house
+415,Wallan,360000,unit
+738,Wallan East,450000,house
+416,Wallan East,358000,unit
+739,Wandana Heights,766500,house
+404,Wandin East,632000,house
+405,Wandin East,498375,unit
+740,Wandin North,627500,house
+741,Wangaratta,319000,house
+417,Wangaratta,229500,unit
+742,Wantirna,860000,house
+418,Wantirna,635000,unit
+743,Wantirna South,988500,house
+419,Wantirna South,495000,unit
+744,Warburton,515000,house
+745,Warneet,512500,house
+746,Warracknabeal,118000,house
+747,Warragul,460000,house
+420,Warragul,300000,unit
+748,Warrandyte,987500,house
+406,Warrandyte South,920000,house
+407,Warrandyte South,641250,unit
+749,Warranwood,935000,house
+750,Warrnambool,370000,house
+421,Warrnambool,280000,unit
+408,Watergardens,632500,house
+409,Watergardens,465000,unit
+751,Waterways,1270000,house
+752,Watsonia,736000,house
+422,Watsonia,495000,unit
+753,Watsonia North,726500,house
+410,Watsons Creek,880750,house
+411,Watsons Creek,610000,unit
+754,Wattle Glen,778500,house
+412,Wattle Park,1165750,house
+413,Wattle Park,740000,unit
+755,Waurn Ponds,641500,house
+414,Waverley Gardens,805000,house
+415,Waverley Gardens,579500,unit
+756,Wedderburn,138500,house
+757,Weir Views,462500,house
+758,Wendouree,335000,house
+423,Wendouree,270000,unit
+759,Wendouree West,257500,house
+760,Werribee,510000,house
+424,Werribee,380000,unit
+761,Werribee South,744500,house
+425,Werribee South,465000,unit
+762,Wesburn,530000,house
+763,West Footscray,787500,house
+426,West Footscray,450000,unit
+764,West Melbourne,1085000,house
+427,West Melbourne,599000,unit
+765,West Wodonga,342500,house
+428,West Wodonga,235000,unit
+766,Westall,730000,house
+429,Westall,570000,unit
+767,Westgarth,1505000,house
+430,Westgarth,550000,unit
+768,Westmeadows,620000,house
+431,Westmeadows,510500,unit
+769,Wheelers Hill,1009000,house
+432,Wheelers Hill,803000,unit
+770,White Hills,330000,house
+433,White Hills,255000,unit
+771,Whittington,377500,house
+434,Whittington,299000,unit
+772,Whittlesea,577500,house
+435,Whittlesea,330000,unit
+416,Wildwood,556750,house
+417,Wildwood,415500,unit
+773,Willaura,110000,house
+774,Williams Landing,660000,house
+436,Williams Landing,395000,unit
+775,Williamstown,1350000,house
+437,Williamstown,600000,unit
+776,Williamstown North,915000,house
+438,Williamstown North,737500,unit
+777,Wimbledon Heights,386500,house
+778,Winchelsea,430000,house
+439,Winchelsea,348000,unit
+779,Windsor,1350000,house
+440,Windsor,487500,unit
+780,Winter Valley,435000,house
+418,Wishart,1467500,house
+419,Wishart,641500,unit
+781,Wodonga,330500,house
+441,Wodonga,221500,unit
+782,Wollert,577500,house
+442,Wollert,420000,unit
+783,Wonga Park,1111000,house
+784,Wonthaggi,375000,house
+443,Wonthaggi,315000,unit
+785,Woodend,747500,house
+444,Woodend,516000,unit
+420,Woodstock,594750,house
+421,Woodstock,425000,unit
+786,Woolamai Waters,495500,house
+787,Woori Yallock,510000,house
+422,World Trade Centre,1267000,house
+423,World Trade Centre,590000,unit
+788,Wy Yung,349000,house
+789,Wycheproof,141500,house
+790,Wye River,1300000,house
+791,Wyndham Vale,465000,house
+445,Wyndham Vale,378000,unit
+792,Yackandandah,497500,house
+793,Yallambie,792500,house
+794,Yallourn North,191000,house
+424,Yan Yean,673125,house
+425,Yan Yean,486250,unit
+795,Yarra Glen,670000,house
+446,Yarra Glen,425000,unit
+796,Yarra Junction,582500,house
+447,Yarra Junction,461500,unit
+797,Yarragon,410000,house
+798,Yarram,240000,house
+426,Yarrambat,673125,house
+427,Yarrambat,486250,unit
+799,Yarraville,971000,house
+448,Yarraville,654000,unit
+428,Yarraville West,971000,house
+429,Yarraville West,590000,unit
+800,Yarrawonga,375000,house
+449,Yarrawonga,275000,unit
+801,Yea,435500,house
+430,Yellingbo,632000,house
+431,Yellingbo,498375,unit
+432,Yering,711625,house
+433,Yering,557750,unit
+802,Yinnar,255000,house
+434,Yuroke,595750,house
+435,Yuroke,435500,unit
