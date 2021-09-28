@@ -8,7 +8,7 @@
 6,Alphington,713500,unit,1.0
 7,Altona,625000,unit,1.0
 8,Altona East,630000,unit,1.0
-2,Altona Gate,460000,unit,
+2,Altona Gate,530000,unit,
 9,Altona Meadows,472500,unit,1.0
 10,Altona North,630000,unit,1.0
 14,Ardeer,531000,unit,1.0
@@ -25,7 +25,7 @@
 12,Auburn,668875,unit,
 14,Auburn South,606750,unit,
 20,Avondale Heights,628000,unit,1.0
-15,Avonsleigh,428750,unit,
+15,Avonsleigh,498375,unit,
 23,Balaclava,565000,unit,1.0
 16,Balnarring,540000,unit,
 17,Balnarring Beach,540000,unit,
@@ -39,13 +39,13 @@
 31,Bayswater,581000,unit,1.0
 32,Bayswater North,480000,unit,1.0
 33,Beaconsfield,454000,unit,1.0
-27,Beaconsfield Upper,429375,unit,
+27,Beaconsfield Upper,430000,unit,
 34,Beaumaris,887500,unit,1.0
 29,Bedford Road,594750,unit,
-31,Beenak,428750,unit,
-32,Belgrave,428750,unit,
-33,Belgrave Heights,428750,unit,
-34,Belgrave South,428750,unit,
+31,Beenak,498375,unit,
+32,Belgrave,498375,unit,
+33,Belgrave Heights,498375,unit,
+34,Belgrave South,498375,unit,
 36,Bellfield,605125,unit,
 38,Belvedere Park,518250,unit,
 40,Bend Of Islands,610000,unit,
@@ -54,450 +54,460 @@
 40,Bentleigh,655000,unit,1.0
 41,Bentleigh East,746000,unit,1.0
 42,Berwick,522500,unit,1.0
+46,Big Pats Creek,568000,unit,
 43,Bittern,471500,unit,1.0
 45,Black Rock,950000,unit,1.0
-46,Black Rock North,637125,unit,
+48,Black Rock North,637125,unit,
 46,Blackburn,685500,unit,1.0
 47,Blackburn North,760500,unit,1.0
 48,Blackburn South,760000,unit,1.0
-47,Blairgowrie,540000,unit,
-48,Blind Bight,429375,unit,
+49,Blairgowrie,540000,unit,
+50,Blind Bight,429375,unit,
 49,Bonbeach,545000,unit,1.0
-50,Boneo,540000,unit,
+52,Boneo,540000,unit,
 50,Boronia,573000,unit,1.0
-51,Botanic Ridge,430000,unit,
+53,Botanic Ridge,430000,unit,
 51,Box Hill,519000,unit,1.0
-53,Box Hill Central,740000,unit,
+55,Box Hill Central,740000,unit,
 52,Box Hill North,878000,unit,1.0
 53,Box Hill South,713000,unit,1.0
-55,Braeside,556750,unit,
+57,Braeside,556750,unit,
 54,Braybrook,556000,unit,1.0
-57,Braybrook North,516000,unit,
-59,Brentford Square,706250,unit,
+59,Braybrook North,516000,unit,
+61,Brentford Square,706250,unit,
 56,Briar Hill,627500,unit,1.0
 58,Brighton,1038000,unit,1.0
 59,Brighton East,990000,unit,1.0
-61,Brighton North,641500,unit,
-63,Brighton Road,641500,unit,
+63,Brighton North,641500,unit,
+65,Brighton Road,641500,unit,
 60,Broadmeadows,395000,unit,1.0
 61,Brookfield,455000,unit,1.0
 62,Brooklyn,567500,unit,1.0
 64,Brunswick,555000,unit,1.0
 65,Brunswick East,521000,unit,1.0
-65,Brunswick Lower,590000,unit,
-67,Brunswick North,590000,unit,
-69,Brunswick South,521000,unit,
+67,Brunswick Lower,590000,unit,
+69,Brunswick North,590000,unit,
+71,Brunswick South,521000,unit,
 66,Brunswick West,499000,unit,1.0
-71,Bulla,450250,unit,
+73,Bulla,450250,unit,
 67,Bulleen,727000,unit,1.0
 68,Bundoora,400000,unit,1.0
 69,Bunyip,397500,unit,1.0
-73,Bunyip North,428750,unit,
-74,Burnley,599125,unit,
-76,Burnley North,599125,unit,
-77,Burnside,440250,unit,
-78,Burnside Heights,440250,unit,
+75,Bunyip North,428750,unit,
+76,Burnley,599125,unit,
+78,Burnley North,599125,unit,
+79,Burnside,440250,unit,
+80,Burnside Heights,440250,unit,
 70,Burwood,740000,unit,1.0
 71,Burwood East,660000,unit,1.0
-80,Burwood Heights,687500,unit,
+82,Burwood Heights,687500,unit,
 72,Cairnlea,432500,unit,1.0
-82,Calder Park,435500,unit,
+84,Calder Park,435500,unit,
 74,Camberwell,810000,unit,1.0
-84,Camberwell East,731000,unit,
-86,Camberwell North,735500,unit,
-88,Camberwell South,735500,unit,
-90,Camberwell West,735500,unit,
+86,Camberwell East,731000,unit,
+88,Camberwell North,735500,unit,
+90,Camberwell South,735500,unit,
+92,Camberwell West,735500,unit,
 75,Campbellfield,343000,unit,1.0
-92,Cannons Creek,430500,unit,
+94,Cannons Creek,430500,unit,
 77,Canterbury,1210000,unit,1.0
-93,Cape Schanck,540000,unit,
+95,Cape Schanck,540000,unit,
 78,Capel Sound,540000,unit,1.0
-95,Cardinia,429375,unit,
+97,Cardinia,429375,unit,
 79,Carlton,407500,unit,1.0
 80,Carlton North,592000,unit,1.0
-97,Carlton South,590750,unit,
+99,Carlton South,590750,unit,
 81,Carnegie,621000,unit,1.0
 82,Caroline Springs,465000,unit,1.0
 83,Carrum,608000,unit,1.0
 84,Carrum Downs,431000,unit,1.0
 86,Caulfield,750500,unit,1.0
 87,Caulfield East,350000,unit,1.0
-99,Caulfield Junction,606750,unit,
+101,Caulfield Junction,606750,unit,
 88,Caulfield North,597000,unit,1.0
 89,Caulfield South,707000,unit,1.0
-101,Central Park,638250,unit,
+103,Central Park,638250,unit,
 90,Chadstone,801000,unit,1.0
-103,Chadstone Centre,620875,unit,
-105,Chapel Street North,592000,unit,
+105,Chadstone Centre,620875,unit,
+107,Chapel Street North,592000,unit,
 91,Chelsea,605500,unit,1.0
 92,Chelsea Heights,610500,unit,1.0
 93,Cheltenham,575000,unit,1.0
 94,Cheltenham East,590000,unit,1.0
 95,Cheltenham North,620000,unit,1.0
 96,Chirnside Park,610000,unit,1.0
-107,Christmas Hills,610000,unit,
+109,Christmas Hills,568000,unit,
 97,Clarinda,670000,unit,1.0
 98,Clayton,681000,unit,1.0
 100,Clayton South,507500,unit,1.0
-109,Clematis,428750,unit,
+111,Clematis,498375,unit,
 101,Clifton Hill,607500,unit,1.0
-110,Clyde,429375,unit,
+112,Clyde,429375,unit,
 102,Clyde North,518500,unit,1.0
-112,Coatesville,635000,unit,
+114,Coatesville,635000,unit,
 104,Coburg,542500,unit,1.0
 106,Coburg North,572000,unit,1.0
-113,Cockatoo,428750,unit,
-115,Cocoroc,460000,unit,
-116,Coldstream,547500,unit,
+115,Cockatoo,498375,unit,
+117,Cocoroc,462500,unit,
+118,Coldstream,557750,unit,
 108,Collingwood,591000,unit,1.0
-118,Collingwood North,590750,unit,
-119,Coolaroo,435500,unit,
-121,Cora Lynn,428750,unit,
-123,Cotham,661250,unit,
-125,Cottles Bridge,486250,unit,
+120,Collingwood North,590750,unit,
+121,Coolaroo,435500,unit,
+123,Cora Lynn,428750,unit,
+125,Cotham,661250,unit,
+127,Cottles Bridge,486250,unit,
 112,Craigieburn,380000,unit,1.0
 113,Cranbourne,362500,unit,1.0
 114,Cranbourne East,427500,unit,1.0
 115,Cranbourne North,425000,unit,1.0
-127,Cranbourne South,430500,unit,
+129,Cranbourne South,430500,unit,
 116,Cranbourne West,385000,unit,1.0
 117,Cremorne,870000,unit,1.0
 119,Crib Point,405000,unit,1.0
-129,Cromer,637125,unit,
+131,Cromer,637125,unit,
 120,Croydon,567000,unit,1.0
-130,Croydon Hills,641250,unit,
+132,Croydon Hills,610000,unit,
 121,Croydon North,610000,unit,1.0
 122,Croydon South,652000,unit,1.0
 123,Dallas,429000,unit,1.0
 124,Dandenong,337000,unit,1.0
-132,Dandenong East,543750,unit,
+134,Dandenong East,543750,unit,
 125,Dandenong North,430000,unit,1.0
-134,Dandenong South,543750,unit,
-136,Darling,638250,unit,
+136,Dandenong South,543750,unit,
+138,Darling,638250,unit,
 128,Deepdene,1060000,unit,1.0
 129,Deer Park,460000,unit,1.0
-138,Deer Park East,465000,unit,
-140,Deer Park North,440250,unit,
+140,Deer Park East,465000,unit,
+142,Deer Park North,440250,unit,
 130,Delahey,400000,unit,1.0
-142,Dendy,641500,unit,
-143,Derrimut,460000,unit,
-145,Devon Meadows,430500,unit,
-147,Dewhurst,429375,unit,
+144,Dendy,641500,unit,
+145,Derrimut,462500,unit,
+147,Devon Meadows,430500,unit,
+149,Dewhurst,430000,unit,
 131,Diamond Creek,661000,unit,1.0
-148,Diggers Rest,435500,unit,
+150,Diggers Rest,435500,unit,
 132,Dingley Village,600000,unit,1.0
-150,Dixons Creek,610000,unit,
+152,Dixons Creek,568000,unit,
 133,Docklands,590000,unit,1.0
-153,Don Valley,428750,unit,
+155,Don Valley,498375,unit,
 134,Doncaster,620000,unit,1.0
 135,Doncaster East,796000,unit,1.0
-155,Doncaster Heights,706250,unit,
-157,Donnybrook,430250,unit,
+157,Doncaster Heights,706250,unit,
+159,Donnybrook,430250,unit,
 136,Donvale,756000,unit,1.0
 137,Doreen,430000,unit,1.0
 138,Doveton,400000,unit,1.0
 139,Dromana,585000,unit,1.0
-159,Dunearn,543750,unit,
+161,Dunearn,543750,unit,
 143,Eaglemont,785000,unit,1.0
 146,East Melbourne,595000,unit,1.0
+162,East Warburton,568000,unit,
 148,Edithvale,694000,unit,1.0
 149,Elsternwick,600000,unit,1.0
 150,Eltham,650000,unit,1.0
-160,Eltham North,638250,unit,
+163,Eltham North,638250,unit,
 151,Elwood,672500,unit,1.0
-161,Emerald,428750,unit,
+164,Emerald,498375,unit,
 152,Endeavour Hills,497500,unit,1.0
 153,Epping,400000,unit,1.0
 155,Essendon,520000,unit,1.0
-163,Essendon Fields,516000,unit,
+166,Essendon Fields,516000,unit,
 156,Essendon North,425000,unit,1.0
-164,Essendon West,519250,unit,
+167,Essendon West,519250,unit,
 157,Eumemmerring,430000,unit,1.0
-166,Exford,437750,unit,
-167,Eynesbury,437750,unit,
+169,Exford,437750,unit,
+170,Eynesbury,437750,unit,
 159,Fairfield,526500,unit,1.0
 160,Fawkner,477500,unit,1.0
-169,Fawkner East,521000,unit,
-171,Fawkner North,521000,unit,
+172,Fawkner East,521000,unit,
+174,Fawkner North,521000,unit,
 161,Ferntree Gully,537500,unit,1.0
-172,Ferny Creek,579500,unit,
-173,Fingal,540000,unit,
+175,Ferny Creek,573750,unit,
+176,Fingal,540000,unit,
 163,Fitzroy,755500,unit,1.0
 164,Fitzroy North,640000,unit,1.0
 165,Flemington,407500,unit,1.0
-174,Flinders,540000,unit,
+177,Flinders,540000,unit,
 167,Footscray,410000,unit,1.0
 168,Forest Hill,727500,unit,1.0
-176,Fountain Gate,430000,unit,
+179,Fountain Gate,430000,unit,
 170,Frankston,414500,unit,1.0
-178,Frankston East,485500,unit,
-180,Frankston Heights,485500,unit,
+181,Frankston East,485500,unit,
+183,Frankston Heights,485500,unit,
 171,Frankston North,400000,unit,1.0
 172,Frankston South,615000,unit,1.0
-181,Garden City,591250,unit,
+184,Garden City,592500,unit,
 173,Gardenvale,641500,unit,1.0
-182,Garfield,428750,unit,
-184,Garfield North,428750,unit,
-185,Gembrook,428750,unit,
-187,Gilderoy,428750,unit,
-188,Gladstone Park,490500,unit,
-190,Gladysdale,428750,unit,
+185,Garfield,428750,unit,
+187,Garfield North,428750,unit,
+188,Gembrook,498375,unit,
+190,Gilderoy,498375,unit,
+191,Gladstone Park,490500,unit,
+193,Gladysdale,498375,unit,
 177,Glen Huntly,524000,unit,1.0
 178,Glen Iris,630000,unit,1.0
 179,Glen Waverley,847500,unit,1.0
-192,Glengala,490500,unit,
+195,Glengala,490500,unit,
 180,Glenroy,529000,unit,1.0
-193,Gowanbrae,490500,unit,
+196,Gowanbrae,490500,unit,
 183,Greensborough,633000,unit,1.0
 184,Greenvale,561500,unit,1.0
-195,Greythorn,701750,unit,
-197,Gruyere,547500,unit,
-199,Guys Hill,429375,unit,
+198,Greythorn,701750,unit,
+200,Gruyere,557750,unit,
+202,Guys Hill,429375,unit,
 186,Hadfield,502500,unit,1.0
 187,Hallam,415000,unit,1.0
 190,Hampton,775000,unit,1.0
 191,Hampton East,597000,unit,1.0
-201,Hampton North,637125,unit,
+204,Hampton North,637125,unit,
 192,Hampton Park,400000,unit,1.0
-203,Harkaway,429375,unit,
-205,Hartwell,735500,unit,
+206,Harkaway,430000,unit,
+208,Hartwell,735500,unit,
 194,Hastings,390000,unit,1.0
-207,Hawksburn,606750,unit,
+210,Hawksburn,606750,unit,
 195,Hawthorn,540000,unit,1.0
 196,Hawthorn East,616500,unit,1.0
-209,Hawthorn North,606750,unit,
-211,Hawthorn West,606750,unit,
-212,Heatherton,605500,unit,
+212,Hawthorn North,606750,unit,
+214,Hawthorn West,606750,unit,
+215,Heatherton,605500,unit,
 198,Heathmont,638000,unit,1.0
 199,Heidelberg,657500,unit,1.0
 200,Heidelberg Heights,626000,unit,1.0
 201,Heidelberg West,578500,unit,1.0
 203,Highett,665000,unit,1.0
-214,Highpoint City,520125,unit,
-216,Hillside,435500,unit,
-218,Hoddles Creek,428750,unit,
-220,Holmesglen,620875,unit,
-222,Hopetoun Gardens,655125,unit,
+217,Highpoint City,520125,unit,
+219,Hillside,435500,unit,
+221,Hoddles Creek,498375,unit,
+223,Holmesglen,620875,unit,
+225,Hopetoun Gardens,655125,unit,
 206,Hoppers Crossing,400000,unit,1.0
-224,Houston,740000,unit,
+227,Houston,740000,unit,
 208,Hughesdale,622000,unit,1.0
 209,Huntingdale,661000,unit,1.0
-225,Hurstbridge,486250,unit,
-227,Iona,428750,unit,
+228,Hurstbridge,486250,unit,
+230,Iona,428750,unit,
 212,Ivanhoe,632500,unit,1.0
 213,Ivanhoe East,597000,unit,1.0
-229,Ivanhoe North,638250,unit,
+232,Ivanhoe North,638250,unit,
 214,Jacana,410000,unit,1.0
 216,Junction Village,285000,unit,1.0
-230,Kalkallo,430250,unit,
-231,Kallista,428750,unit,
-233,Kangaroo Ground,610000,unit,
-235,Karingal,485500,unit,
-237,Karingal Centre,485500,unit,
-238,Kealba,440250,unit,
-239,Keilor,450250,unit,
+233,Kalkallo,430250,unit,
+234,Kallista,498375,unit,
+235,Kalorama,568000,unit,
+237,Kangaroo Ground,610000,unit,
+239,Karingal,485500,unit,
+241,Karingal Centre,485500,unit,
+242,Kealba,440250,unit,
+243,Keilor,450250,unit,
 218,Keilor Downs,466000,unit,1.0
 219,Keilor East,642000,unit,1.0
-240,Keilor Lodge,465000,unit,
-242,Keilor North,450250,unit,
-243,Keilor Park,490500,unit,
+244,Keilor Lodge,465000,unit,
+246,Keilor North,450250,unit,
+247,Keilor Park,490500,unit,
 221,Kensington,518500,unit,1.0
-245,Keon Park,546500,unit,
-247,Kerrimuir,731000,unit,
+249,Keon Park,546500,unit,
+251,Kerrimuir,731000,unit,
 222,Kew,804000,unit,1.0
-248,Kew East,638250,unit,
+252,Kew East,638250,unit,
 224,Keysborough,590500,unit,1.0
 226,Kilsyth,568000,unit,1.0
-249,Kilsyth South,594750,unit,
-250,Kings Park,440250,unit,
+253,Kilsyth South,579500,unit,
+254,Kings Park,440250,unit,
 227,Kingsbury,547500,unit,1.0
 228,Kingsville,408000,unit,1.0
-252,Kingsville West,490500,unit,
-254,Knox City Centre,622500,unit,
+256,Kingsville West,516000,unit,
+258,Knox City Centre,622500,unit,
 229,Knoxfield,625000,unit,1.0
 231,Kooyong,735000,unit,1.0
-257,Kunyung,485500,unit,
-259,La Trobe University,559750,unit,
-261,Laburnum,706250,unit,
+261,Kunyung,485500,unit,
+263,La Trobe University,559750,unit,
+265,Laburnum,706250,unit,
 238,Lalor,442000,unit,1.0
-263,Lalor Plaza,430250,unit,
+267,Lalor Plaza,430250,unit,
 239,Langwarrin,450500,unit,1.0
-265,Langwarrin South,431000,unit,
-266,Launching Place,428750,unit,
+269,Langwarrin South,431000,unit,
+270,Launching Place,498375,unit,
 242,Laverton,505000,unit,1.0
-268,Laverton North,462500,unit,
-270,Laverton Raaf,460000,unit,
+272,Laverton North,465000,unit,
+274,Laverton Raaf,530000,unit,
 246,Lilydale,500000,unit,1.0
-272,Little River,460000,unit,
+276,Little River,460000,unit,
 250,Lower Plenty,545000,unit,1.0
 251,Lynbrook,535000,unit,1.0
-273,Lyndhurst,469000,unit,
-274,Lysterfield,504750,unit,
-275,Lysterfield South,504750,unit,
-277,Macclesfield,428750,unit,
+277,Lyndhurst,469000,unit,
+278,Lysterfield,568000,unit,
+279,Lysterfield South,568000,unit,
+281,Macclesfield,498375,unit,
 252,Macleod,655000,unit,1.0
-279,Macleod West,605125,unit,
+283,Macleod West,605125,unit,
 255,Maidstone,575000,unit,1.0
-281,Main Ridge,540000,unit,
+285,Main Ridge,540000,unit,
 256,Malvern,720000,unit,1.0
 257,Malvern East,633500,unit,1.0
-283,Malvern North,641500,unit,
-285,Mambourin,460000,unit,
-286,Manor Lakes,460000,unit,
+287,Malvern North,641500,unit,
+289,Mambourin,460000,unit,
+290,Manor Lakes,460000,unit,
 260,Maribyrnong,510000,unit,1.0
-288,Maryknoll,428750,unit,
-290,McCrae,540000,unit,
+292,Maryknoll,428750,unit,
+294,McCrae,540000,unit,
 262,Mccrae,700000,unit,1.0
 263,McKinnon,785000,unit,1.0
 264,Meadow Heights,376500,unit,1.0
 265,Melbourne,474000,unit,1.0
-293,Melbourne Airport,450250,unit,
-295,Melbourne University,521000,unit,
+299,Melbourne Airport,450250,unit,
+301,Melbourne University,521000,unit,
 267,Melton South,299500,unit,1.0
 269,Mentone,600000,unit,1.0
-297,Mentone East,637125,unit,
-298,Menzies Creek,428750,unit,
-300,Merlynston,546500,unit,
+303,Mentone East,637125,unit,
+304,Menzies Creek,498375,unit,
+306,Merlynston,546500,unit,
 270,Mernda,385500,unit,1.0
-302,Merricks,540000,unit,
-304,Merricks Beach,540000,unit,
-306,Merricks North,540000,unit,
-307,Mickleham,430250,unit,
-309,Middle Camberwell,735500,unit,
+308,Merricks,540000,unit,
+310,Merricks Beach,540000,unit,
+312,Merricks North,540000,unit,
+313,Mickleham,430250,unit,
+315,Middle Camberwell,735500,unit,
 272,Middle Park,735000,unit,1.0
 274,Mill Park,444500,unit,1.0
+316,Millgrove,568000,unit,
 275,Mitcham,696000,unit,1.0
-311,Mitcham North,672500,unit,
-313,Monash University,635000,unit,
+318,Mitcham North,672500,unit,
+320,Monash University,635000,unit,
+321,Monbulk,568000,unit,
 277,Mont Albert,708500,unit,1.0
 278,Mont Albert North,887000,unit,1.0
 279,Montmorency,685000,unit,1.0
+322,Montrose,568000,unit,
 280,Moonee Ponds,483500,unit,1.0
-315,Moonee Vale,521000,unit,
+324,Moonee Vale,521000,unit,
 281,Moorabbin,683000,unit,1.0
-317,Moorabbin Airport,637125,unit,
-319,Moorooduc,540000,unit,
+326,Moorabbin Airport,637125,unit,
+328,Moorooduc,540000,unit,
 282,Mooroolbark,568500,unit,1.0
-321,Morang South,486250,unit,
+330,Morang South,486250,unit,
 284,Mordialloc,615000,unit,1.0
-323,Moreland,546500,unit,
-325,Moreland West,521000,unit,
+332,Moreland,546500,unit,
+334,Moreland West,521000,unit,
 285,Mornington,643000,unit,1.0
-327,Mount Burnett,428750,unit,
-329,Mount Cottrell,460000,unit,
+336,Mount Burnett,498375,unit,
+338,Mount Cottrell,460000,unit,
+339,Mount Dandenong,568000,unit,
 288,Mount Eliza,595000,unit,1.0
 289,Mount Evelyn,580000,unit,1.0
 290,Mount Martha,650000,unit,1.0
 292,Mount Waverley,954000,unit,1.0
-331,Mountain Gate,504750,unit,
+341,Mountain Gate,568000,unit,
 293,Mulgrave,731000,unit,1.0
 294,Murrumbeena,510000,unit,1.0
-333,Nangana,428750,unit,
-335,Nar Nar Goon,428750,unit,
-337,Nar Nar Goon North,428750,unit,
+343,Nangana,498375,unit,
+345,Nar Nar Goon,428750,unit,
+347,Nar Nar Goon North,428750,unit,
 297,Narre Warren,418000,unit,1.0
-339,Narre Warren East,430000,unit,
-340,Narre Warren North,430000,unit,
-341,Narre Warren South,430000,unit,
+349,Narre Warren East,499000,unit,
+350,Narre Warren North,499000,unit,
+351,Narre Warren South,430000,unit,
 300,Newport,730000,unit,1.0
 302,Niddrie,656500,unit,1.0
 303,Noble Park,460000,unit,1.0
-343,Noble Park East,571500,unit,
+353,Noble Park East,571500,unit,
 304,Noble Park North,515000,unit,1.0
 308,North Melbourne,477500,unit,1.0
-345,North Road,655125,unit,
-347,North Warrandyte,610000,unit,
+355,North Road,655125,unit,
+357,North Warrandyte,610000,unit,
 309,Northcote,585500,unit,1.0
-349,Northcote South,572000,unit,
-351,Northland Centre,572000,unit,
+359,Northcote South,572000,unit,
+361,Northland Centre,572000,unit,
 310,Notting Hill,396000,unit,1.0
 312,Nunawading,590500,unit,1.0
-353,Nutfield,486250,unit,
+363,Nutfield,486250,unit,
 313,Oak Park,658000,unit,1.0
-355,Oaklands Junction,435500,unit,
+365,Oaklands Junction,435500,unit,
 314,Oakleigh,540000,unit,1.0
 315,Oakleigh East,791500,unit,1.0
 316,Oakleigh South,697500,unit,1.0
 318,Officer,430000,unit,1.0
-356,Officer South,429375,unit,
-357,Olinda,579500,unit,
+366,Officer South,429375,unit,
+367,Olinda,573750,unit,
 319,Ormond,605000,unit,1.0
 321,Pakenham,370000,unit,1.0
-359,Pakenham South,428750,unit,
-361,Pakenham Upper,428750,unit,
-363,Panton Hill,547500,unit,
-364,Park Orchards,641250,unit,
+369,Pakenham South,428750,unit,
+371,Pakenham Upper,428750,unit,
+373,Panton Hill,547500,unit,
+374,Park Orchards,641250,unit,
 322,Parkdale,672000,unit,1.0
 323,Parkville,458000,unit,1.0
 324,Pascoe Vale,610000,unit,1.0
 325,Pascoe Vale South,600000,unit,1.0
-366,Patterson,641500,unit,
+376,Patterson,641500,unit,
 326,Patterson Lakes,587500,unit,1.0
-367,Pearcedale,431000,unit,
-369,Pines Forest,431000,unit,
-371,Pinewood,687500,unit,
-372,Plenty,486250,unit,
-374,Plumpton,440250,unit,
+377,Pearcedale,431000,unit,
+379,Pines Forest,431000,unit,
+381,Pinewood,687500,unit,
+382,Plenty,486250,unit,
+384,Plumpton,440250,unit,
 328,Point Cook,465000,unit,1.0
-376,Point Leo,540000,unit,
+386,Point Leo,540000,unit,
 331,Port Melbourne,729000,unit,1.0
-377,Portsea,540000,unit,
-379,Powelltown,428750,unit,
+387,Portsea,540000,unit,
+389,Powelltown,498375,unit,
 334,Prahran,590000,unit,1.0
-381,Prahran East,592500,unit,
+391,Prahran East,592500,unit,
 335,Preston,490000,unit,1.0
-383,Preston Lower,572000,unit,
-385,Preston South,572000,unit,
-387,Preston West,572000,unit,
-388,Princes Hill,590000,unit,
-390,Quandong,460000,unit,
-392,Rangeview,672500,unit,
-394,Ravenhall,440250,unit,
-396,Red Hill,540000,unit,
-398,Red Hill South,540000,unit,
+393,Preston Lower,572000,unit,
+395,Preston South,572000,unit,
+397,Preston West,572000,unit,
+398,Princes Hill,590000,unit,
+400,Quandong,462500,unit,
+402,Rangeview,672500,unit,
+404,Ravenhall,440250,unit,
+406,Red Hill,540000,unit,
+408,Red Hill South,540000,unit,
+410,Reefton,568000,unit,
 338,Research,672500,unit,1.0
 339,Reservoir,560500,unit,1.0
-400,Reservoir East,546500,unit,
-402,Reservoir North,546500,unit,
-404,Reservoir South,546500,unit,
+412,Reservoir East,546500,unit,
+414,Reservoir North,546500,unit,
+416,Reservoir South,546500,unit,
 340,Richmond,578500,unit,1.0
-406,Richmond East,599125,unit,
-408,Richmond North,599125,unit,
-410,Richmond South,599125,unit,
+418,Richmond East,599125,unit,
+420,Richmond North,599125,unit,
+422,Richmond South,599125,unit,
 342,Ringwood,532000,unit,1.0
 343,Ringwood East,628000,unit,1.0
 344,Ringwood North,640000,unit,1.0
 345,Ripponlea,525500,unit,1.0
-413,Robinson,516000,unit,
-414,Rockbank,440250,unit,
+425,Robinson,516000,unit,
+426,Rockbank,440250,unit,
 347,Rosanna,685000,unit,1.0
 348,Rosebud,525000,unit,1.0
-416,Rosebud Plaza,540000,unit,
+428,Rosebud Plaza,540000,unit,
 350,Rowville,578000,unit,1.0
 351,Roxburgh Park,401000,unit,1.0
 352,Rye,475000,unit,1.0
-418,Rythdale,428750,unit,
+430,Rythdale,428750,unit,
 353,Safety Beach,665000,unit,1.0
-420,Saint Helena,547500,unit,
+432,Saint Helena,547500,unit,
 357,Sandhurst,592500,unit,1.0
-422,Sandown Village,605500,unit,
+434,Sandown Village,605500,unit,
 358,Sandringham,781000,unit,1.0
-423,Sassafras,579500,unit,
-425,Sassafras Gully,579500,unit,
+435,Sassafras,573750,unit,
+437,Sassafras Gully,573750,unit,
 359,Scoresby,574500,unit,1.0
-426,Seabrook,460000,unit,
+438,Seabrook,530000,unit,
 360,Seaford,495000,unit,1.0
-427,Seaholme,460000,unit,
+439,Seaholme,530000,unit,
 362,Seddon,696000,unit,1.0
-429,Seddon West,519250,unit,
-430,Selby,428750,unit,
-431,Seville,428750,unit,
-432,Seville East,428750,unit,
-433,Shoreham,540000,unit,
+441,Seddon West,519250,unit,
+442,Selby,498375,unit,
+443,Seville,498375,unit,
+444,Seville East,498375,unit,
+446,Sherbrooke,568000,unit,
+447,Shoreham,540000,unit,
+449,Silvan,568000,unit,
 365,Skye,445000,unit,1.0
-435,Smiths Gully,547500,unit,
-436,Somers,540000,unit,
-438,Somerton,430250,unit,
+451,Smiths Gully,547500,unit,
+452,Somers,540000,unit,
+454,Somerton,430250,unit,
 367,Somerville,453500,unit,1.0
 368,Sorrento,890000,unit,1.0
 369,South Kingsville,643000,unit,1.0
@@ -505,102 +515,105 @@
 371,South Morang,407000,unit,1.0
 372,South Yarra,580000,unit,1.0
 373,Southbank,582500,unit,1.0
-441,Southland Centre,637125,unit,
+457,Southland Centre,637125,unit,
 374,Spotswood,650000,unit,1.0
 376,Springvale,508000,unit,1.0
 377,Springvale South,470000,unit,1.0
 378,St Albans,430000,unit,1.0
-442,St Andrews Beach,540000,unit,
-443,St Helena,638250,unit,
+458,St Andrews Beach,540000,unit,
+459,St Helena,638250,unit,
 380,St Kilda,535000,unit,1.0
 381,St Kilda East,590000,unit,1.0
 382,St Kilda West,595000,unit,1.0
-445,Steels Creek,610000,unit,
-447,Strathewen,486250,unit,
+461,Steels Creek,568000,unit,
+463,Strathewen,486250,unit,
 386,Strathmore,732000,unit,1.0
-448,Strathmore Heights,518500,unit,
+464,Strathmore Heights,518500,unit,
 389,Sunbury,395000,unit,1.0
 390,Sunshine,390000,unit,1.0
 391,Sunshine North,512000,unit,1.0
 392,Sunshine West,480000,unit,1.0
 393,Surrey Hills,756000,unit,1.0
-450,Surrey Hills North,735500,unit,
-452,Surrey Hills South,731000,unit,
+466,Surrey Hills North,735500,unit,
+468,Surrey Hills South,731000,unit,
 395,Sydenham,416000,unit,1.0
 396,Syndal,880000,unit,1.0
 397,Tarneit,388000,unit,1.0
-454,Tarrawarra,610000,unit,
-455,Taylors Hill,435500,unit,
-456,Taylors Lakes,465000,unit,
-457,Tecoma,428750,unit,
+470,Tarrawarra,568000,unit,
+471,Taylors Hill,435500,unit,
+472,Taylors Lakes,465000,unit,
+473,Tecoma,498375,unit,
 399,Templestowe,740000,unit,1.0
 400,Templestowe Lower,765000,unit,1.0
-458,The Basin,579500,unit,
-460,The Pines,706250,unit,
+474,The Basin,573750,unit,
+475,The Patch,568000,unit,
+477,The Pines,706250,unit,
 401,Thomastown,457500,unit,1.0
 403,Thornbury,602000,unit,1.0
-462,Three Bridges,428750,unit,
-464,Tonimbuk,428750,unit,
-465,Tooradin,429375,unit,
+479,Three Bridges,498375,unit,
+481,Tonimbuk,428750,unit,
+482,Tooradin,429375,unit,
 404,Toorak,1085500,unit,1.0
-466,Tootgarook,540000,unit,
-468,Tottenham,490500,unit,
+483,Tootgarook,540000,unit,
+485,Tottenham,516000,unit,
 408,Travancore,348000,unit,1.0
-470,Tremont,579500,unit,
+487,Tremont,573750,unit,
 409,Truganina,415000,unit,1.0
-472,Tuerong,540000,unit,
+489,Tuerong,540000,unit,
 410,Tullamarine,480000,unit,1.0
 411,Tyabb,443000,unit,1.0
-474,Tynong,428750,unit,
-476,Tynong North,428750,unit,
-478,University Of Melbourne,590000,unit,
-479,Upper Ferntree Gully,504750,unit,
-480,Upwey,579500,unit,
+491,Tynong,428750,unit,
+493,Tynong North,428750,unit,
+495,University Of Melbourne,590000,unit,
+496,Upper Ferntree Gully,568000,unit,
+497,Upwey,573750,unit,
 412,Vermont,725000,unit,1.0
 413,Vermont South,772500,unit,1.0
-482,Vervale,428750,unit,
+499,Vervale,428750,unit,
 414,Viewbank,643500,unit,1.0
-484,Wandin East,428750,unit,
-485,Wandin North,428750,unit,
+501,Wandin East,498375,unit,
+502,Wandin North,498375,unit,
 418,Wantirna,635000,unit,1.0
 419,Wantirna South,495000,unit,1.0
-486,Warneet,429375,unit,
-487,Warrandyte,610000,unit,
-489,Warrandyte South,641250,unit,
-490,Warranwood,641250,unit,
-492,Watergardens,465000,unit,
-493,Waterways,556750,unit,
+503,Warburton,568000,unit,
+504,Warneet,429375,unit,
+505,Warrandyte,610000,unit,
+507,Warrandyte South,641250,unit,
+508,Warranwood,641250,unit,
+510,Watergardens,465000,unit,
+511,Waterways,556750,unit,
 422,Watsonia,495000,unit,1.0
-494,Watsonia North,572000,unit,
-496,Watsons Creek,610000,unit,
-497,Wattle Glen,547500,unit,
-499,Wattle Park,740000,unit,
-501,Waverley Gardens,579500,unit,
+512,Watsonia North,572000,unit,
+514,Watsons Creek,610000,unit,
+515,Wattle Glen,547500,unit,
+517,Wattle Park,740000,unit,
+519,Waverley Gardens,579500,unit,
 424,Werribee,380000,unit,1.0
 425,Werribee South,465000,unit,1.0
+520,Wesburn,568000,unit,
 426,West Footscray,450000,unit,1.0
 427,West Melbourne,599000,unit,1.0
 431,Westmeadows,510500,unit,1.0
 432,Wheelers Hill,803000,unit,1.0
-503,Wildwood,425500,unit,
+522,Wildwood,425500,unit,
 436,Williams Landing,395000,unit,1.0
 437,Williamstown,600000,unit,1.0
 438,Williamstown North,737500,unit,1.0
 440,Windsor,487500,unit,1.0
-505,Wishart,641500,unit,
+524,Wishart,641500,unit,
 442,Wollert,420000,unit,1.0
-506,Wonga Park,610000,unit,
-508,Woodstock,430250,unit,
-509,Woori Yallock,428750,unit,
-511,World Trade Centre,590000,unit,
+525,Wonga Park,589000,unit,
+527,Woodstock,430250,unit,
+528,Woori Yallock,498375,unit,
+530,World Trade Centre,590000,unit,
 445,Wyndham Vale,378000,unit,1.0
-512,Yallambie,605125,unit,
-514,Yan Yean,486250,unit,
+531,Yallambie,605125,unit,
+533,Yan Yean,486250,unit,
 446,Yarra Glen,425000,unit,1.0
 447,Yarra Junction,461500,unit,1.0
-516,Yarrambat,486250,unit,
+535,Yarrambat,486250,unit,
 448,Yarraville,654000,unit,1.0
-518,Yarraville West,554625,unit,
-520,Yellingbo,428750,unit,
-522,Yering,547500,unit,
-524,Yuroke,435500,unit,
+537,Yarraville West,590000,unit,
+539,Yellingbo,498375,unit,
+541,Yering,557750,unit,
+543,Yuroke,435500,unit,
