@@ -140,7 +140,6 @@
 186,Diggers Rest,339.0,
 187,Dingley Village,372.5,
 188,Dixons Creek,372.5,
-189,Docklands,520.0,
 190,Don Valley,335.0,
 193,Doncaster Heights,417.5,
 194,Donnybrook,343.75,
@@ -148,7 +147,6 @@
 197,Doveton,347.5,
 199,Dunearn,367.5,
 200,Eaglemont,402.5,
-201,East Melbourne,515.0,
 202,East Warburton,365.0,
 203,Edithvale,372.5,
 206,Eltham North,400.0,
@@ -214,6 +212,7 @@
 296,Karingal,325.0,
 297,Karingal Centre,325.0,
 298,Kealba,331.5,
+299,Keilor,344.75,
 300,Keilor Downs,343.0,
 302,Keilor Lodge,343.0,
 303,Keilor North,344.75,
@@ -383,7 +382,6 @@
 511,Sorrento,325.0,
 512,South Kingsville,395.0,
 514,South Morang,360.0,
-516,Southbank,510.0,
 517,Southland Centre,421.25,
 520,Springvale South,372.5,
 522,St Andrews Beach,325.0,
@@ -549,7 +547,6 @@
 53,Footscray,388.0,494.0
 54,Keilor East,410.0,229.0
 54,Avondale Heights,410.0,229.0
-55,Melton,280.0,115.0
 56,Newport,378.0,84.0
 56,Spotswood,378.0,84.0
 57,St Albans,320.0,161.0
