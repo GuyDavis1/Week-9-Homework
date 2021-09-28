@@ -8,7 +8,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "A bubble plot showing the relationship between prices and rents",
     "width": 500,"height": 300,
-
+    "title":"2019 median prices and median rents by suburb",
 
     "params": [
       {"name":"property_type",
@@ -29,7 +29,10 @@
       "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/main.csv"
     },
    
-    "transform": [{"filter": "property_type == null || datum.type == property_type"}],
+    "transform": [{"filter": "property_type == null || datum.type == property_type"},
+                  {"filter": "datum.median_price<2000000"},
+                  {"calculate": "1.8*datum.Count", "as": "Count of rental properties"}],
+      
     "mark": "circle",
     "encoding": {
    
@@ -48,10 +51,10 @@
       }, "tooltip" : [
         {"field":"Suburb","type":"nominal","title":"Suburb"},
         {"field": "median_price", "type": "quantitative", "title": "median price"},
-        {"field": "median_rent", "type": "quantitative"},
+        {"field": "median_rent", "type": "quantitative", "title":"median rent"},
         {"field":"Count","type":"quantitative","title":"count of rental properties"},
         {"field":"type","type":"nominal","title":"property type"}],
-      "size": {"field": "Count", "type": "quantitative"},
+      "size": {"field": "Count of rental properties", "type": "quantitative"},
       "color": {"field": "type"}
     
     }
@@ -83,8 +86,8 @@
                       ]},
         "mark": "text",
         "encoding": {
-          "x": {"field": "median_price", "type": "quantitative","scale":{"domainMax":3000000,"domainMin":200000,"type": "log"}},
-          "y": {"field": "median_rent", "type": "quantitative","scale":{"domainMin":200,"domainMax":1000,"type": "log"}},
+          "x": {"field": "median_price", "type": "quantitative","scale":{"domainMax":3000000,"domainMin":200000,"type": "log"},"title":"median price"},
+          "y": {"field": "median_rent", "type": "quantitative","scale":{"domainMin":200,"domainMax":1000,"type": "log"},"title":"median rent"},
           "text": {"field": "text"}
         }
 

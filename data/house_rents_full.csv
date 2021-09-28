@@ -1,0 +1,681 @@
+,suburb,median_rent,Count
+1,Aberfeldie,495.0,
+2,Airport West,442.5,
+3,Albanvale,375.0,
+5,Albion,442.5,
+8,Altona East,451.25,
+9,Altona Gate,451.25,
+10,Altona Meadows,451.25,
+11,Altona North,451.25,
+12,Ardeer,390.0,
+14,Armadale North,737.5,
+15,Arthurs Creek,410.0,
+16,Arthurs Seat,392.5,
+19,Ashwood,650.0,
+21,Aspendale Gardens,440.0,
+22,Attwood,390.0,
+23,Auburn,693.75,
+24,Auburn South,737.5,
+26,Avonsleigh,385.0,
+27,Balaclava,737.5,
+28,Balnarring,392.5,
+29,Balnarring Beach,392.5,
+31,Balwyn East,555.0,
+32,Balwyn North,462.5,
+33,Bangholme,417.5,
+34,Banyule,462.5,
+35,Batman,527.75,
+36,Baxter,370.0,
+38,Bayswater North,420.0,
+39,Beaconsfield,370.0,
+40,Beaconsfield Upper,370.0,
+42,Bedford Road,420.0,
+43,Beenak,385.0,
+44,Belgrave,385.0,
+45,Belgrave Heights,385.0,
+46,Belgrave South,385.0,
+47,Bellfield,512.75,
+48,Belvedere Park,417.5,
+49,Bend Of Islands,447.5,
+50,Bend of Islands,435.0,
+51,Bennettswood,460.0,
+53,Bentleigh East,465.0,
+55,Big Pats Creek,405.0,
+56,Bittern,392.5,
+57,Black Rock,588.75,
+58,Black Rock North,588.75,
+60,Blackburn North,460.0,
+61,Blackburn South,460.0,
+62,Blairgowrie,392.5,
+63,Blind Bight,370.0,
+64,Bonbeach,440.0,
+65,Boneo,392.5,
+67,Botanic Ridge,370.0,
+69,Box Hill Central,460.0,
+70,Box Hill North,460.0,
+71,Box Hill South,460.0,
+72,Braeside,440.0,
+73,Braybrook,495.0,
+74,Braybrook North,495.0,
+75,Brentford Square,460.0,
+76,Briar Hill,435.0,
+79,Brighton North,712.5,
+80,Brighton Road,712.5,
+82,Brookfield,366.25,
+83,Brooklyn,495.0,
+85,Brunswick East,560.5,
+86,Brunswick Lower,750.0,
+87,Brunswick North,750.0,
+88,Brunswick South,495.0,
+89,Brunswick West,495.0,
+90,Bulla,390.0,
+93,Bunyip,370.0,
+94,Bunyip North,370.0,
+96,Burnley North,743.75,
+97,Burnside,375.0,
+98,Burnside Heights,375.0,
+101,Burwood Heights,460.0,
+102,Cairnlea,375.0,
+103,Calder Park,390.0,
+105,Camberwell East,650.0,
+106,Camberwell North,555.0,
+107,Camberwell South,555.0,
+108,Camberwell West,555.0,
+109,Campbellfield,390.0,
+110,Cannons Creek,370.0,
+112,Cape Schanck,392.5,
+113,Capel Sound,392.5,
+114,Cardinia,370.0,
+117,Carlton South,760.0,
+119,Caroline Springs,375.0,
+123,Caulfield East,660.0,
+124,Caulfield Junction,737.5,
+125,Caulfield North,737.5,
+126,Caulfield South,691.25,
+127,Central Park,660.0,
+129,Chadstone Centre,598.75,
+130,Chapel Street North,760.0,
+132,Chelsea Heights,440.0,
+134,Cheltenham East,588.75,
+135,Cheltenham North,588.75,
+136,Chirnside Park,427.5,
+137,Christmas Hills,422.5,
+138,Clarinda,460.0,
+140,Clayton South,460.0,
+141,Clematis,385.0,
+143,Clyde,370.0,
+144,Clyde North,370.0,
+145,Coatesville,465.0,
+148,Cockatoo,385.0,
+149,Cocoroc,372.5,
+150,Coldstream,417.5,
+152,Collingwood North,760.0,
+153,Coolaroo,390.0,
+154,Cora Lynn,370.0,
+155,Cotham,700.0,
+156,Cottles Bridge,410.0,
+159,Cranbourne East,370.0,
+160,Cranbourne North,370.0,
+161,Cranbourne South,370.0,
+162,Cranbourne West,370.0,
+163,Cremorne,743.75,
+164,Crib Point,392.5,
+165,Cromer,588.75,
+167,Croydon Hills,420.0,
+168,Croydon North,420.0,
+169,Croydon South,420.0,
+170,Dallas,442.5,
+172,Dandenong East,417.5,
+174,Dandenong South,417.5,
+175,Darling,660.0,
+176,Deepdene,650.0,
+178,Deer Park East,390.0,
+179,Deer Park North,375.0,
+180,Delahey,390.0,
+181,Dendy,712.5,
+182,Derrimut,372.5,
+183,Devon Meadows,370.0,
+184,Dewhurst,370.0,
+185,Diamond Creek,450.0,
+186,Diggers Rest,380.0,
+187,Dingley Village,440.0,
+188,Dixons Creek,422.5,
+189,Docklands,770.0,
+190,Don Valley,385.0,
+193,Doncaster Heights,460.0,
+194,Donnybrook,377.5,
+196,Doreen,407.5,
+197,Doveton,392.5,
+199,Dunearn,417.5,
+200,Eaglemont,462.5,
+201,East Melbourne,760.0,
+202,East Warburton,405.0,
+203,Edithvale,440.0,
+206,Eltham North,460.0,
+208,Emerald,385.0,
+212,Essendon Fields,495.0,
+213,Essendon North,495.0,
+214,Essendon West,495.0,
+215,Eumemmerring,392.5,
+216,Exford,366.25,
+217,Eynesbury,366.25,
+220,Fawkner East,495.0,
+221,Fawkner North,495.0,
+223,Ferny Creek,410.0,
+224,Fingal,392.5,
+231,Fountain Gate,370.0,
+233,Frankston East,381.25,
+234,Frankston Heights,381.25,
+235,Frankston North,370.0,
+236,Frankston South,381.25,
+237,Garden City,770.0,
+238,Gardenvale,712.5,
+239,Garfield,370.0,
+240,Garfield North,370.0,
+241,Gembrook,385.0,
+242,Gilderoy,385.0,
+244,Gladysdale,385.0,
+245,Glen Huntly,670.0,
+248,Glengala,442.5,
+250,Gowanbrae,442.5,
+252,Greenvale,390.0,
+253,Greythorn,462.5,
+254,Gruyere,417.5,
+255,Guys Hill,370.0,
+256,Hadfield,495.0,
+257,Hallam,392.5,
+259,Hampton East,588.75,
+260,Hampton North,588.75,
+262,Harkaway,370.0,
+263,Hartwell,555.0,
+265,Hawksburn,737.5,
+267,Hawthorn East,693.75,
+268,Hawthorn North,737.5,
+269,Hawthorn West,737.5,
+270,Heatherton,465.0,
+271,Heathmont,420.0,
+273,Heidelberg Heights,512.75,
+275,Highett,588.75,
+276,Highpoint City,522.5,
+277,Hillside,390.0,
+278,Hoddles Creek,385.0,
+279,Holmesglen,598.75,
+280,Hopetoun Gardens,691.25,
+282,Houston,460.0,
+284,Huntingdale,670.0,
+286,Iona,370.0,
+289,Ivanhoe North,560.5,
+290,Jacana,442.5,
+291,Junction Village,370.0,
+292,Kalkallo,377.5,
+293,Kallista,385.0,
+294,Kalorama,400.0,
+295,Kangaroo Ground,447.5,
+296,Karingal,381.25,
+297,Karingal Centre,381.25,
+298,Kealba,375.0,
+300,Keilor Downs,390.0,
+302,Keilor Lodge,390.0,
+303,Keilor North,390.0,
+304,Keilor Park,442.5,
+306,Keon Park,480.0,
+307,Kerrimuir,460.0,
+309,Kew East,650.0,
+310,Keysborough,440.0,
+311,Kilsyth,420.0,
+312,Kilsyth South,420.0,
+313,Kings Park,375.0,
+314,Kingsbury,450.0,
+315,Kingsville,495.0,
+316,Kingsville West,495.0,
+317,Knox City Centre,440.0,
+318,Knoxfield,420.0,
+319,Kooyong,670.0,
+320,Kunyung,381.25,
+321,La Trobe University,450.0,
+322,Laburnum,460.0,
+324,Lalor Plaza,385.0,
+325,Langwarrin,370.0,
+326,Langwarrin South,370.0,
+327,Launching Place,385.0,
+328,Laverton,451.25,
+329,Laverton North,390.0,
+330,Laverton Raaf,451.25,
+332,Little River,363.75,
+333,Lower Plenty,460.0,
+334,Lynbrook,392.5,
+335,Lyndhurst,392.5,
+336,Lysterfield,400.0,
+337,Lysterfield South,400.0,
+338,Macclesfield,385.0,
+339,Macleod,512.75,
+340,Macleod West,512.75,
+341,Maidstone,495.0,
+342,Main Ridge,392.5,
+345,Malvern North,670.0,
+346,Mambourin,366.25,
+347,Manor Lakes,372.5,
+348,Maribyrnong,522.5,
+349,Maryknoll,370.0,
+350,McCrae,392.5,
+351,Mccrae,392.5,
+352,Mckinnon,670.0,
+353,Mcmahons Creek,405.0,
+354,Meadow Heights,390.0,
+355,Melbourne,760.0,
+356,Melbourne Airport,390.0,
+357,Melbourne University,495.0,
+358,Melton South,366.25,
+360,Mentone East,588.75,
+361,Menzies Creek,385.0,
+362,Merlynston,527.75,
+363,Mernda,407.5,
+364,Merricks,392.5,
+365,Merricks Beach,392.5,
+366,Merricks North,392.5,
+367,Mickleham,377.5,
+368,Middle Camberwell,555.0,
+371,Millgrove,405.0,
+373,Mitcham North,460.0,
+374,Monash University,460.0,
+375,Monbulk,400.0,
+377,Mont Albert North,460.0,
+379,Montrose,400.0,
+381,Moonee Vale,495.0,
+382,Moorabbin,670.0,
+383,Moorabbin Airport,588.75,
+384,Moorooduc,392.5,
+385,Mooroolbark,410.0,
+386,Morang South,407.5,
+388,Moreland,527.75,
+389,Moreland West,495.0,
+391,Mount Burnett,385.0,
+392,Mount Cottrell,366.25,
+393,Mount Dandenong,400.0,
+394,Mount Eliza,381.25,
+395,Mount Evelyn,400.0,
+396,Mount Martha,392.5,
+398,Mountain Gate,400.0,
+401,Nangana,385.0,
+402,Nar Nar Goon,370.0,
+403,Nar Nar Goon North,370.0,
+405,Narre Warren East,385.0,
+406,Narre Warren North,385.0,
+407,Narre Warren South,370.0,
+409,Niddrie,442.5,
+411,Noble Park East,437.5,
+412,Noble Park North,437.5,
+414,North Road,691.25,
+415,North Warrandyte,447.5,
+417,Northcote South,560.5,
+418,Northland Centre,495.0,
+419,Notting Hill,460.0,
+421,Nutfield,410.0,
+423,Oaklands Junction,390.0,
+425,Oakleigh East,670.0,
+426,Oakleigh South,465.0,
+427,Officer,370.0,
+428,Officer South,370.0,
+429,Olinda,410.0,
+430,Ormond,670.0,
+432,Pakenham South,370.0,
+433,Pakenham Upper,370.0,
+434,Panton Hill,435.0,
+435,Park Orchards,440.0,
+440,Patterson,670.0,
+441,Patterson Lakes,415.0,
+442,Pearcedale,370.0,
+443,Pines Forest,370.0,
+444,Pinewood,460.0,
+445,Plenty,407.5,
+446,Plumpton,375.0,
+447,Point Cook,372.5,
+448,Point Leo,392.5,
+451,Powelltown,385.0,
+453,Prahran East,770.0,
+455,Preston Lower,495.0,
+456,Preston South,495.0,
+457,Preston West,495.0,
+458,Princes Hill,750.0,
+459,Quandong,372.5,
+460,Rangeview,460.0,
+461,Ravenhall,375.0,
+462,Red Hill,392.5,
+463,Red Hill South,392.5,
+464,Reefton,405.0,
+467,Reservoir East,480.0,
+468,Reservoir North,480.0,
+469,Reservoir South,480.0,
+471,Richmond East,743.75,
+472,Richmond North,743.75,
+473,Richmond South,743.75,
+475,Ringwood East,420.0,
+476,Ringwood North,440.0,
+477,Ripponlea,712.5,
+478,Robinson,495.0,
+479,Rockbank,375.0,
+480,Rosanna,462.5,
+481,Rosebud,392.5,
+482,Rosebud Plaza,392.5,
+485,Rye,392.5,
+486,Rythdale,370.0,
+487,Safety Beach,392.5,
+488,Saint Helena,435.0,
+489,Sandhurst,370.0,
+490,Sandown Village,460.0,
+491,Sandringham,712.5,
+492,Sassafras,410.0,
+493,Sassafras Gully,410.0,
+495,Seabrook,451.25,
+497,Seaholme,451.25,
+499,Seddon West,550.0,
+500,Selby,385.0,
+501,Seville,385.0,
+502,Seville East,385.0,
+503,Sherbrooke,400.0,
+504,Shoreham,392.5,
+505,Silvan,400.0,
+506,Skye,370.0,
+507,Smiths Gully,435.0,
+508,Somers,392.5,
+509,Somerton,385.0,
+510,Somerville,370.0,
+511,Sorrento,392.5,
+512,South Kingsville,550.0,
+514,South Morang,407.5,
+516,Southbank,810.0,
+517,Southland Centre,588.75,
+520,Springvale South,440.0,
+522,St Andrews Beach,392.5,
+523,St Helena,465.0,
+525,St Kilda East,737.5,
+526,St Kilda West,793.75,
+527,Steels Creek,422.5,
+528,Strathewen,410.0,
+529,Strathmore,495.0,
+530,Strathmore Heights,495.0,
+533,Sunshine North,442.5,
+534,Sunshine West,442.5,
+536,Surrey Hills North,555.0,
+537,Surrey Hills South,460.0,
+539,Syndal,460.0,
+540,Tarneit,372.5,
+541,Tarrawarra,422.5,
+542,Taylors Hill,390.0,
+543,Taylors Lakes,390.0,
+544,Tecoma,385.0,
+546,Templestowe Lower,462.5,
+547,The Basin,410.0,
+548,The Patch,400.0,
+549,The Pines,460.0,
+552,Three Bridges,385.0,
+553,Tonimbuk,370.0,
+554,Tooradin,370.0,
+556,Tootgarook,392.5,
+557,Tottenham,495.0,
+558,Travancore,522.5,
+559,Tremont,410.0,
+560,Truganina,372.5,
+561,Tuerong,392.5,
+563,Tyabb,392.5,
+564,Tynong,370.0,
+565,Tynong North,370.0,
+566,University Of Melbourne,770.0,
+567,Upper Ferntree Gully,400.0,
+568,Upwey,410.0,
+570,Vermont South,440.0,
+571,Vervale,370.0,
+572,Viewbank,462.5,
+573,Wandin East,385.0,
+574,Wandin North,385.0,
+576,Wantirna South,440.0,
+577,Warburton,405.0,
+578,Warneet,370.0,
+579,Warrandyte,447.5,
+580,Warrandyte South,440.0,
+581,Warranwood,440.0,
+582,Watergardens,390.0,
+583,Waterways,440.0,
+584,Watsonia,465.0,
+585,Watsonia North,465.0,
+586,Watsons Creek,447.5,
+587,Wattle Glen,435.0,
+588,Wattle Park,460.0,
+589,Waverley Gardens,420.0,
+591,Werribee South,372.5,
+592,Wesburn,405.0,
+595,Westmeadows,390.0,
+596,Wheelers Hill,460.0,
+597,Wildwood,370.0,
+598,Williams Landing,372.5,
+600,Williamstown North,530.0,
+602,Wishart,670.0,
+603,Wollert,385.0,
+604,Wonga Park,427.5,
+605,Woodstock,380.0,
+606,Woori Yallock,385.0,
+607,World Trade Centre,770.0,
+608,Wyndham Vale,366.25,
+609,Yallambie,512.75,
+610,Yan Yean,407.5,
+611,Yarra Glen,422.5,
+612,Yarra Junction,385.0,
+613,Yarrambat,407.5,
+615,Yarraville West,550.0,
+616,Yellingbo,385.0,
+617,Yering,417.5,
+618,Yuroke,390.0,
+0,Albert Park,950.0,44.666666666666664
+0,Middle Park,950.0,44.666666666666664
+0,West St Kilda,950.0,44.666666666666664
+1,Armadale,900.0,41.0
+2,Carlton North,785.0,67.0
+3,Carlton,770.0,30.5
+3,Parkville,770.0,30.5
+4,Collingwood,750.0,43.0
+4,Abbotsford,750.0,43.0
+5,East St Kilda,750.0,60.0
+6,Elwood,850.0,65.0
+7,Fitzroy,900.0,48.0
+8,Fitzroy North,778.0,71.0
+8,Clifton Hill,778.0,71.0
+9,Flemington,640.0,76.0
+9,Kensington,640.0,76.0
+10,North Melbourne,750.0,33.5
+10,West Melbourne,750.0,33.5
+11,Port Melbourne,850.0,134.0
+12,Prahran,800.0,70.0
+12,Windsor,800.0,70.0
+13,Richmond,775.0,148.0
+13,Burnley,775.0,148.0
+14,South Melbourne,850.0,67.0
+15,South Yarra,890.0,116.0
+16,St Kilda,725.0,52.0
+17,Toorak,998.0,42.0
+18,Group Total,795.0,1792.0
+19,Balwyn,550.0,210.0
+20,Blackburn,450.0,258.0
+21,Box Hill,480.0,316.0
+22,Bulleen,460.0,139.0
+22,Templestowe,460.0,139.0
+22,Doncaster,460.0,139.0
+23,Burwood,500.0,125.0
+23,Ashburton,500.0,125.0
+24,Camberwell,650.0,122.5
+24,Glen Iris,650.0,122.5
+25,Canterbury,650.0,33.666666666666664
+25,Surrey Hills,650.0,33.666666666666664
+25,Mont Albert,650.0,33.666666666666664
+26,Chadstone,465.0,115.5
+26,Oakleigh,465.0,115.5
+27,Clayton,450.0,222.0
+28,Doncaster East,460.0,128.5
+28,Donvale,460.0,128.5
+29,East Hawthorn,693.0,76.0
+30,Glen Waverley,460.0,343.0
+30,Mulgrave,460.0,343.0
+31,Hawthorn,750.0,81.0
+32,Kew,660.0,148.0
+33,Mount Waverley,480.0,277.0
+34,Nunawading,440.0,117.0
+34,Mitcham,440.0,117.0
+35,Vermont,450.0,134.33333333333334
+35,Forest Hill,450.0,134.33333333333334
+35,Burwood East,450.0,134.33333333333334
+36,Aspendale,465.0,109.66666666666667
+36,Chelsea,465.0,109.66666666666667
+36,Carrum,465.0,109.66666666666667
+37,Bentleigh,550.0,471.0
+38,Brighton,900.0,124.0
+39,Brighton East,670.0,111.0
+40,Carnegie,600.0,64.0
+41,Caulfield,675.0,186.0
+42,Cheltenham,530.0,449.0
+43,Elsternwick,780.0,45.0
+44,Hampton,750.0,113.5
+44,Beaumaris,750.0,113.5
+45,Malvern,850.0,57.0
+46,Malvern East,620.0,156.0
+47,Mentone,560.0,63.0
+47,Parkdale,560.0,63.0
+47,Mordialloc,560.0,63.0
+48,Murrumbeena,520.0,40.5
+48,Hughesdale,520.0,40.5
+49,Group Total,580.0,2489.0
+50,Altona,390.0,1447.0
+51,Footscray,510.0,139.0
+52,Keilor East,435.0,192.0
+52,Avondale Heights,435.0,192.0
+53,Melton,330.0,1053.0
+54,Newport,530.0,114.5
+54,Spotswood,530.0,114.5
+55,St Albans,360.0,445.0
+55,Deer Park,360.0,445.0
+56,Sunshine,360.0,587.0
+57,Sydenham,390.0,928.0
+58,Werribee,355.0,1324.5
+58,Hoppers Crossing,355.0,1324.5
+59,West Footscray,440.0,332.0
+60,Williamstown,650.0,138.0
+61,Yarraville,550.0,158.0
+61,Seddon,550.0,158.0
+62,Group Total,370.0,9092.0
+63,Broadmeadows,370.0,350.5
+63,Roxburgh Park,370.0,350.5
+64,Brunswick,680.0,213.0
+65,Coburg,543.0,185.0
+65,Pascoe Vale South,543.0,185.0
+66,Craigieburn,380.0,847.0
+67,East Brunswick,700.0,89.0
+68,Essendon,470.0,355.0
+69,Gladstone Park,390.0,118.5
+69,Tullamarine,390.0,118.5
+70,Keilor,420.0,17.0
+71,Moonee Ponds,595.0,123.5
+71,Ascot Vale,595.0,123.5
+72,Oak Park,410.0,165.66666666666666
+72,Glenroy,410.0,165.66666666666666
+72,Fawkner,410.0,165.66666666666666
+73,Pascoe Vale,480.0,106.0
+73,Coburg North,480.0,106.0
+74,Sunbury,365.0,396.0
+75,West Brunswick,600.0,87.0
+76,Group Total,400.0,4268.0
+77,Bundoora,410.0,341.0
+77,Greensborough,410.0,341.0
+77,Hurstbridge,410.0,341.0
+78,Eltham,465.0,69.33333333333333
+78,Research,465.0,69.33333333333333
+78,Montmorency,465.0,69.33333333333333
+79,Fairfield,650.0,52.5
+79,Alphington,650.0,52.5
+80,Heidelberg,450.0,163.0
+80,Heidelberg West,450.0,163.0
+81,Ivanhoe,578.0,55.0
+81,Ivanhoe East,578.0,55.0
+82,Mill Park,380.0,415.0
+82,Epping,380.0,415.0
+83,Northcote,688.0,216.0
+84,Preston,495.0,310.0
+85,Reservoir,410.0,454.0
+86,Thomastown,370.0,229.5
+86,Lalor,370.0,229.5
+87,Thornbury,620.0,160.0
+88,Whittlesea,370.0,378.0
+89,Bayswater,400.0,221.0
+90,Boronia,400.0,237.0
+91,Croydon,420.0,473.5
+91,Lilydale,420.0,473.5
+92,Ferntree Gully,400.0,275.0
+93,Ringwood,420.0,377.0
+94,Rowville,430.0,225.0
+95,Wantirna,420.0,229.5
+95,Scoresby,420.0,229.5
+96,Yarra Ranges,400.0,404.0
+97,Berwick,375.0,790.0
+98,Cranbourne,370.0,1472.0
+99,Dandenong,390.0,429.0
+100,Dandenong North,360.0,328.5
+100,Endeavour Hills,360.0,328.5
+101,Narre Warren,370.0,610.5
+101,Hampton Park,370.0,610.5
+102,Noble Park,380.0,336.0
+103,Pakenham,350.0,1027.0
+104,Springvale,400.0,562.0
+105,Dromana,380.0,434.5
+105,Portsea,380.0,434.5
+106,Frankston,390.0,891.0
+107,Hastings,395.0,162.5
+107,Flinders,395.0,162.5
+108,Mt Eliza,490.0,140.0
+108,Mornington,490.0,140.0
+108,Mt Martha,490.0,140.0
+109,Seaford,370.0,422.5
+109,Carrum Downs,370.0,422.5
+110,Belmont,385.0,336.5
+110,Grovedale,385.0,336.5
+111,Corio,290.0,508.0
+112,Geelong,350.0,223.0
+112,Newcombe,350.0,223.0
+113,Herne Hill,388.0,130.0
+113,Geelong West,388.0,130.0
+114,Lara,380.0,165.0
+115,Newtown,410.0,116.0
+116,North Geelong,350.0,376.0
+117,Ballarat,320.0,765.0
+118,Mount Clear,330.0,44.5
+118,Buninyong,330.0,44.5
+119,Sebastopol,300.0,163.5
+119,Delacombe,300.0,163.5
+120,Wendouree,320.0,275.0
+120,Alfredton,320.0,275.0
+121,Bendigo,318.0,218.0
+122,Flora Hill,320.0,186.0
+122,Bendigo East,320.0,186.0
+123,Golden Square,310.0,170.5
+123,Kangaroo Flat,310.0,170.5
+124,North Bendigo,300.0,402.0
+125,Bairnsdale,320.0,198.0
+126,Benalla,300.0,163.0
+127,Castlemaine,350.0,99.0
+128,Echuca,340.0,198.0
+129,Hamilton,270.0,148.0
+130,Horsham,288.0,314.0
+131,Mildura,320.0,581.0
+132,Moe,270.0,104.0
+132,Newborough,270.0,104.0
+133,Morwell,240.0,279.0
+134,Ocean Grove,420.0,94.0
+134,Barwon Heads,420.0,94.0
+135,Portland,270.0,140.0
+136,Sale,280.0,191.0
+136,Maffra,280.0,191.0
+137,Seymour,300.0,84.0
+138,Shepparton,300.0,676.0
+139,Swan Hill,300.0,151.0
+140,Torquay,480.0,215.0
+141,Traralgon,300.0,416.0
+142,Wanagaratta,310.0,270.0
+143,Warragul,333.0,196.0
+144,Warrnambool,350.0,419.0
+145,Wodonga,330.0,544.0
