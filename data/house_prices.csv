@@ -1,0 +1,155 @@
+,suburb,median_price,p_type,const
+0,Abbotsford,1030000,house,1.0
+6,Albert Park,1965000,house,1.0
+11,Alphington,1570000,house,1.0
+12,Altona,882500,house,1.0
+20,Armadale,2462500,house,1.0
+23,Ascot Vale,1088500,house,1.0
+24,Ashburton,1651000,house,1.0
+26,Aspendale,994000,house,1.0
+31,Avondale Heights,810000,house,1.0
+44,Balwyn,2392500,house,1.0
+51,Bayswater,715000,house,1.0
+56,Beaumaris,1582500,house,1.0
+69,Bentleigh,1382500,house,1.0
+71,Berwick,673500,house,1.0
+79,Blackburn,1300000,house,1.0
+90,Boronia,684500,house,1.0
+92,Box Hill,1528000,house,1.0
+100,Brighton,2600000,house,1.0
+101,Brighton East,1700000,house,1.0
+103,Broadmeadows,526000,house,1.0
+107,Brunswick,1030000,house,1.0
+111,Bulleen,1100000,house,1.0
+113,Bundoora,727500,house,1.0
+116,Burnley,1188500,house,1.0
+119,Burwood,1165000,house,1.0
+120,Burwood East,1020000,house,1.0
+123,Camberwell,2100000,house,1.0
+129,Canterbury,2832500,house,1.0
+134,Carlton,1306000,house,1.0
+135,Carlton North,1555000,house,1.0
+136,Carnegie,1310000,house,1.0
+138,Carrum,770000,house,1.0
+139,Carrum Downs,537500,house,1.0
+142,Caulfield,1658000,house,1.0
+146,Chadstone,1000000,house,1.0
+149,Chelsea,857500,house,1.0
+151,Cheltenham,1035500,house,1.0
+160,Clayton,1100500,house,1.0
+163,Clifton Hill,1352500,house,1.0
+171,Coburg,931000,house,1.0
+173,Coburg North,812500,house,1.0
+179,Collingwood,1050000,house,1.0
+190,Craigieburn,530000,house,1.0
+191,Cranbourne,500000,house,1.0
+198,Croydon,732500,house,1.0
+205,Dandenong,602000,house,1.0
+206,Dandenong North,605000,house,1.0
+212,Deer Park,550000,house,1.0
+224,Doncaster,1251500,house,1.0
+225,Doncaster East,1190000,house,1.0
+226,Donvale,1121000,house,1.0
+229,Dromana,715500,house,1.0
+240,East Melbourne,3413500,house,1.0
+249,Elsternwick,1750000,house,1.0
+250,Eltham,925000,house,1.0
+252,Elwood,1952500,house,1.0
+254,Endeavour Hills,620000,house,1.0
+255,Epping,550000,house,1.0
+257,Essendon,1447000,house,1.0
+264,Fairfield,1290000,house,1.0
+266,Fawkner,665000,house,1.0
+267,Ferntree Gully,692000,house,1.0
+270,Fitzroy,1392500,house,1.0
+271,Fitzroy North,1377500,house,1.0
+273,Flemington,1000000,house,1.0
+274,Flinders,1670000,house,1.0
+277,Footscray,810000,house,1.0
+278,Forest Hill,900000,house,1.0
+280,Frankston,580500,house,1.0
+292,Gladstone Park,636500,house,1.0
+294,Glen Iris,1929500,house,1.0
+295,Glen Waverley,1270000,house,1.0
+298,Glenroy,700000,house,1.0
+307,Greensborough,797500,house,1.0
+315,Hampton,1896000,house,1.0
+317,Hampton Park,502000,house,1.0
+319,Hastings,506000,house,1.0
+321,Hawthorn,2195500,house,1.0
+327,Heidelberg,1122500,house,1.0
+329,Heidelberg West,665000,house,1.0
+339,Hoppers Crossing,528500,house,1.0
+341,Hughesdale,1150500,house,1.0
+344,Hurstbridge,700000,house,1.0
+352,Ivanhoe,1540000,house,1.0
+353,Ivanhoe East,1765000,house,1.0
+370,Keilor,836500,house,1.0
+372,Keilor East,835000,house,1.0
+376,Kensington,980000,house,1.0
+378,Kew,2255000,house,1.0
+405,Lalor,590500,house,1.0
+418,Lilydale,680000,house,1.0
+444,Malvern,2550000,house,1.0
+445,Malvern East,1770000,house,1.0
+463,Mentone,1028000,house,1.0
+471,Middle Park,2705000,house,1.0
+473,Mill Park,654000,house,1.0
+478,Mitcham,942000,house,1.0
+482,Mont Albert,1680000,house,1.0
+484,Montmorency,856000,house,1.0
+486,Moonee Ponds,1300000,house,1.0
+490,Mordialloc,1010000,house,1.0
+491,Mornington,800000,house,1.0
+504,Mount Waverley,1267000,house,1.0
+505,Mulgrave,840000,house,1.0
+507,Murrumbeena,1241500,house,1.0
+511,Narre Warren,590000,house,1.0
+524,Newport,1055000,house,1.0
+530,Noble Park,629000,house,1.0
+536,North Melbourne,1297500,house,1.0
+538,Northcote,1300000,house,1.0
+541,Nunawading,950000,house,1.0
+544,Oak Park,840000,house,1.0
+545,Oakleigh,1101000,house,1.0
+556,Pakenham,485000,house,1.0
+559,Parkdale,1155000,house,1.0
+560,Parkville,1480000,house,1.0
+561,Pascoe Vale,858500,house,1.0
+562,Pascoe Vale South,950000,house,1.0
+578,Port Melbourne,1375000,house,1.0
+583,Portsea,1950000,house,1.0
+584,Prahran,1510000,house,1.0
+585,Preston,936500,house,1.0
+595,Research,930000,house,1.0
+596,Reservoir,750000,house,1.0
+598,Richmond,1255000,house,1.0
+600,Ringwood,813500,house,1.0
+612,Rowville,820500,house,1.0
+613,Roxburgh Park,540000,house,1.0
+626,Scoresby,767000,house,1.0
+629,Seaford,655000,house,1.0
+633,Seddon,960000,house,1.0
+654,South Melbourne,1355000,house,1.0
+656,South Yarra,1767500,house,1.0
+657,Spotswood,960000,house,1.0
+659,Springvale,743000,house,1.0
+661,St Albans,590000,house,1.0
+666,St Kilda,1600000,house,1.0
+680,Sunbury,535000,house,1.0
+684,Sunshine,720000,house,1.0
+688,Surrey Hills,1886500,house,1.0
+690,Sydenham,599500,house,1.0
+700,Templestowe,1276500,house,1.0
+706,Thomastown,592000,house,1.0
+708,Thornbury,1135000,house,1.0
+715,Toorak,4361000,house,1.0
+724,Tullamarine,612000,house,1.0
+731,Vermont,937000,house,1.0
+742,Wantirna,860000,house,1.0
+760,Werribee,510000,house,1.0
+763,West Footscray,787500,house,1.0
+764,West Melbourne,1085000,house,1.0
+775,Williamstown,1350000,house,1.0
+779,Windsor,1350000,house,1.0
+799,Yarraville,971000,house,1.0
