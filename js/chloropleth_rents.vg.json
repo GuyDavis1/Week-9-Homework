@@ -1,0 +1,145 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "2021 Median Rent by suburb",
+    "width": 200,
+    "height": 200,
+    "params": [
+      {"name":"property_type",
+      
+    
+      "bind":
+      
+      { "input":"select",
+      
+      "options":[null,"unit"],"labels":["house","unit"], "name":"Property Type Selection:"}
+    }
+    ],
+    "layer" : [ {
+      
+      
+      
+      
+   
+      "data": {
+        "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/output_smol.topojson",
+        "format": {
+              "type": "topojson",
+              "feature": "vic_localities"
+            }
+      }, 
+      "projection": {
+        "type": "conicEqualArea",
+        "parallels":[144,-38],
+        "center": [145,-38],
+        "scale":10000
+        
+     
+      },
+      "mark": {"type": "geoshape","fill": "#EEEEEE","stroke": "#EEEEEE"}
+  
+  
+    },
+      {"data": {
+      "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/output_smol.topojson",
+      "format": {
+            "type": "topojson",
+            "feature": "vic_localities"
+          }
+    },
+    "transform": [
+      {
+        "lookup": "properties.LOC_NAME",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/house_rents_full.csv"
+          },
+          "key": "suburb",
+          "fields": ["median_rent"]
+        }
+      },
+      {"calculate": "datum.median_rent", "as": "median rent"},
+ 
+      {"filter":"property_type==null"}
+    ],
+    "projection": {
+      "type": "conicEqualArea",
+  
+      "parallels":[144,-38],
+      "center": [145,-38],
+      
+        "scale":10000
+    },
+  
+    "mark": {
+      "type": "geoshape"},
+    
+      
+    "encoding": {
+      "color": {
+        "field": "median rent",
+        
+        "type": "quantitative",
+        "scale":{"domain":[300,1000],
+        "range":["#0d0887","#9c179e","#ed7953","#f0f921","#f0f921"]
+        }
+      },
+      "tooltip": [
+        {"field": "properties.LOC_NAME", "type": "nominal", "title": "suburb"},
+        {"field": "median_rent", "type": "quantitative"}
+      ]
+    }
+  },
+  {"data": {
+    "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/output_smol.topojson",
+    "format": {
+          "type": "topojson",
+          "feature": "vic_localities"
+        }
+  },
+  "transform": [
+    {
+      "lookup": "properties.LOC_NAME",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/unit_rents_full.csv"
+        },
+        "key": "suburb",
+        "fields": ["median_rent"]
+      }
+    },
+    {"calculate": "datum.median_rent", "as": "median rent"},
+    {"calculate": "datum.p_type", "as": "prop_type"},
+    {"filter":"property_type=='unit'"}
+  ],
+  "projection": {
+    "type": "conicEqualArea",
+  
+    "parallels":[144,-38],
+    "center": [145,-38],
+    
+      "scale":10000
+  },
+  
+  "mark": {
+    "type": "geoshape"},
+  
+    
+  "encoding": {
+    "color": {
+      "field": "median rent",
+      
+      "type": "quantitative",
+      "scale":{"domain":[300,1000],
+      "range":["#0d0887","#9c179e","#ed7953","#f0f921"]
+      }
+    },
+    "tooltip": [
+      {"field": "properties.LOC_NAME", "type": "nominal", "title": "suburb"},
+      {"field": "median_rent", "type": "quantitative"}
+
+    ]
+  }
+  }
+    ]
+  }
+  
