@@ -1,0 +1,154 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Stock prices of 5 Tech Companies over Time.",
+    "title":"House Price Growth since 2009",
+    "width": 400,"height": 300,
+    "params": [
+        {"name":"property_type",  
+        "bind":
+        { "input":"select",
+        "options":[null,"U","H"],"labels":["all","units","houses"], "name":"Property Type Selection:"}
+      },
+      {"name":"Area",  
+        "bind":
+        { "input":"select",
+        "options":[null,"Banyule", "Bayside", "Boroondara", "Brimbank", "Cardinia","Casey", "Darebin", "Frankston", "Glen Eira", "Greater Dandenong","Hobsons Bay", "Hume", "Kingston", "Knox", "Manningham","Maribyrnong", "Maroondah", "Melbourne", "Melton", "Monash","Moonee Valley", "Moreland", "Mornington Peninsula", "Nillumbik","Port Phillip", "Stonnington", "Whitehorse", "Whittlesea","Wyndham", "Yarra", "Yarra Ranges"],
+        "labels":["Melbourne Regions","Banyule", "Bayside", "Boroondara", "Brimbank", "Cardinia","Casey", "Darebin", "Frankston", "Glen Eira", "Greater Dandenong","Hobsons Bay", "Hume", "Kingston", "Knox", "Manningham","Maribyrnong", "Maroondah", "Melbourne", "Melton", "Monash","Moonee Valley", "Moreland", "Mornington Peninsula", "Nillumbik","Port Phillip", "Stonnington", "Whitehorse", "Whittlesea","Wyndham", "Yarra", "Yarra Ranges"],
+        "name":"Area Selection:"}
+      }
+      ],
+    "layer" :[{
+    "data": {"url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/py_main.csv"},
+    "transform":[
+        {"calculate":"100 * datum.idx-100","as":"price growth since 2009"},
+        {"calculate":"100 * datum.idx-100","as":"pg"},
+        {"calculate":"if(datum.ptype=='U','Unit','House')", "as":"prop_type"},
+        {"filter":" datum.LGA=='Inner Melbourne'||datum.LGA=='Metropolitan Melbourne'||datum.LGA=='Outer Metropolitan'"},
+        {"filter":"property_type==null||datum.ptype==property_type"},
+        {"filter":"Area==null"}
+
+
+    ],
+    "mark": {"type": "line","point": true},
+    "encoding": {
+      "x": {"field": "year", "type": "temporal"},
+      "y": {"field": "price growth since 2009", "type": "quantitative","scale":{"domain":[0,120]},
+      "axis": {"labelExpr": "datum.label + '%'"}},
+
+      "color": {"field": "area", "type": "nominal","scale":{
+          "domain":["Inner Melbourne Units","Metropolitan Melbourne Units","Outer Metropolitan Units",
+            "Inner Melbourne Houses","Metropolitan Melbourne Houses","Outer Metropolitan Houses","House","Unit"],
+        "range":["black","black","black","red","green","red","grey","blue"]},"legend":null
+      },
+      "tooltip":[
+        {"field":"LGA","type":"nominal","title":"area"},
+        {"field":"prop_type","type":"nominal","title":"property type"},
+        {"field":"price","type":"quantitative","title":"median price"},
+        {"field":"pg","type":"quantitative","title":"percentage growth since 2009","format": ".1f"},
+        {"field":"year","type":"temporal","title":"year","timeUnit":"year"}
+      ]
+
+    }
+    },
+    {
+        "data": {"url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/py_main.csv"},
+        "transform":[
+            {"filter":"datum.LGA!='Inner Melbourne'&&datum.LGA!='Metropolitan Melbourne'&&datum.LGA!='Outer Metropolitan'"},
+            {"filter":"property_type==null||datum.ptype==property_type"},
+            {"calculate":"100 * datum.idx-100","as":"pg"},
+            {"calculate":"if(datum.ptype=='U','Unit','House')", "as":"prop_type"},
+            {"calculate":"100 * datum.idx-100","as":"price growth since 2009"},
+            {"filter":"Area==datum.LGA"}
+    
+        ],
+        "mark":{"type": "line","point": true},
+        "encoding": {
+          "x": {"field": "year", "type": "temporal"},
+          "y": {"field": "price growth since 2009", "type": "quantitative","scale":{"domain":[0,120]},
+          "axis": {"labelExpr": "datum.label + '%'"}},
+          
+    
+          "color": {"field": "prop_type", "type": "nominal","title":"area"},
+            
+      "tooltip":[
+        {"field":"LGA","type":"nominal","title":"area"},
+        {"field":"prop_type","type":"nominal","title":"property type"},
+        {"field":"price","type":"quantitative","title":"median price"},
+        {"field":"pg","type":"quantitative","title":"percentage growth since 2009","format": ".1f"},
+        {"field":"year","type":"temporal","title":"year","timeUnit":"year"}
+      ]
+        
+           
+            
+
+        }
+        },
+        {
+            "data": {"url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/py_main.csv"},
+            "transform":[
+                {"calculate":"100 * datum.idx-100","as":"price growth since 2009"},
+               
+                {"filter":" datum.LGA=='Inner Melbourne'||datum.LGA=='Metropolitan Melbourne'||datum.LGA=='Outer Metropolitan'"},
+                {"filter":"property_type==null||datum.ptype==property_type"},
+                {"filter":"Area==null"}
+            ],
+            "mark": {
+                "type": "text",
+                "align": "right",
+                "baseline": "middle",
+                "dx": -12,
+                "fontSize": 11.5,
+                "fontStyle": "italic"
+                },
+            "encoding": {
+                 "text": {"field": "area", "type": "nominal"},
+                 "color": {"value": "black"},
+                 "opacity": {
+                    "condition": {
+                    "test": {"field": "year", "equal": 2016,"timeUnit":"year"},
+                    "value": 1
+                    },
+                    "value": 0
+                    },
+                 "x": {"field": "year", "type": "temporal"},
+                 "y": {"field": "price growth since 2009", "type": "quantitative","scale":{"domain":[0,120]}
+                 }
+            }
+
+        },
+        {
+            "data": {"url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/py_main.csv"},
+            "transform":[
+                {"filter":"datum.LGA!='Inner Melbourne'&&datum.LGA!='Metropolitan Melbourne'&&datum.LGA!='Outer Metropolitan'"},
+                {"filter":"property_type==null||datum.ptype==property_type"},
+                {"calculate":"100 * datum.idx-100","as":"price growth since 2009"},
+                {"filter":"Area==datum.LGA"}
+            ],
+            "mark": {
+                "type": "text",
+                "align": "right",
+                "baseline": "middle",
+                "dx": -12,
+                "fontSize": 11.5,
+                "fontStyle": "italic"
+                },
+            "encoding": {
+                 "text": {"field": "area", "type": "nominal"},
+                 "color": {"value": "black"},
+                 "opacity": {
+                    "condition": {
+                    "test": {"field": "year", "equal": 2016,"timeUnit":"year"},
+                    "value": 1
+                    },
+                    "value": 0
+                    },
+                 "x": {"field": "year", "type": "temporal"},
+                 "y": {"field": "price growth since 2009", "type": "quantitative","scale":{"domain":[0,120]}
+                 }
+            }
+
+        }
+    ]
+  }
+
+

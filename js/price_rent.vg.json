@@ -34,6 +34,7 @@
                   {"calculate": "1.8*datum.Count", "as": "Count of rental properties"}],
       
     "mark": "circle",
+    
     "encoding": {
    
       "y": {
