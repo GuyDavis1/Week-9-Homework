@@ -1,0 +1,31 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    
+    "width": 600,
+    "height": 400,
+    "layer" :[{"data": {
+        "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/ovag.csv"
+      },
+      "transform": [
+            {"calculate":"100*datum['total_income']","as":"total income"},
+            {"filter":"datum['total income']<15"},
+            {"filter":"datum['total income']>2"},
+            {"calculate": "if(datum.ptype=='U','Unit','House')", "as":"prop_type"}
+      ],
+      
+      
+      "mark": "bar",
+    "encoding": {
+      "x": {"field": "total income","bin": {
+        "binned": true,
+        "step": 1,
+        "anchor": 3
+      },
+      "scale": {"domainMax":14,"domainMin":3},
+      "axis": {"labelExpr": "datum.label + '%'"}
+    },
+      "y": {"field": "Count","type": "quantitative","stack":null},
+      "color":{"field":"prop_type","title":"Property Type"},
+      "opacity": {"value": 0.5}
+      
+    }}]
+}

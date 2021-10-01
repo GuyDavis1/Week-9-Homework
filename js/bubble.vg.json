@@ -1,0 +1,43 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/suburb_overall.csv"
+    },
+    "width": 600,
+    "height": 400,
+    "transform": [
+        {"calculate": "100  * datum.yield","as":"rental_yield"},
+        {"calculate": "toString(100  * datum.yield)","as":"ry"},
+  
+        {"calculate": "if(datum.ptype=='U','Unit','House')", "as":"prop_type"}
+    ],
+    "mark": {
+      "type": "circle",
+      "opacity": 0.8,
+      "stroke": "black",
+      "strokeWidth": 1
+    },
+    "encoding": {
+      "x": {
+        "field": "price",
+        "type": "quantitative",
+        "axis": {"grid": false},
+        "scale": {"domainMax":3000000,"domainMin":200000,"type": "log","base":10}
+      },
+      "y": {"field": "rental_yield", "type": "quantitative", "axis": {"labelExpr": "datum.label + '%'"},
+        "title":"rental yield"},
+      "size": {
+        "field": "Count",
+        "type": "quantitative",
+        "title": "Count of investment properties",
+        "legend": {"clipHeight": 30},
+        "scale": {"rangeMax": 500}
+      },
+      "color": {"field": "prop_type", "type": "nominal","title":"Property Type"},
+      "tooltip":[
+          {"field":"suburb","type":"nominal","title":"Suburb"},
+          {"field":"ry","type":"quantitative","title":"% rental yield","format": ".1f"},
+          {"field":"price","type":"quantitative","title":"median price"}
+      ]
+    }
+  }
