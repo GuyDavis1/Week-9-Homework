@@ -1,0 +1,40 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "price growth vs rental yield by region",
+      "frame": "bounds"
+    },
+    "config": {
+        "axisY": {
+          "titleX": -2,
+          "titleY": 410,
+          "titleAngle": 0,
+          "titleAlign": "right",
+          "titleBaseline": "top"
+        }},
+    "width": 400,"height": 300,
+    "data": {
+      "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/tt.csv"
+    },
+    "transform": [
+        {"calculate":"datum.region+' '+if(datum.ptype=='U','Unit','House')+'s'","as":"rp"},
+        {"filter":"datum.variable!= 'total'"}
+    ],
+   
+    
+
+
+    "mark": {"type": "line", "orient": "vertical"},
+    "encoding": {
+      "x": {"field": "variable", "type": "nominal"},
+      "y": {"field": "value", "type": "quantitative"},
+      "color": {
+        "field": "rp", "type": "nominal",
+        "scale": {
+          "domain": ["Inner Melbourne Units","Outer Metropolitan Units","Metropolitan Melbourne Units","Inner Melbourne Houses","Outer Metropolitan Houses","Metropolitan Melbourne Houses"],
+          "range": ["black", "#127153", "#C91A3C", "#0C71AB","red","green"]
+          
+        }
+      }
+    }
+  }

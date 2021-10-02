@@ -1,0 +1,92 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Though Vega-Lite supports only one scale per axes, one can create a parallel coordinate plot by folding variables, using `joinaggregate` to normalize their values and using ticks and rules to manually create axes.",
+    "data": {
+      "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/tt.csv"
+    },
+    "title":"Price Growth vs Rental Yield by property type",
+    "width": 300,
+    "height": 300,
+    "transform": [
+        {"calculate":"datum.region+' '+if(datum.ptype=='U','Unit','House')+'s'","as":"rp"},
+        {"filter":"datum.variable!= 'total'"},
+        {"calculate":"datum.value*100","as":"pct"}
+      
+    ],
+    "layer": [ 
+        {
+            "mark": {"type": "rule", "color": "#000000"},
+            "encoding": {
+              "detail": {"aggregate": "count"},
+              "x": {"field": "variable"}
+            }},
+        
+        
+        
+        {
+      "mark": "line",
+      "encoding": {
+        "color": {"type": "nominal", "field": "rp","title":"Type of Property"},
+        "detail": {"type": "nominal", "field": "index"},
+        
+        "x": {"type": "nominal", "field": "variable"},
+        "y": {"type": "quantitative", "field": "pct", "axis": null,"scale":{"domain":[0,6]}},
+        "tooltip":[
+            {"field":"region","type":"nominal","title":"area"},
+            {"field":"pct","type":"quantitative","title":"% price growth","format": ".1f"},
+            {"field":"pct","type":"quantitative","title":"%rental yield","format": ".1f"}
+
+
+        ]
+      
+      }
+      
+    }, {
+      "encoding": {
+        "x": {"type": "nominal", "field": "variable"},
+        "y": {"value": 300}
+      },
+      "layer": [{
+        "mark": {"type": "text", "style": "label"},
+        "encoding": {
+          "text": {"value": "0%"}
+        }
+      }, {
+        "mark": {"type": "tick", "style": "tick", "size": 8, "color": "#000000"}
+      }]
+    }, {
+      "encoding": {
+        "x": {"type": "nominal", "field": "variable"},
+        "y": {"value": 150}
+      },
+      "layer": [{
+        "mark": {"type": "text", "style": "label"},
+        "encoding": {
+          "text":  {"value": "3%"}
+        }
+      }, {
+        "mark": {"type": "tick", "style": "tick", "size": 8, "color": "#000000"}
+      }]
+    }, {
+      "encoding": {
+        "x": {"type": "nominal", "field": "variable"},
+        "y": {"value": 0}
+      },
+      "layer": [{
+        "mark": {"type": "text", "style": "label"},
+        "encoding": {
+          "text": {"value": "6%"}
+        }
+      }, {
+        "mark": {"type": "tick", "style": "tick", "size": 8, "color": "#000000"}
+      }]
+    }],
+    "config": {
+      "axisX": {"domain": false, "labelAngle": 0, "tickColor": "#000000", "title": null},
+      "view": {"stroke": null},
+      "style": {
+        "label": {"baseline": "middle", "align": "right", "dx": -5},
+        "tick": {"orient": "horizontal"}
+      }
+    }
+  }

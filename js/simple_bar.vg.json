@@ -1,0 +1,21 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 200,
+    "height": 100,
+    "data": {
+
+
+        "values": [
+            {"ptype": "Houses","own_type":"Investor ", "count": 262412},
+            {"ptype": "Units","own_type":"Investor ", "count": 133689},
+            {"ptype": "Houses","own_type":"Resident ", "count": 1069628},
+            {"ptype": "Units","own_type":"Resident ", "count": 97607}
+          ]
+    },
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "count","type":"quantitative"},
+      "y": {"field": "ptype","type":"nominal","title":"property type"},
+      "color": {"field": "own_type","title":"Ownership Type"}
+    }
+  }
