@@ -3,12 +3,18 @@
     "data": {
       "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/suburb_overall.csv"
     },
-    "width": 600,
-    "height": 400,
+    "width": 300,
+    "height": 200,
+    "params": [
+      {"name":"property_type",  
+      "bind":
+      { "input":"select",
+      "options":[null,"U","H"],"labels":["all","units","houses"], "name":"Property Type Selection:"}
+    }],
     "transform": [
         {"calculate": "100  * datum.yield","as":"rental_yield"},
         {"calculate": "toString(100  * datum.yield)","as":"ry"},
-  
+        {"filter":"property_type==null||datum.ptype==property_type"},
         {"calculate": "if(datum.ptype=='U','Unit','House')", "as":"prop_type"}
     ],
     "mark": {
@@ -25,6 +31,7 @@
         "scale": {"domainMax":3000000,"domainMin":200000,"type": "log","base":10}
       },
       "y": {"field": "rental_yield", "type": "quantitative", "axis": {"labelExpr": "datum.label + '%'"},
+      "scale":{"domainMax":7,"domainMin":1},
         "title":"rental yield"},
       "size": {
         "field": "Count",

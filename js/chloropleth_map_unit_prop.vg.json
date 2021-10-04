@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "2021 Median Rent by suburb",
-  "width": 200,
-  "height": 200,
+  "title": "2021 Median Melbourne Price Map by Suburb",
+  "width": 250,
+  "height": 225,
   "params": [
     {"name":"property_type",
     
@@ -31,7 +31,7 @@
       "type": "conicEqualArea",
       "parallels":[144,-38],
       "center": [145,-38],
-      "scale":10000
+      "scale":15000
       
    
     },
@@ -67,7 +67,7 @@
     "parallels":[144,-38],
     "center": [145,-38],
     
-      "scale":10000
+      "scale":15000
   },
 
   "mark": {
@@ -118,7 +118,7 @@
   "parallels":[144,-38],
   "center": [145,-38],
   
-    "scale":10000
+    "scale":15000
 },
 
 "mark": {

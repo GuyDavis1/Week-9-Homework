@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Stock prices of 5 Tech Companies over Time.",
+
     "title":"House Price Growth since 2009",
-    "width": 400,"height": 300,
+    "width": 300,"height": 200,
     "params": [
         {"name":"property_type",  
         "bind":
@@ -18,7 +18,10 @@
       }
       ],
     "layer" :[{
-    "data": {"url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/py_main.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/py_main.csv"
+  
+  
+  },
     "transform":[
         {"calculate":"100 * datum.idx-100","as":"price growth since 2009"},
         {"calculate":"100 * datum.idx-100","as":"pg"},
@@ -87,16 +90,16 @@
             "data": {"url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/py_main.csv"},
             "transform":[
                 {"calculate":"100 * datum.idx-100","as":"price growth since 2009"},
-               
+                {"calculate":"100 * datum.idx-100+if(datum.area=='Outer Metropolitan Houses',+2,0)+if(datum.area=='Metropolitan Melbourne Units',-2,0)+if(datum.area=='Inner Melbourne Houses',-4,0)","as":"pg_altered"},
                 {"filter":" datum.LGA=='Inner Melbourne'||datum.LGA=='Metropolitan Melbourne'||datum.LGA=='Outer Metropolitan'"},
                 {"filter":"property_type==null||datum.ptype==property_type"},
                 {"filter":"Area==null"}
             ],
             "mark": {
                 "type": "text",
-                "align": "right",
+                "align": "left",
                 "baseline": "middle",
-                "dx": -12,
+                "dx":5,
                 "fontSize": 11.5,
                 "fontStyle": "italic"
                 },
@@ -105,13 +108,13 @@
                  "color": {"value": "black"},
                  "opacity": {
                     "condition": {
-                    "test": {"field": "year", "equal": 2016,"timeUnit":"year"},
+                    "test": {"field": "year", "equal": 2019,"timeUnit":"year"},
                     "value": 1
                     },
                     "value": 0
                     },
                  "x": {"field": "year", "type": "temporal"},
-                 "y": {"field": "price growth since 2009", "type": "quantitative","scale":{"domain":[0,120]}
+                 "y": {"field":"pg_altered","title": "price growth since 2009", "type": "quantitative","scale":{"domain":[0,120]}
                  }
             }
 
@@ -126,9 +129,9 @@
             ],
             "mark": {
                 "type": "text",
-                "align": "right",
+                "align": "left",
                 "baseline": "middle",
-                "dx": -12,
+                "dx": 5,
                 "fontSize": 11.5,
                 "fontStyle": "italic"
                 },
@@ -137,7 +140,7 @@
                  "color": {"value": "black"},
                  "opacity": {
                     "condition": {
-                    "test": {"field": "year", "equal": 2016,"timeUnit":"year"},
+                    "test": {"field": "year", "equal": 2019,"timeUnit":"year"},
                     "value": 1
                     },
                     "value": 0
