@@ -10,36 +10,41 @@
 
 h1 {
 	font-size: 3em; /* 30px/16=1.875em */
+  text-align: center;
+
   }
   h2 {
 	font-size: 2em; /* 30px/16=1.875em */
+  text-align: center;
+  background-color: rgb(235, 155, 255);
   }
   h3 {
 	font-size: 1em; /* 30px/16=1.875em */
   }
 
 .vis-container {
-    width: 100%;
+    width: 10%;
 }
 
 .pure-g {
-    margin-bottom: 25px;
+    margin-bottom: 0px;
 }
 
 .description-right {
-    padding-left: 20px;
+    padding-left: 0px;
 }
 
 .description-left {
-    padding-right: 20px;
+    padding-right: 0px;
 }
 
 .page {
     width: 750px;
-    background-color: white;
+    background-color: rgb(247, 231, 252);
     margin: auto;
     padding: 50px;
-    padding-top: 35px;
+    padding-top: 00px;
+    padding-bottom: 00px;
 }
 
 

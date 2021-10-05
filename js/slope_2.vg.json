@@ -5,8 +5,8 @@
       "url": "https://raw.githubusercontent.com/GuyDavis1/Week-9-Homework/main/data/tt.csv"
     },
     "title":"Price Growth vs Rental Yield by property type",
-    "width": 300,
-    "height": 300,
+    "width": 200,
+    "height": 200,
     "transform": [
         {"calculate":"datum.region+' '+if(datum.ptype=='U','Unit','House')+'s'","as":"rp"},
         {"filter":"datum.variable!= 'total'"},
@@ -44,7 +44,7 @@
     }, {
       "encoding": {
         "x": {"type": "nominal", "field": "variable"},
-        "y": {"value": 300}
+        "y": {"value": 200}
       },
       "layer": [{
         "mark": {"type": "text", "style": "label"},
@@ -57,7 +57,7 @@
     }, {
       "encoding": {
         "x": {"type": "nominal", "field": "variable"},
-        "y": {"value": 150}
+        "y": {"value": 100}
       },
       "layer": [{
         "mark": {"type": "text", "style": "label"},
