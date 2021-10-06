@@ -1,9 +1,21 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "2021 Median Melbourne Price Map by Suburb",
-  "width": 250,
-  "height": 225,
+  "width": 350,
+  "height": 275,
   "params": [
+    {
+      "name": "zoom_level",
+      "value": 15000,
+      "bind": {
+      "input": "range",
+      "min": 15000,
+      "max": 25000,
+      "step": 100,
+      "name": "Zoom: "
+      }},
+    
+    
     {"name":"property_type",
     
   
@@ -12,6 +24,8 @@
     { "input":"select",
     
     "options":[null,"unit"],"labels":["house","unit"], "name":"Property Type Selection:"}
+
+   
   }
   ],
   "layer" : [ {
@@ -31,7 +45,8 @@
       "type": "conicEqualArea",
       "parallels":[144,-38],
       "center": [145,-38],
-      "scale":15000
+      "scale":{"expr":"zoom_level"}
+
       
    
     },
@@ -67,7 +82,8 @@
     "parallels":[144,-38],
     "center": [145,-38],
     
-      "scale":15000
+      "scale":{"expr":"zoom_level"}
+
   },
 
   "mark": {
@@ -118,7 +134,7 @@
   "parallels":[144,-38],
   "center": [145,-38],
   
-    "scale":15000
+    "scale":{"expr":"zoom_level"}
 },
 
 "mark": {
